@@ -1,2 +1,3 @@
 # Juliet-Test-Suite-Cpp
 A collection of test cases in the C/C++ language. It contains examples organized under 118 different CWEs. Version 1.3 adds test cases for increment and decrement and fixes some dozen systematic problems in 1.2 cases.
+This is just a copy of the testcases developed by NIST, available here: https://samate.nist.gov/SARD/test-suites/112 
