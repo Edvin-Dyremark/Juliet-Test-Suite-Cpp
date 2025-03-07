@@ -1,0 +1,1057 @@
+STDOUT:
+scan-build: Using '/usr/lib/llvm-18/bin/clang' for static analysis
+[  0%] Building C object CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c.o
+[  0%] Building C object CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c.o
+[  0%] Built target copy-run-script
+[  1%] Linking C static library /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/support/libsupport.a
+[  1%] Built target support
+[  1%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_01-good.dir/CWE123_Write_What_Where_Condition__connect_socket_01.c.o
+[  1%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_01-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_01.c.o
+[  1%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_02-good.dir/CWE123_Write_What_Where_Condition__connect_socket_02.c.o
+[  1%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_03-good.dir/CWE123_Write_What_Where_Condition__connect_socket_03.c.o
+[  1%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_02-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_02.c.o
+[  1%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_03-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_03.c.o
+[  1%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_05-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_05.c.o
+[  1%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_04-good.dir/CWE123_Write_What_Where_Condition__connect_socket_04.c.o
+[  2%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_06-good.dir/CWE123_Write_What_Where_Condition__connect_socket_06.c.o
+[  2%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_04-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_04.c.o
+[  2%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_05-good.dir/CWE123_Write_What_Where_Condition__connect_socket_05.c.o
+[  2%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_06-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_06.c.o
+[  2%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_07-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_07.c.o
+[  2%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_08-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_08.c.o
+[  2%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_07-good.dir/CWE123_Write_What_Where_Condition__connect_socket_07.c.o
+[  3%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_08-good.dir/CWE123_Write_What_Where_Condition__connect_socket_08.c.o
+[  3%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_03-good
+[  4%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_02-good
+[  4%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_06-good
+[  4%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_01-good
+[  4%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_05-bad
+[  4%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_07-bad
+[  5%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_02-bad
+[  5%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_04-good
+[  5%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_03-bad
+[  5%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_01-bad
+[  5%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_04-bad
+[  5%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_07-good
+[  5%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_08-bad
+[  5%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_06-bad
+[  5%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_05-good
+[  5%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_08-good
+[  5%] Built target CWE123_Write_What_Where_Condition__connect_socket_02-good
+[  5%] Built target CWE123_Write_What_Where_Condition__connect_socket_01-good
+[  5%] Built target CWE123_Write_What_Where_Condition__connect_socket_03-good
+[  5%] Built target CWE123_Write_What_Where_Condition__connect_socket_06-good
+[  5%] Built target CWE123_Write_What_Where_Condition__connect_socket_04-good
+[  5%] Built target CWE123_Write_What_Where_Condition__connect_socket_07-bad
+[  5%] Built target CWE123_Write_What_Where_Condition__connect_socket_02-bad
+[  5%] Built target CWE123_Write_What_Where_Condition__connect_socket_01-bad
+[  5%] Built target CWE123_Write_What_Where_Condition__connect_socket_03-bad
+[  5%] Built target CWE123_Write_What_Where_Condition__connect_socket_05-bad
+[  5%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_09-good.dir/CWE123_Write_What_Where_Condition__connect_socket_09.c.o
+[  5%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_10-good.dir/CWE123_Write_What_Where_Condition__connect_socket_10.c.o
+[  5%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_09-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_09.c.o
+[  5%] Built target CWE123_Write_What_Where_Condition__connect_socket_07-good
+[  5%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_10-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_10.c.o
+[  5%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_11-good.dir/CWE123_Write_What_Where_Condition__connect_socket_11.c.o
+[  5%] Built target CWE123_Write_What_Where_Condition__connect_socket_08-bad
+[  5%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_11-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_11.c.o
+[  5%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_12-good.dir/CWE123_Write_What_Where_Condition__connect_socket_12.c.o
+[  5%] Built target CWE123_Write_What_Where_Condition__connect_socket_05-good
+[  5%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_13-good.dir/CWE123_Write_What_Where_Condition__connect_socket_13.c.o
+[  5%] Built target CWE123_Write_What_Where_Condition__connect_socket_06-bad
+[  5%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_12-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_12.c.o
+[  5%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_13-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_13.c.o
+[  5%] Built target CWE123_Write_What_Where_Condition__connect_socket_04-bad
+[  5%] Built target CWE123_Write_What_Where_Condition__connect_socket_08-good
+[  5%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_14-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_14.c.o
+[  5%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_14-good.dir/CWE123_Write_What_Where_Condition__connect_socket_14.c.o
+[  5%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_15-good.dir/CWE123_Write_What_Where_Condition__connect_socket_15.c.o
+[  5%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_10-good
+[  5%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_11-bad
+[  5%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_09-good
+[  5%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_16-good.dir/CWE123_Write_What_Where_Condition__connect_socket_16.c.o
+[  5%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_09-bad
+[  5%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_13-good
+[  5%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_12-good
+[  5%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_11-good
+[  6%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_12-bad
+[  6%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_15-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_15.c.o
+[  7%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_16-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_16.c.o
+[  8%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_10-bad
+[  8%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_13-bad
+[  8%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_14-good
+[  8%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_15-good
+[  9%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_14-bad
+[  9%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_16-good
+[  9%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_15-bad
+[  9%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_16-bad
+[  9%] Built target CWE123_Write_What_Where_Condition__connect_socket_11-good
+[  9%] Built target CWE123_Write_What_Where_Condition__connect_socket_09-good
+[  9%] Built target CWE123_Write_What_Where_Condition__connect_socket_12-good
+[  9%] Built target CWE123_Write_What_Where_Condition__connect_socket_10-bad
+[  9%] Built target CWE123_Write_What_Where_Condition__connect_socket_13-good
+[  9%] Built target CWE123_Write_What_Where_Condition__connect_socket_09-bad
+[  9%] Built target CWE123_Write_What_Where_Condition__connect_socket_12-bad
+[  9%] Built target CWE123_Write_What_Where_Condition__connect_socket_11-bad
+[  9%] Built target CWE123_Write_What_Where_Condition__connect_socket_10-good
+[  9%] Built target CWE123_Write_What_Where_Condition__connect_socket_13-bad
+[  9%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_17-good.dir/CWE123_Write_What_Where_Condition__connect_socket_17.c.o
+[  9%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_17-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_17.c.o
+[ 10%] Built target CWE123_Write_What_Where_Condition__connect_socket_15-good
+[ 10%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_18-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_18.c.o
+[ 10%] Built target CWE123_Write_What_Where_Condition__connect_socket_14-good
+[ 10%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_21-good.dir/CWE123_Write_What_Where_Condition__connect_socket_21.c.o
+[ 10%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_22-good.dir/CWE123_Write_What_Where_Condition__connect_socket_22a.c.o
+[ 10%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_21-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_21.c.o
+[ 10%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_18-good.dir/CWE123_Write_What_Where_Condition__connect_socket_18.c.o
+[ 10%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_31-good.dir/CWE123_Write_What_Where_Condition__connect_socket_31.c.o
+[ 10%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_31-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_31.c.o
+[ 10%] Built target CWE123_Write_What_Where_Condition__connect_socket_14-bad
+[ 10%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_22-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_22a.c.o
+[ 10%] Built target CWE123_Write_What_Where_Condition__connect_socket_16-good
+[ 10%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_32-good.dir/CWE123_Write_What_Where_Condition__connect_socket_32.c.o
+[ 10%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_32-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_32.c.o
+[ 10%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_33-good.dir/CWE123_Write_What_Where_Condition__connect_socket_33.cpp.o
+[ 10%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_33-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_33.cpp.o
+[ 10%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_21-bad
+[ 10%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_17-good
+[ 11%] Built target CWE123_Write_What_Where_Condition__connect_socket_15-bad
+[ 11%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_31-bad
+[ 12%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_17-bad
+[ 12%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_21-good
+[ 12%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_18-bad
+[ 12%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_18-good
+[ 12%] Built target CWE123_Write_What_Where_Condition__connect_socket_16-bad
+[ 12%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_22-good.dir/CWE123_Write_What_Where_Condition__connect_socket_22b.c.o
+[ 12%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_22-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_22b.c.o
+[ 12%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_32-good
+[ 12%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_31-good
+[ 12%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_34-good.dir/CWE123_Write_What_Where_Condition__connect_socket_34.c.o
+[ 12%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_34-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_34.c.o
+[ 12%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_32-bad
+[ 13%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_33-bad
+[ 13%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_22-good
+[ 13%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_33-good
+[ 13%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_22-bad
+[ 13%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_34-bad
+[ 13%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_34-good
+[ 13%] Built target CWE123_Write_What_Where_Condition__connect_socket_21-bad
+[ 13%] Built target CWE123_Write_What_Where_Condition__connect_socket_31-bad
+[ 13%] Built target CWE123_Write_What_Where_Condition__connect_socket_17-bad
+[ 13%] Built target CWE123_Write_What_Where_Condition__connect_socket_18-bad
+[ 13%] Built target CWE123_Write_What_Where_Condition__connect_socket_18-good
+[ 13%] Built target CWE123_Write_What_Where_Condition__connect_socket_17-good
+[ 13%] Built target CWE123_Write_What_Where_Condition__connect_socket_21-good
+[ 13%] Built target CWE123_Write_What_Where_Condition__connect_socket_31-good
+[ 14%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_41-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_41.c.o
+[ 14%] Built target CWE123_Write_What_Where_Condition__connect_socket_32-good
+[ 14%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_41-good.dir/CWE123_Write_What_Where_Condition__connect_socket_41.c.o
+[ 14%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_42-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_42.c.o
+[ 14%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_42-good.dir/CWE123_Write_What_Where_Condition__connect_socket_42.c.o
+[ 14%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_43-good.dir/CWE123_Write_What_Where_Condition__connect_socket_43.cpp.o
+[ 14%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_44-good.dir/CWE123_Write_What_Where_Condition__connect_socket_44.c.o
+[ 14%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_44-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_44.c.o
+[ 14%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_45-good.dir/CWE123_Write_What_Where_Condition__connect_socket_45.c.o
+[ 15%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_43-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_43.cpp.o
+[ 15%] Built target CWE123_Write_What_Where_Condition__connect_socket_32-bad
+[ 15%] Built target CWE123_Write_What_Where_Condition__connect_socket_22-good
+[ 15%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_41-bad
+[ 15%] Built target CWE123_Write_What_Where_Condition__connect_socket_33-good
+[ 15%] Built target CWE123_Write_What_Where_Condition__connect_socket_33-bad
+[ 15%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_45-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_45.c.o
+[ 15%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_41-good
+[ 15%] Built target CWE123_Write_What_Where_Condition__connect_socket_22-bad
+[ 15%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_42-good
+[ 15%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_43-good
+[ 15%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_42-bad
+[ 16%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_51-good.dir/CWE123_Write_What_Where_Condition__connect_socket_51a.c.o
+[ 16%] Built target CWE123_Write_What_Where_Condition__connect_socket_34-good
+[ 16%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_44-bad
+[ 16%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_45-good
+[ 16%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_51-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_51a.c.o
+[ 16%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_52-good.dir/CWE123_Write_What_Where_Condition__connect_socket_52a.c.o
+[ 17%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_44-good
+[ 17%] Built target CWE123_Write_What_Where_Condition__connect_socket_34-bad
+[ 17%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_52-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_52a.c.o
+[ 17%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_53-good.dir/CWE123_Write_What_Where_Condition__connect_socket_53a.c.o
+[ 17%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_43-bad
+[ 17%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_53-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_53a.c.o
+[ 17%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_45-bad
+[ 17%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_51-good.dir/CWE123_Write_What_Where_Condition__connect_socket_51b.c.o
+[ 17%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_52-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_52b.c.o
+[ 17%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_51-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_51b.c.o
+[ 18%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_52-good.dir/CWE123_Write_What_Where_Condition__connect_socket_52b.c.o
+[ 18%] Built target CWE123_Write_What_Where_Condition__connect_socket_41-bad
+[ 18%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_53-good.dir/CWE123_Write_What_Where_Condition__connect_socket_53b.c.o
+[ 18%] Built target CWE123_Write_What_Where_Condition__connect_socket_42-bad
+[ 18%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_53-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_53b.c.o
+[ 18%] Built target CWE123_Write_What_Where_Condition__connect_socket_42-good
+[ 18%] Built target CWE123_Write_What_Where_Condition__connect_socket_41-good
+[ 18%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_53-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_53c.c.o
+[ 18%] Built target CWE123_Write_What_Where_Condition__connect_socket_44-bad
+[ 18%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_53-good.dir/CWE123_Write_What_Where_Condition__connect_socket_53c.c.o
+[ 18%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_51-good
+[ 18%] Built target CWE123_Write_What_Where_Condition__connect_socket_43-good
+[ 18%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_52-good.dir/CWE123_Write_What_Where_Condition__connect_socket_52c.c.o
+[ 18%] Built target CWE123_Write_What_Where_Condition__connect_socket_44-good
+[ 18%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_51-bad
+[ 18%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_54-good.dir/CWE123_Write_What_Where_Condition__connect_socket_54a.c.o
+[ 18%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_54-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_54a.c.o
+[ 18%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_54-good.dir/CWE123_Write_What_Where_Condition__connect_socket_54b.c.o
+[ 18%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_54-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_54b.c.o
+[ 18%] Built target CWE123_Write_What_Where_Condition__connect_socket_43-bad
+[ 18%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_52-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_52c.c.o
+[ 18%] Built target CWE123_Write_What_Where_Condition__connect_socket_45-good
+[ 19%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_61-good.dir/CWE123_Write_What_Where_Condition__connect_socket_61a.c.o
+[ 19%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_54-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_54c.c.o
+[ 19%] Built target CWE123_Write_What_Where_Condition__connect_socket_45-bad
+[ 19%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_53-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_53d.c.o
+[ 19%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_53-good.dir/CWE123_Write_What_Where_Condition__connect_socket_53d.c.o
+[ 19%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_61-good.dir/CWE123_Write_What_Where_Condition__connect_socket_61b.c.o
+[ 19%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_54-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_54d.c.o
+[ 19%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_52-good
+[ 19%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_54-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_54e.c.o
+[ 19%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_61-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_61b.c.o
+[ 19%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_54-good.dir/CWE123_Write_What_Where_Condition__connect_socket_54c.c.o
+[ 19%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_61-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_61a.c.o
+[ 20%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_54-good.dir/CWE123_Write_What_Where_Condition__connect_socket_54d.c.o
+[ 20%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_54-good.dir/CWE123_Write_What_Where_Condition__connect_socket_54e.c.o
+[ 20%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_52-bad
+[ 20%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_62-good.dir/CWE123_Write_What_Where_Condition__connect_socket_62a.cpp.o
+[ 21%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_53-bad
+[ 21%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_53-good
+[ 22%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_61-good
+[ 22%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_62-good.dir/CWE123_Write_What_Where_Condition__connect_socket_62b.cpp.o
+[ 22%] Built target CWE123_Write_What_Where_Condition__connect_socket_51-good
+[ 22%] Built target CWE123_Write_What_Where_Condition__connect_socket_51-bad
+[ 22%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_54-good
+[ 22%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_61-bad
+[ 22%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_62-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_62a.cpp.o
+[ 22%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_54-bad
+[ 22%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_64-good.dir/CWE123_Write_What_Where_Condition__connect_socket_64a.c.o
+[ 22%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_63-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_63a.c.o
+[ 22%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_64-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_64a.c.o
+[ 22%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_63-good.dir/CWE123_Write_What_Where_Condition__connect_socket_63a.c.o
+[ 22%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_65-good.dir/CWE123_Write_What_Where_Condition__connect_socket_65a.c.o
+[ 22%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_64-good.dir/CWE123_Write_What_Where_Condition__connect_socket_64b.c.o
+[ 22%] Built target CWE123_Write_What_Where_Condition__connect_socket_52-good
+[ 23%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_63-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_63b.c.o
+[ 23%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_62-good
+[ 23%] Built target CWE123_Write_What_Where_Condition__connect_socket_52-bad
+[ 23%] Built target CWE123_Write_What_Where_Condition__connect_socket_53-good
+[ 24%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_65-good.dir/CWE123_Write_What_Where_Condition__connect_socket_65b.c.o
+[ 24%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_63-good.dir/CWE123_Write_What_Where_Condition__connect_socket_63b.c.o
+[ 24%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_64-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_64b.c.o
+[ 24%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_62-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_62b.cpp.o
+[ 24%] Built target CWE123_Write_What_Where_Condition__connect_socket_53-bad
+[ 24%] Built target CWE123_Write_What_Where_Condition__connect_socket_61-good
+[ 24%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_66-good.dir/CWE123_Write_What_Where_Condition__connect_socket_66a.c.o
+[ 24%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_64-good
+[ 24%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_66-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_66a.c.o
+[ 24%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_65-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_65a.c.o
+[ 24%] Built target CWE123_Write_What_Where_Condition__connect_socket_61-bad
+[ 24%] Built target CWE123_Write_What_Where_Condition__connect_socket_54-good
+[ 24%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_63-bad
+[ 24%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_67-good.dir/CWE123_Write_What_Where_Condition__connect_socket_67b.c.o
+[ 24%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_67-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_67a.c.o
+[ 24%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_66-good.dir/CWE123_Write_What_Where_Condition__connect_socket_66b.c.o
+[ 24%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_67-good.dir/CWE123_Write_What_Where_Condition__connect_socket_67a.c.o
+[ 24%] Built target CWE123_Write_What_Where_Condition__connect_socket_54-bad
+[ 24%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_63-good
+[ 24%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_67-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_67b.c.o
+[ 24%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_65-good
+[ 24%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_68-good.dir/CWE123_Write_What_Where_Condition__connect_socket_68a.c.o
+[ 25%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_64-bad
+[ 25%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_66-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_66b.c.o
+[ 25%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_68-good.dir/CWE123_Write_What_Where_Condition__connect_socket_68b.c.o
+[ 25%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_62-bad
+[ 25%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_65-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_65b.c.o
+[ 26%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_66-good
+[ 26%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_67-good
+[ 27%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_72-good.dir/CWE123_Write_What_Where_Condition__connect_socket_72a.cpp.o
+[ 27%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_68-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_68a.c.o
+[ 27%] Built target CWE123_Write_What_Where_Condition__connect_socket_62-good
+[ 27%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_68-good
+[ 27%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_67-bad
+[ 27%] Built target CWE123_Write_What_Where_Condition__connect_socket_63-bad
+[ 27%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_66-bad
+[ 27%] Built target CWE123_Write_What_Where_Condition__connect_socket_64-good
+[ 27%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_72-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_72a.cpp.o
+[ 27%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_65-bad
+[ 27%] Built target CWE123_Write_What_Where_Condition__connect_socket_65-good
+[ 27%] Built target CWE123_Write_What_Where_Condition__connect_socket_64-bad
+[ 27%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_73-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_73a.cpp.o
+[ 27%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_73-good.dir/CWE123_Write_What_Where_Condition__connect_socket_73a.cpp.o
+[ 27%] Built target CWE123_Write_What_Where_Condition__connect_socket_63-good
+[ 28%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_73-good.dir/CWE123_Write_What_Where_Condition__connect_socket_73b.cpp.o
+[ 28%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_74-good.dir/CWE123_Write_What_Where_Condition__connect_socket_74a.cpp.o
+[ 29%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_68-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_68b.c.o
+[ 29%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_74-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_74a.cpp.o
+[ 29%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_81-good.dir/CWE123_Write_What_Where_Condition__connect_socket_81_bad.cpp.o
+[ 29%] Built target CWE123_Write_What_Where_Condition__connect_socket_67-good
+[ 29%] Built target CWE123_Write_What_Where_Condition__connect_socket_66-good
+[ 29%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_72-good.dir/CWE123_Write_What_Where_Condition__connect_socket_72b.cpp.o
+[ 29%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_74-good.dir/CWE123_Write_What_Where_Condition__connect_socket_74b.cpp.o
+[ 29%] Built target CWE123_Write_What_Where_Condition__connect_socket_62-bad
+[ 29%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_81-good.dir/CWE123_Write_What_Where_Condition__connect_socket_81_goodG2B.cpp.o
+[ 29%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_68-bad
+[ 29%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_74-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_74b.cpp.o
+[ 29%] Built target CWE123_Write_What_Where_Condition__connect_socket_67-bad
+[ 29%] Built target CWE123_Write_What_Where_Condition__connect_socket_65-bad
+[ 29%] Built target CWE123_Write_What_Where_Condition__connect_socket_66-bad
+[ 29%] Built target CWE123_Write_What_Where_Condition__connect_socket_68-good
+[ 29%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_72-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_72b.cpp.o
+[ 29%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_81-good.dir/CWE123_Write_What_Where_Condition__connect_socket_81a.cpp.o
+[ 30%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_81-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_81_bad.cpp.o
+[ 30%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_82-good.dir/CWE123_Write_What_Where_Condition__connect_socket_82_bad.cpp.o
+[ 30%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_82-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_82_bad.cpp.o
+[ 30%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_82-good.dir/CWE123_Write_What_Where_Condition__connect_socket_82_goodG2B.cpp.o
+[ 30%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_82-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_82_goodG2B.cpp.o
+[ 30%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_81-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_81a.cpp.o
+[ 31%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_81-good
+[ 31%] Built target CWE123_Write_What_Where_Condition__connect_socket_68-bad
+[ 31%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_73-good
+[ 31%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_81-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_81_goodG2B.cpp.o
+[ 31%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_83-good.dir/CWE123_Write_What_Where_Condition__connect_socket_83_bad.cpp.o
+[ 31%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_82-good.dir/CWE123_Write_What_Where_Condition__connect_socket_82a.cpp.o
+[ 31%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_82-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_82a.cpp.o
+[ 31%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_83-good.dir/CWE123_Write_What_Where_Condition__connect_socket_83_goodG2B.cpp.o
+[ 31%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_83-good.dir/CWE123_Write_What_Where_Condition__connect_socket_83a.cpp.o
+[ 31%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_73-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_73b.cpp.o
+[ 31%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_72-good
+[ 31%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_84-good.dir/CWE123_Write_What_Where_Condition__connect_socket_84_bad.cpp.o
+[ 31%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_83-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_83_bad.cpp.o
+[ 31%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_81-bad
+[ 31%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_72-bad
+[ 31%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_84-good.dir/CWE123_Write_What_Where_Condition__connect_socket_84_goodG2B.cpp.o
+[ 32%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_84-good.dir/CWE123_Write_What_Where_Condition__connect_socket_84a.cpp.o
+[ 32%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_83-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_83_goodG2B.cpp.o
+[ 33%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_82-bad
+[ 33%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_82-good
+[ 34%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_83-good
+[ 34%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_83-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_83a.cpp.o
+[ 34%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_74-good
+[ 34%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_74-bad
+[ 34%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_84-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_84_bad.cpp.o
+[ 34%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__connect_socket_84-good
+[ 34%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_84-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_84_goodG2B.cpp.o
+[ 34%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_01-good.dir/CWE123_Write_What_Where_Condition__fgets_01.c.o
+[ 34%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_83-bad
+[ 34%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__connect_socket_84-bad.dir/CWE123_Write_What_Where_Condition__connect_socket_84a.cpp.o
+[ 34%] Built target CWE123_Write_What_Where_Condition__connect_socket_81-good
+[ 34%] Built target CWE123_Write_What_Where_Condition__connect_socket_73-good
+[ 34%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_01-bad.dir/CWE123_Write_What_Where_Condition__fgets_01.c.o
+[ 34%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_73-bad
+[ 34%] Built target CWE123_Write_What_Where_Condition__connect_socket_83-good
+[ 35%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_02-good.dir/CWE123_Write_What_Where_Condition__fgets_02.c.o
+[ 35%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_01-good
+[ 35%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_02-bad.dir/CWE123_Write_What_Where_Condition__fgets_02.c.o
+[ 35%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__connect_socket_84-bad
+[ 35%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_03-good.dir/CWE123_Write_What_Where_Condition__fgets_03.c.o
+[ 35%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_01-bad
+[ 35%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_02-good
+[ 35%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_02-bad
+[ 35%] Built target CWE123_Write_What_Where_Condition__connect_socket_81-bad
+[ 35%] Built target CWE123_Write_What_Where_Condition__connect_socket_82-good
+[ 35%] Built target CWE123_Write_What_Where_Condition__connect_socket_82-bad
+[ 35%] Built target CWE123_Write_What_Where_Condition__connect_socket_72-bad
+[ 35%] Built target CWE123_Write_What_Where_Condition__connect_socket_83-bad
+[ 35%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_03-good
+[ 35%] Built target CWE123_Write_What_Where_Condition__connect_socket_72-good
+[ 35%] Built target CWE123_Write_What_Where_Condition__connect_socket_74-good
+[ 35%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_03-bad.dir/CWE123_Write_What_Where_Condition__fgets_03.c.o
+[ 35%] Built target CWE123_Write_What_Where_Condition__connect_socket_74-bad
+[ 35%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_04-good.dir/CWE123_Write_What_Where_Condition__fgets_04.c.o
+[ 35%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_04-bad.dir/CWE123_Write_What_Where_Condition__fgets_04.c.o
+[ 35%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_05-good.dir/CWE123_Write_What_Where_Condition__fgets_05.c.o
+[ 35%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_05-bad.dir/CWE123_Write_What_Where_Condition__fgets_05.c.o
+[ 35%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_06-good.dir/CWE123_Write_What_Where_Condition__fgets_06.c.o
+[ 35%] Built target CWE123_Write_What_Where_Condition__connect_socket_84-good
+[ 35%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_06-bad.dir/CWE123_Write_What_Where_Condition__fgets_06.c.o
+[ 35%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_07-good.dir/CWE123_Write_What_Where_Condition__fgets_07.c.o
+[ 35%] Built target CWE123_Write_What_Where_Condition__fgets_01-good
+[ 35%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_04-good
+[ 35%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_07-bad.dir/CWE123_Write_What_Where_Condition__fgets_07.c.o
+[ 35%] Built target CWE123_Write_What_Where_Condition__fgets_02-good
+[ 35%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_05-good
+[ 36%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_03-bad
+[ 36%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_04-bad
+[ 36%] Built target CWE123_Write_What_Where_Condition__fgets_01-bad
+[ 36%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_06-good
+[ 36%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_05-bad
+[ 36%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_08-good.dir/CWE123_Write_What_Where_Condition__fgets_08.c.o
+[ 36%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_08-bad.dir/CWE123_Write_What_Where_Condition__fgets_08.c.o
+[ 36%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_07-good
+[ 36%] Built target CWE123_Write_What_Where_Condition__fgets_02-bad
+[ 37%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_06-bad
+[ 37%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_09-good.dir/CWE123_Write_What_Where_Condition__fgets_09.c.o
+[ 37%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_07-bad
+[ 37%] Built target CWE123_Write_What_Where_Condition__connect_socket_73-bad
+[ 37%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_09-bad.dir/CWE123_Write_What_Where_Condition__fgets_09.c.o
+[ 37%] Built target CWE123_Write_What_Where_Condition__fgets_03-good
+[ 37%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_08-good
+[ 38%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_08-bad
+[ 38%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_10-good.dir/CWE123_Write_What_Where_Condition__fgets_10.c.o
+[ 39%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_10-bad.dir/CWE123_Write_What_Where_Condition__fgets_10.c.o
+[ 39%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_09-good
+[ 39%] Built target CWE123_Write_What_Where_Condition__connect_socket_84-bad
+[ 39%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_09-bad
+[ 39%] Built target CWE123_Write_What_Where_Condition__fgets_04-good
+[ 39%] Built target CWE123_Write_What_Where_Condition__fgets_05-bad
+[ 39%] Built target CWE123_Write_What_Where_Condition__fgets_06-good
+[ 39%] Built target CWE123_Write_What_Where_Condition__fgets_05-good
+[ 39%] Built target CWE123_Write_What_Where_Condition__fgets_03-bad
+[ 39%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_11-good.dir/CWE123_Write_What_Where_Condition__fgets_11.c.o
+[ 39%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_10-good
+[ 39%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_11-bad.dir/CWE123_Write_What_Where_Condition__fgets_11.c.o
+[ 39%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_10-bad
+[ 39%] Built target CWE123_Write_What_Where_Condition__fgets_07-good
+[ 39%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_13-good.dir/CWE123_Write_What_Where_Condition__fgets_13.c.o
+[ 39%] Built target CWE123_Write_What_Where_Condition__fgets_04-bad
+[ 39%] Built target CWE123_Write_What_Where_Condition__fgets_06-bad
+[ 39%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_13-bad.dir/CWE123_Write_What_Where_Condition__fgets_13.c.o
+[ 40%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_12-bad.dir/CWE123_Write_What_Where_Condition__fgets_12.c.o
+[ 40%] Built target CWE123_Write_What_Where_Condition__fgets_07-bad
+[ 40%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_12-good.dir/CWE123_Write_What_Where_Condition__fgets_12.c.o
+[ 40%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_14-bad.dir/CWE123_Write_What_Where_Condition__fgets_14.c.o
+[ 40%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_14-good.dir/CWE123_Write_What_Where_Condition__fgets_14.c.o
+[ 40%] Built target CWE123_Write_What_Where_Condition__fgets_08-good
+[ 40%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_15-good.dir/CWE123_Write_What_Where_Condition__fgets_15.c.o
+[ 40%] Built target CWE123_Write_What_Where_Condition__fgets_08-bad
+[ 40%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_11-good
+[ 40%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_11-bad
+[ 40%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_15-bad.dir/CWE123_Write_What_Where_Condition__fgets_15.c.o
+[ 41%] Built target CWE123_Write_What_Where_Condition__fgets_09-good
+[ 41%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_13-good
+[ 41%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_12-bad
+[ 41%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_13-bad
+[ 41%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_16-good.dir/CWE123_Write_What_Where_Condition__fgets_16.c.o
+[ 41%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_12-good
+[ 41%] Built target CWE123_Write_What_Where_Condition__fgets_09-bad
+[ 41%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_16-bad.dir/CWE123_Write_What_Where_Condition__fgets_16.c.o
+[ 41%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_17-good.dir/CWE123_Write_What_Where_Condition__fgets_17.c.o
+[ 42%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_15-good
+[ 42%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_14-bad
+[ 42%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_15-bad
+[ 42%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_14-good
+[ 42%] Built target CWE123_Write_What_Where_Condition__fgets_10-good
+[ 42%] Built target CWE123_Write_What_Where_Condition__fgets_10-bad
+[ 42%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_17-bad.dir/CWE123_Write_What_Where_Condition__fgets_17.c.o
+[ 42%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_16-good
+[ 42%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_18-good.dir/CWE123_Write_What_Where_Condition__fgets_18.c.o
+[ 42%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_18-bad.dir/CWE123_Write_What_Where_Condition__fgets_18.c.o
+[ 43%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_16-bad
+[ 43%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_17-good
+[ 43%] Built target CWE123_Write_What_Where_Condition__fgets_11-bad
+[ 43%] Built target CWE123_Write_What_Where_Condition__fgets_11-good
+[ 43%] Built target CWE123_Write_What_Where_Condition__fgets_13-bad
+[ 43%] Built target CWE123_Write_What_Where_Condition__fgets_12-bad
+[ 43%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_17-bad
+[ 43%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_18-good
+[ 43%] Built target CWE123_Write_What_Where_Condition__fgets_13-good
+[ 44%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_21-good.dir/CWE123_Write_What_Where_Condition__fgets_21.c.o
+[ 44%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_21-bad.dir/CWE123_Write_What_Where_Condition__fgets_21.c.o
+[ 44%] Built target CWE123_Write_What_Where_Condition__fgets_12-good
+[ 44%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_18-bad
+[ 44%] Built target CWE123_Write_What_Where_Condition__fgets_15-good
+[ 44%] Built target CWE123_Write_What_Where_Condition__fgets_14-bad
+[ 44%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_22-good.dir/CWE123_Write_What_Where_Condition__fgets_22a.c.o
+[ 44%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_22-bad.dir/CWE123_Write_What_Where_Condition__fgets_22a.c.o
+[ 44%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_22-bad.dir/CWE123_Write_What_Where_Condition__fgets_22b.c.o
+[ 44%] Built target CWE123_Write_What_Where_Condition__fgets_15-bad
+[ 44%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_31-good.dir/CWE123_Write_What_Where_Condition__fgets_31.c.o
+[ 44%] Built target CWE123_Write_What_Where_Condition__fgets_14-good
+[ 45%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_32-good.dir/CWE123_Write_What_Where_Condition__fgets_32.c.o
+[ 45%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_31-bad.dir/CWE123_Write_What_Where_Condition__fgets_31.c.o
+[ 45%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_32-bad.dir/CWE123_Write_What_Where_Condition__fgets_32.c.o
+[ 45%] Built target CWE123_Write_What_Where_Condition__fgets_16-good
+[ 45%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_21-bad
+[ 45%] Built target CWE123_Write_What_Where_Condition__fgets_16-bad
+[ 45%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_21-good
+[ 45%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_33-good.dir/CWE123_Write_What_Where_Condition__fgets_33.cpp.o
+[ 45%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_22-good.dir/CWE123_Write_What_Where_Condition__fgets_22b.c.o
+[ 45%] Built target CWE123_Write_What_Where_Condition__fgets_17-good
+[ 45%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_33-bad.dir/CWE123_Write_What_Where_Condition__fgets_33.cpp.o
+[ 45%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_22-bad
+[ 45%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_31-good
+[ 45%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_34-good.dir/CWE123_Write_What_Where_Condition__fgets_34.c.o
+[ 45%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_34-bad.dir/CWE123_Write_What_Where_Condition__fgets_34.c.o
+[ 45%] Built target CWE123_Write_What_Where_Condition__fgets_18-good
+[ 45%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_31-bad
+[ 46%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_32-good
+[ 46%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_41-good.dir/CWE123_Write_What_Where_Condition__fgets_41.c.o
+[ 46%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_32-bad
+[ 46%] Built target CWE123_Write_What_Where_Condition__fgets_17-bad
+[ 46%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_41-bad.dir/CWE123_Write_What_Where_Condition__fgets_41.c.o
+[ 46%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_42-good.dir/CWE123_Write_What_Where_Condition__fgets_42.c.o
+[ 46%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_22-good
+[ 46%] Built target CWE123_Write_What_Where_Condition__fgets_18-bad
+[ 46%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_34-bad
+[ 46%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_33-good
+[ 47%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_34-good
+[ 47%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_33-bad
+[ 47%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_41-good
+[ 47%] Built target CWE123_Write_What_Where_Condition__fgets_21-good
+[ 47%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_42-bad.dir/CWE123_Write_What_Where_Condition__fgets_42.c.o
+[ 47%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_41-bad
+[ 47%] Built target CWE123_Write_What_Where_Condition__fgets_22-bad
+[ 47%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_43-good.dir/CWE123_Write_What_Where_Condition__fgets_43.cpp.o
+[ 48%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_42-good
+[ 48%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_43-bad.dir/CWE123_Write_What_Where_Condition__fgets_43.cpp.o
+[ 48%] Built target CWE123_Write_What_Where_Condition__fgets_31-good
+[ 48%] Built target CWE123_Write_What_Where_Condition__fgets_32-good
+[ 48%] Built target CWE123_Write_What_Where_Condition__fgets_32-bad
+[ 48%] Built target CWE123_Write_What_Where_Condition__fgets_31-bad
+[ 48%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_42-bad
+[ 48%] Built target CWE123_Write_What_Where_Condition__fgets_21-bad
+[ 49%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_44-good.dir/CWE123_Write_What_Where_Condition__fgets_44.c.o
+[ 49%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_45-good.dir/CWE123_Write_What_Where_Condition__fgets_45.c.o
+[ 49%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_45-bad.dir/CWE123_Write_What_Where_Condition__fgets_45.c.o
+[ 49%] Built target CWE123_Write_What_Where_Condition__fgets_34-bad
+[ 49%] Built target CWE123_Write_What_Where_Condition__fgets_22-good
+[ 49%] Built target CWE123_Write_What_Where_Condition__fgets_33-good
+[ 49%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_44-bad.dir/CWE123_Write_What_Where_Condition__fgets_44.c.o
+[ 49%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_51-good.dir/CWE123_Write_What_Where_Condition__fgets_51a.c.o
+[ 49%] Built target CWE123_Write_What_Where_Condition__fgets_34-good
+[ 49%] Built target CWE123_Write_What_Where_Condition__fgets_41-good
+[ 49%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_43-good
+[ 49%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_51-bad.dir/CWE123_Write_What_Where_Condition__fgets_51a.c.o
+[ 49%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_43-bad
+[ 49%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_52-good.dir/CWE123_Write_What_Where_Condition__fgets_52a.c.o
+[ 49%] Built target CWE123_Write_What_Where_Condition__fgets_33-bad
+[ 49%] Built target CWE123_Write_What_Where_Condition__fgets_41-bad
+[ 49%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_45-bad
+[ 49%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_44-good
+[ 49%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_45-good
+[ 49%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_52-good.dir/CWE123_Write_What_Where_Condition__fgets_52b.c.o
+[ 49%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_51-bad.dir/CWE123_Write_What_Where_Condition__fgets_51b.c.o
+[ 49%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_53-good.dir/CWE123_Write_What_Where_Condition__fgets_53a.c.o
+[ 49%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_53-bad.dir/CWE123_Write_What_Where_Condition__fgets_53a.c.o
+[ 49%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_52-bad.dir/CWE123_Write_What_Where_Condition__fgets_52a.c.o
+[ 49%] Built target CWE123_Write_What_Where_Condition__fgets_42-good
+[ 49%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_44-bad
+[ 49%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_51-good.dir/CWE123_Write_What_Where_Condition__fgets_51b.c.o
+[ 49%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_52-good.dir/CWE123_Write_What_Where_Condition__fgets_52c.c.o
+[ 49%] Built target CWE123_Write_What_Where_Condition__fgets_42-bad
+[ 49%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_52-bad.dir/CWE123_Write_What_Where_Condition__fgets_52b.c.o
+[ 49%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_53-bad.dir/CWE123_Write_What_Where_Condition__fgets_53b.c.o
+[ 49%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_52-bad.dir/CWE123_Write_What_Where_Condition__fgets_52c.c.o
+[ 49%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_53-good.dir/CWE123_Write_What_Where_Condition__fgets_53b.c.o
+[ 50%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_51-bad
+[ 50%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_53-bad.dir/CWE123_Write_What_Where_Condition__fgets_53c.c.o
+[ 50%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_54-good.dir/CWE123_Write_What_Where_Condition__fgets_54a.c.o
+[ 50%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_53-good.dir/CWE123_Write_What_Where_Condition__fgets_53c.c.o
+[ 50%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_51-good
+[ 50%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_52-good
+[ 50%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_54-good.dir/CWE123_Write_What_Where_Condition__fgets_54b.c.o
+[ 50%] Built target CWE123_Write_What_Where_Condition__fgets_45-good
+[ 51%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_53-bad.dir/CWE123_Write_What_Where_Condition__fgets_53d.c.o
+[ 51%] Built target CWE123_Write_What_Where_Condition__fgets_43-good
+[ 51%] Built target CWE123_Write_What_Where_Condition__fgets_45-bad
+[ 51%] Built target CWE123_Write_What_Where_Condition__fgets_43-bad
+[ 51%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_53-good.dir/CWE123_Write_What_Where_Condition__fgets_53d.c.o
+[ 52%] Built target CWE123_Write_What_Where_Condition__fgets_44-good
+[ 52%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_52-bad
+[ 53%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_54-good.dir/CWE123_Write_What_Where_Condition__fgets_54c.c.o
+[ 53%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_54-good.dir/CWE123_Write_What_Where_Condition__fgets_54d.c.o
+[ 53%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_54-bad.dir/CWE123_Write_What_Where_Condition__fgets_54a.c.o
+[ 53%] Built target CWE123_Write_What_Where_Condition__fgets_44-bad
+[ 53%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_61-good.dir/CWE123_Write_What_Where_Condition__fgets_61a.c.o
+[ 53%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_61-bad.dir/CWE123_Write_What_Where_Condition__fgets_61a.c.o
+[ 53%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_62-bad.dir/CWE123_Write_What_Where_Condition__fgets_62a.cpp.o
+[ 53%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_63-good.dir/CWE123_Write_What_Where_Condition__fgets_63a.c.o
+[ 54%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_54-bad.dir/CWE123_Write_What_Where_Condition__fgets_54b.c.o
+[ 54%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_62-good.dir/CWE123_Write_What_Where_Condition__fgets_62a.cpp.o
+[ 55%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_61-good.dir/CWE123_Write_What_Where_Condition__fgets_61b.c.o
+[ 55%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_53-bad
+[ 55%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_53-good
+[ 55%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_54-good.dir/CWE123_Write_What_Where_Condition__fgets_54e.c.o
+[ 55%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_61-bad.dir/CWE123_Write_What_Where_Condition__fgets_61b.c.o
+[ 55%] Built target CWE123_Write_What_Where_Condition__fgets_52-good
+[ 55%] Built target CWE123_Write_What_Where_Condition__fgets_51-bad
+[ 55%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_62-bad.dir/CWE123_Write_What_Where_Condition__fgets_62b.cpp.o
+[ 55%] Built target CWE123_Write_What_Where_Condition__fgets_51-good
+[ 55%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_54-bad.dir/CWE123_Write_What_Where_Condition__fgets_54c.c.o
+[ 55%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_63-bad.dir/CWE123_Write_What_Where_Condition__fgets_63a.c.o
+[ 55%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_63-good.dir/CWE123_Write_What_Where_Condition__fgets_63b.c.o
+[ 55%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_64-good.dir/CWE123_Write_What_Where_Condition__fgets_64a.c.o
+[ 55%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_64-bad.dir/CWE123_Write_What_Where_Condition__fgets_64a.c.o
+[ 56%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_65-good.dir/CWE123_Write_What_Where_Condition__fgets_65a.c.o
+[ 56%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_61-good
+[ 56%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_54-good
+[ 56%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_54-bad.dir/CWE123_Write_What_Where_Condition__fgets_54d.c.o
+[ 56%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_65-bad.dir/CWE123_Write_What_Where_Condition__fgets_65a.c.o
+[ 56%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_61-bad
+[ 56%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_62-good.dir/CWE123_Write_What_Where_Condition__fgets_62b.cpp.o
+[ 56%] Built target CWE123_Write_What_Where_Condition__fgets_52-bad
+[ 56%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_63-bad.dir/CWE123_Write_What_Where_Condition__fgets_63b.c.o
+[ 56%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_63-good
+[ 56%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_65-bad.dir/CWE123_Write_What_Where_Condition__fgets_65b.c.o
+[ 56%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_65-good.dir/CWE123_Write_What_Where_Condition__fgets_65b.c.o
+[ 56%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_62-bad
+[ 57%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_64-good.dir/CWE123_Write_What_Where_Condition__fgets_64b.c.o
+[ 57%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_64-bad.dir/CWE123_Write_What_Where_Condition__fgets_64b.c.o
+[ 57%] Built target CWE123_Write_What_Where_Condition__fgets_53-bad
+[ 57%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_54-bad.dir/CWE123_Write_What_Where_Condition__fgets_54e.c.o
+[ 57%] Built target CWE123_Write_What_Where_Condition__fgets_53-good
+[ 57%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_66-good.dir/CWE123_Write_What_Where_Condition__fgets_66a.c.o
+[ 58%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_66-good.dir/CWE123_Write_What_Where_Condition__fgets_66b.c.o
+[ 58%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_63-bad
+[ 58%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_66-bad.dir/CWE123_Write_What_Where_Condition__fgets_66a.c.o
+[ 58%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_65-good
+[ 58%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_64-bad
+[ 58%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_67-good.dir/CWE123_Write_What_Where_Condition__fgets_67a.c.o
+[ 58%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_65-bad
+[ 59%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_62-good
+[ 59%] Built target CWE123_Write_What_Where_Condition__fgets_61-good
+[ 59%] Built target CWE123_Write_What_Where_Condition__fgets_54-good
+[ 59%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_54-bad
+[ 59%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_64-good
+[ 59%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_67-good.dir/CWE123_Write_What_Where_Condition__fgets_67b.c.o
+[ 59%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_66-bad.dir/CWE123_Write_What_Where_Condition__fgets_66b.c.o
+[ 59%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_67-bad.dir/CWE123_Write_What_Where_Condition__fgets_67a.c.o
+[ 59%] Built target CWE123_Write_What_Where_Condition__fgets_61-bad
+[ 59%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_66-good
+[ 59%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_68-good.dir/CWE123_Write_What_Where_Condition__fgets_68a.c.o
+[ 59%] Built target CWE123_Write_What_Where_Condition__fgets_63-good
+[ 60%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_68-bad.dir/CWE123_Write_What_Where_Condition__fgets_68a.c.o
+[ 60%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_72-good.dir/CWE123_Write_What_Where_Condition__fgets_72a.cpp.o
+[ 60%] Built target CWE123_Write_What_Where_Condition__fgets_62-bad
+[ 60%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_67-good
+[ 60%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_66-bad
+[ 60%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_72-good.dir/CWE123_Write_What_Where_Condition__fgets_72b.cpp.o
+[ 60%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_67-bad.dir/CWE123_Write_What_Where_Condition__fgets_67b.c.o
+[ 60%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_72-bad.dir/CWE123_Write_What_Where_Condition__fgets_72a.cpp.o
+[ 60%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_68-good.dir/CWE123_Write_What_Where_Condition__fgets_68b.c.o
+[ 60%] Built target CWE123_Write_What_Where_Condition__fgets_65-bad
+[ 60%] Built target CWE123_Write_What_Where_Condition__fgets_63-bad
+[ 60%] Built target CWE123_Write_What_Where_Condition__fgets_64-good
+[ 60%] Built target CWE123_Write_What_Where_Condition__fgets_54-bad
+[ 60%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_68-bad.dir/CWE123_Write_What_Where_Condition__fgets_68b.c.o
+[ 60%] Built target CWE123_Write_What_Where_Condition__fgets_64-bad
+[ 60%] Built target CWE123_Write_What_Where_Condition__fgets_65-good
+[ 61%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_72-bad.dir/CWE123_Write_What_Where_Condition__fgets_72b.cpp.o
+[ 62%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_73-good.dir/CWE123_Write_What_Where_Condition__fgets_73a.cpp.o
+[ 62%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_67-bad
+[ 62%] Built target CWE123_Write_What_Where_Condition__fgets_62-good
+[ 62%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_74-good.dir/CWE123_Write_What_Where_Condition__fgets_74a.cpp.o
+[ 62%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_73-bad.dir/CWE123_Write_What_Where_Condition__fgets_73a.cpp.o
+[ 62%] Built target CWE123_Write_What_Where_Condition__fgets_66-good
+[ 62%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_68-good
+[ 62%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_74-good.dir/CWE123_Write_What_Where_Condition__fgets_74b.cpp.o
+[ 62%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_74-bad.dir/CWE123_Write_What_Where_Condition__fgets_74a.cpp.o
+[ 62%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_81-good.dir/CWE123_Write_What_Where_Condition__fgets_81_bad.cpp.o
+[ 62%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_68-bad
+[ 62%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_81-good.dir/CWE123_Write_What_Where_Condition__fgets_81_goodG2B.cpp.o
+[ 62%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_81-bad.dir/CWE123_Write_What_Where_Condition__fgets_81_bad.cpp.o
+[ 62%] Built target CWE123_Write_What_Where_Condition__fgets_67-good
+[ 62%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_74-bad.dir/CWE123_Write_What_Where_Condition__fgets_74b.cpp.o
+[ 62%] Built target CWE123_Write_What_Where_Condition__fgets_66-bad
+[ 62%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_82-good.dir/CWE123_Write_What_Where_Condition__fgets_82_bad.cpp.o
+[ 62%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_81-bad.dir/CWE123_Write_What_Where_Condition__fgets_81_goodG2B.cpp.o
+[ 62%] Built target CWE123_Write_What_Where_Condition__fgets_68-good
+[ 62%] Built target CWE123_Write_What_Where_Condition__fgets_67-bad
+[ 62%] Built target CWE123_Write_What_Where_Condition__fgets_68-bad
+[ 62%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_82-good.dir/CWE123_Write_What_Where_Condition__fgets_82_goodG2B.cpp.o
+[ 63%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_81-good.dir/CWE123_Write_What_Where_Condition__fgets_81a.cpp.o
+[ 63%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_81-bad.dir/CWE123_Write_What_Where_Condition__fgets_81a.cpp.o
+[ 64%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_82-good.dir/CWE123_Write_What_Where_Condition__fgets_82a.cpp.o
+[ 64%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_82-bad.dir/CWE123_Write_What_Where_Condition__fgets_82_bad.cpp.o
+[ 64%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_73-good.dir/CWE123_Write_What_Where_Condition__fgets_73b.cpp.o
+[ 64%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_82-bad.dir/CWE123_Write_What_Where_Condition__fgets_82_goodG2B.cpp.o
+[ 64%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_83-good.dir/CWE123_Write_What_Where_Condition__fgets_83_bad.cpp.o
+[ 64%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_81-good
+[ 64%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_82-bad.dir/CWE123_Write_What_Where_Condition__fgets_82a.cpp.o
+[ 64%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_81-bad
+[ 64%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_82-good
+[ 65%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_83-good.dir/CWE123_Write_What_Where_Condition__fgets_83_goodG2B.cpp.o
+[ 65%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_73-bad.dir/CWE123_Write_What_Where_Condition__fgets_73b.cpp.o
+[ 65%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_83-good.dir/CWE123_Write_What_Where_Condition__fgets_83a.cpp.o
+[ 65%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_72-good
+[ 65%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_83-bad.dir/CWE123_Write_What_Where_Condition__fgets_83_bad.cpp.o
+[ 65%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_72-bad
+[ 65%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_82-bad
+[ 65%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_84-good.dir/CWE123_Write_What_Where_Condition__fgets_84_bad.cpp.o
+[ 66%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_84-good.dir/CWE123_Write_What_Where_Condition__fgets_84_goodG2B.cpp.o
+[ 66%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_84-good.dir/CWE123_Write_What_Where_Condition__fgets_84a.cpp.o
+[ 66%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_83-good
+[ 66%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_83-bad.dir/CWE123_Write_What_Where_Condition__fgets_83_goodG2B.cpp.o
+[ 66%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_73-good
+[ 66%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_83-bad.dir/CWE123_Write_What_Where_Condition__fgets_83a.cpp.o
+[ 66%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_74-bad
+[ 66%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_84-bad.dir/CWE123_Write_What_Where_Condition__fgets_84_bad.cpp.o
+[ 66%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_01-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_01.c.o
+[ 67%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_01-good.dir/CWE123_Write_What_Where_Condition__listen_socket_01.c.o
+[ 67%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_74-good
+[ 67%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__fgets_84-good
+[ 67%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_73-bad
+[ 67%] Built target CWE123_Write_What_Where_Condition__fgets_81-good
+[ 67%] Built target CWE123_Write_What_Where_Condition__fgets_82-good
+[ 67%] Built target CWE123_Write_What_Where_Condition__fgets_81-bad
+[ 67%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_83-bad
+[ 67%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_01-bad
+[ 67%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_02-good.dir/CWE123_Write_What_Where_Condition__listen_socket_02.c.o
+[ 67%] Built target CWE123_Write_What_Where_Condition__fgets_83-good
+[ 67%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_01-good
+[ 67%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_84-bad.dir/CWE123_Write_What_Where_Condition__fgets_84_goodG2B.cpp.o
+[ 67%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_03-good.dir/CWE123_Write_What_Where_Condition__listen_socket_03.c.o
+[ 67%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_02-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_02.c.o
+[ 67%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_03-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_03.c.o
+[ 67%] Built target CWE123_Write_What_Where_Condition__fgets_72-good
+[ 67%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__fgets_84-bad.dir/CWE123_Write_What_Where_Condition__fgets_84a.cpp.o
+[ 67%] Built target CWE123_Write_What_Where_Condition__fgets_82-bad
+[ 67%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_02-good
+[ 67%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_03-good
+[ 67%] Built target CWE123_Write_What_Where_Condition__fgets_72-bad
+[ 67%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_04-good.dir/CWE123_Write_What_Where_Condition__listen_socket_04.c.o
+[ 68%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_02-bad
+[ 68%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_03-bad
+[ 68%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_05-good.dir/CWE123_Write_What_Where_Condition__listen_socket_05.c.o
+[ 69%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_04-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_04.c.o
+[ 69%] Built target CWE123_Write_What_Where_Condition__fgets_73-good
+[ 69%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__fgets_84-bad
+[ 69%] Built target CWE123_Write_What_Where_Condition__listen_socket_01-bad
+[ 69%] Built target CWE123_Write_What_Where_Condition__listen_socket_01-good
+[ 69%] Built target CWE123_Write_What_Where_Condition__fgets_83-bad
+[ 69%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_04-good
+[ 69%] Built target CWE123_Write_What_Where_Condition__fgets_74-bad
+[ 69%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_05-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_05.c.o
+[ 69%] Built target CWE123_Write_What_Where_Condition__fgets_84-good
+[ 69%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_06-good.dir/CWE123_Write_What_Where_Condition__listen_socket_06.c.o
+[ 69%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_07-good.dir/CWE123_Write_What_Where_Condition__listen_socket_07.c.o
+[ 69%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_05-good
+[ 69%] Built target CWE123_Write_What_Where_Condition__fgets_74-good
+[ 70%] Built target CWE123_Write_What_Where_Condition__fgets_73-bad
+[ 70%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_06-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_06.c.o
+[ 70%] Built target CWE123_Write_What_Where_Condition__listen_socket_02-good
+[ 70%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_04-bad
+[ 70%] Built target CWE123_Write_What_Where_Condition__listen_socket_03-good
+[ 70%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_07-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_07.c.o
+[ 70%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_08-good.dir/CWE123_Write_What_Where_Condition__listen_socket_08.c.o
+[ 70%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_09-good.dir/CWE123_Write_What_Where_Condition__listen_socket_09.c.o
+[ 70%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_09-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_09.c.o
+[ 70%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_08-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_08.c.o
+[ 70%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_10-good.dir/CWE123_Write_What_Where_Condition__listen_socket_10.c.o
+[ 70%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_05-bad
+[ 70%] Built target CWE123_Write_What_Where_Condition__listen_socket_03-bad
+[ 70%] Built target CWE123_Write_What_Where_Condition__listen_socket_02-bad
+[ 71%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_06-good
+[ 71%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_07-good
+[ 71%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_06-bad
+[ 71%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_08-good
+[ 71%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_11-good.dir/CWE123_Write_What_Where_Condition__listen_socket_11.c.o
+[ 71%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_10-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_10.c.o
+[ 71%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_09-bad
+[ 72%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_09-good
+[ 72%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_07-bad
+[ 72%] Built target CWE123_Write_What_Where_Condition__listen_socket_04-good
+[ 72%] Built target CWE123_Write_What_Where_Condition__listen_socket_05-good
+[ 72%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_08-bad
+[ 72%] Built target CWE123_Write_What_Where_Condition__listen_socket_04-bad
+[ 72%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_10-good
+[ 72%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_11-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_11.c.o
+[ 72%] Built target CWE123_Write_What_Where_Condition__fgets_84-bad
+[ 73%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_12-good.dir/CWE123_Write_What_Where_Condition__listen_socket_12.c.o
+[ 73%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_11-good
+[ 73%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_10-bad
+[ 73%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_12-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_12.c.o
+[ 73%] Built target CWE123_Write_What_Where_Condition__listen_socket_05-bad
+[ 74%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_13-good.dir/CWE123_Write_What_Where_Condition__listen_socket_13.c.o
+[ 74%] Built target CWE123_Write_What_Where_Condition__listen_socket_07-good
+[ 74%] Built target CWE123_Write_What_Where_Condition__listen_socket_06-good
+[ 74%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_13-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_13.c.o
+[ 74%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_11-bad
+[ 74%] Built target CWE123_Write_What_Where_Condition__listen_socket_08-good
+[ 74%] Built target CWE123_Write_What_Where_Condition__listen_socket_09-bad
+[ 74%] Built target CWE123_Write_What_Where_Condition__listen_socket_06-bad
+[ 74%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_14-good.dir/CWE123_Write_What_Where_Condition__listen_socket_14.c.o
+[ 74%] Built target CWE123_Write_What_Where_Condition__listen_socket_09-good
+[ 74%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_12-good
+[ 74%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_12-bad
+[ 75%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_15-good.dir/CWE123_Write_What_Where_Condition__listen_socket_15.c.o
+[ 75%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_14-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_14.c.o
+[ 75%] Built target CWE123_Write_What_Where_Condition__listen_socket_07-bad
+[ 75%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_13-good
+[ 75%] Built target CWE123_Write_What_Where_Condition__listen_socket_08-bad
+[ 75%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_15-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_15.c.o
+[ 75%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_16-good.dir/CWE123_Write_What_Where_Condition__listen_socket_16.c.o
+[ 75%] Built target CWE123_Write_What_Where_Condition__listen_socket_10-good
+[ 75%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_16-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_16.c.o
+[ 75%] Built target CWE123_Write_What_Where_Condition__listen_socket_11-good
+[ 75%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_17-good.dir/CWE123_Write_What_Where_Condition__listen_socket_17.c.o
+[ 75%] Built target CWE123_Write_What_Where_Condition__listen_socket_10-bad
+[ 75%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_17-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_17.c.o
+[ 75%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_18-good.dir/CWE123_Write_What_Where_Condition__listen_socket_18.c.o
+[ 75%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_13-bad
+[ 75%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_18-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_18.c.o
+[ 75%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_15-good
+[ 75%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_21-good.dir/CWE123_Write_What_Where_Condition__listen_socket_21.c.o
+[ 75%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_14-bad
+[ 75%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_16-good
+[ 75%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_16-bad
+[ 75%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_14-good
+[ 75%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_15-bad
+[ 75%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_17-good
+[ 75%] Built target CWE123_Write_What_Where_Condition__listen_socket_11-bad
+[ 75%] Built target CWE123_Write_What_Where_Condition__listen_socket_12-bad
+[ 75%] Built target CWE123_Write_What_Where_Condition__listen_socket_12-good
+[ 75%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_18-good
+[ 76%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_17-bad
+[ 76%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_18-bad
+[ 76%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_21-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_21.c.o
+[ 76%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_22-good.dir/CWE123_Write_What_Where_Condition__listen_socket_22a.c.o
+[ 76%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_21-good
+[ 76%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_22-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_22a.c.o
+[ 76%] Built target CWE123_Write_What_Where_Condition__listen_socket_13-good
+[ 76%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_31-good.dir/CWE123_Write_What_Where_Condition__listen_socket_31.c.o
+[ 76%] Built target CWE123_Write_What_Where_Condition__listen_socket_13-bad
+[ 76%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_22-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_22b.c.o
+[ 76%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_22-good.dir/CWE123_Write_What_Where_Condition__listen_socket_22b.c.o
+[ 76%] Built target CWE123_Write_What_Where_Condition__listen_socket_15-good
+[ 77%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_21-bad
+[ 77%] Built target CWE123_Write_What_Where_Condition__listen_socket_16-good
+[ 77%] Built target CWE123_Write_What_Where_Condition__listen_socket_16-bad
+[ 77%] Built target CWE123_Write_What_Where_Condition__listen_socket_14-bad
+[ 77%] Built target CWE123_Write_What_Where_Condition__listen_socket_14-good
+[ 78%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_32-good.dir/CWE123_Write_What_Where_Condition__listen_socket_32.c.o
+[ 78%] Built target CWE123_Write_What_Where_Condition__listen_socket_15-bad
+[ 78%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_31-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_31.c.o
+[ 78%] Built target CWE123_Write_What_Where_Condition__listen_socket_17-good
+[ 78%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_33-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_33.cpp.o
+[ 78%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_32-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_32.c.o
+[ 78%] Built target CWE123_Write_What_Where_Condition__listen_socket_17-bad
+[ 79%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_34-good.dir/CWE123_Write_What_Where_Condition__listen_socket_34.c.o
+[ 79%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_22-bad
+[ 80%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_22-good
+[ 80%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_33-good.dir/CWE123_Write_What_Where_Condition__listen_socket_33.cpp.o
+[ 80%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_31-good
+[ 80%] Built target CWE123_Write_What_Where_Condition__listen_socket_18-good
+[ 80%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_41-good.dir/CWE123_Write_What_Where_Condition__listen_socket_41.c.o
+[ 80%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_34-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_34.c.o
+[ 80%] Built target CWE123_Write_What_Where_Condition__listen_socket_18-bad
+[ 80%] Built target CWE123_Write_What_Where_Condition__listen_socket_21-good
+[ 80%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_32-good
+[ 80%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_42-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_42.c.o
+[ 80%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_42-good.dir/CWE123_Write_What_Where_Condition__listen_socket_42.c.o
+[ 80%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_43-good.dir/CWE123_Write_What_Where_Condition__listen_socket_43.cpp.o
+[ 80%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_31-bad
+[ 80%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_41-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_41.c.o
+[ 80%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_32-bad
+[ 80%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_34-good
+[ 80%] Built target CWE123_Write_What_Where_Condition__listen_socket_21-bad
+[ 80%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_34-bad
+[ 80%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_41-good
+[ 80%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_33-bad
+[ 80%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_33-good
+[ 80%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_43-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_43.cpp.o
+[ 80%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_42-good
+[ 81%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_42-bad
+[ 81%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_41-bad
+[ 81%] Built target CWE123_Write_What_Where_Condition__listen_socket_22-bad
+[ 81%] Built target CWE123_Write_What_Where_Condition__listen_socket_22-good
+[ 81%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_43-good
+[ 81%] Built target CWE123_Write_What_Where_Condition__listen_socket_31-good
+[ 81%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_44-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_44.c.o
+[ 81%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_44-good.dir/CWE123_Write_What_Where_Condition__listen_socket_44.c.o
+[ 81%] Built target CWE123_Write_What_Where_Condition__listen_socket_31-bad
+[ 81%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_45-good.dir/CWE123_Write_What_Where_Condition__listen_socket_45.c.o
+[ 81%] Built target CWE123_Write_What_Where_Condition__listen_socket_32-bad
+[ 81%] Built target CWE123_Write_What_Where_Condition__listen_socket_32-good
+[ 81%] Built target CWE123_Write_What_Where_Condition__listen_socket_41-good
+[ 81%] Built target CWE123_Write_What_Where_Condition__listen_socket_34-good
+[ 81%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_45-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_45.c.o
+[ 81%] Built target CWE123_Write_What_Where_Condition__listen_socket_34-bad
+[ 81%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_51-good.dir/CWE123_Write_What_Where_Condition__listen_socket_51a.c.o
+[ 81%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_51-good.dir/CWE123_Write_What_Where_Condition__listen_socket_51b.c.o
+[ 81%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_44-good
+[ 81%] Built target CWE123_Write_What_Where_Condition__listen_socket_33-bad
+[ 81%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_52-good.dir/CWE123_Write_What_Where_Condition__listen_socket_52a.c.o
+[ 81%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_52-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_52a.c.o
+[ 81%] Built target CWE123_Write_What_Where_Condition__listen_socket_41-bad
+[ 81%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_51-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_51a.c.o
+[ 81%] Built target CWE123_Write_What_Where_Condition__listen_socket_33-good
+[ 81%] Built target CWE123_Write_What_Where_Condition__listen_socket_42-good
+[ 81%] Built target CWE123_Write_What_Where_Condition__listen_socket_42-bad
+[ 82%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_44-bad
+[ 82%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_52-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_52b.c.o
+[ 82%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_45-good
+[ 82%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_52-good.dir/CWE123_Write_What_Where_Condition__listen_socket_52b.c.o
+[ 82%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_52-good.dir/CWE123_Write_What_Where_Condition__listen_socket_52c.c.o
+[ 83%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_52-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_52c.c.o
+[ 83%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_53-good.dir/CWE123_Write_What_Where_Condition__listen_socket_53a.c.o
+[ 83%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_43-bad
+[ 83%] Built target CWE123_Write_What_Where_Condition__listen_socket_43-good
+[ 83%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_45-bad
+[ 83%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_53-good.dir/CWE123_Write_What_Where_Condition__listen_socket_53b.c.o
+[ 84%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_51-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_51b.c.o
+[ 84%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_53-good.dir/CWE123_Write_What_Where_Condition__listen_socket_53c.c.o
+[ 84%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_51-good
+[ 84%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_53-good.dir/CWE123_Write_What_Where_Condition__listen_socket_53d.c.o
+[ 84%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_52-bad
+[ 84%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_53-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_53a.c.o
+[ 84%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_52-good
+[ 84%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_54-good.dir/CWE123_Write_What_Where_Condition__listen_socket_54a.c.o
+[ 84%] Built target CWE123_Write_What_Where_Condition__listen_socket_44-good
+[ 85%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_61-good.dir/CWE123_Write_What_Where_Condition__listen_socket_61a.c.o
+[ 85%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_54-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_54a.c.o
+[ 85%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_54-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_54b.c.o
+[ 85%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_51-bad
+[ 85%] Built target CWE123_Write_What_Where_Condition__listen_socket_45-good
+[ 86%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_53-good
+[ 86%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_54-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_54c.c.o
+[ 86%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_54-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_54d.c.o
+[ 86%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_61-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_61a.c.o
+[ 86%] Built target CWE123_Write_What_Where_Condition__listen_socket_44-bad
+[ 86%] Built target CWE123_Write_What_Where_Condition__listen_socket_45-bad
+[ 86%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_53-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_53b.c.o
+[ 87%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_53-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_53c.c.o
+[ 87%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_54-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_54e.c.o
+[ 87%] Built target CWE123_Write_What_Where_Condition__listen_socket_43-bad
+[ 88%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_54-good.dir/CWE123_Write_What_Where_Condition__listen_socket_54b.c.o
+[ 88%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_54-good.dir/CWE123_Write_What_Where_Condition__listen_socket_54c.c.o
+[ 88%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_61-good.dir/CWE123_Write_What_Where_Condition__listen_socket_61b.c.o
+[ 88%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_54-good.dir/CWE123_Write_What_Where_Condition__listen_socket_54d.c.o
+[ 88%] Built target CWE123_Write_What_Where_Condition__listen_socket_51-good
+[ 88%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_61-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_61b.c.o
+[ 88%] Built target CWE123_Write_What_Where_Condition__listen_socket_52-bad
+[ 88%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_54-good.dir/CWE123_Write_What_Where_Condition__listen_socket_54e.c.o
+[ 88%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_53-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_53d.c.o
+[ 88%] Built target CWE123_Write_What_Where_Condition__listen_socket_52-good
+[ 88%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_62-good.dir/CWE123_Write_What_Where_Condition__listen_socket_62a.cpp.o
+[ 89%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_62-good.dir/CWE123_Write_What_Where_Condition__listen_socket_62b.cpp.o
+[ 89%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_62-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_62a.cpp.o
+[ 89%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_54-bad
+[ 89%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_62-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_62b.cpp.o
+[ 89%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_61-good
+[ 89%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_63-good.dir/CWE123_Write_What_Where_Condition__listen_socket_63a.c.o
+[ 89%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_63-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_63a.c.o
+[ 89%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_63-good.dir/CWE123_Write_What_Where_Condition__listen_socket_63b.c.o
+[ 90%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_64-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_64a.c.o
+[ 90%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_64-good.dir/CWE123_Write_What_Where_Condition__listen_socket_64a.c.o
+[ 90%] Built target CWE123_Write_What_Where_Condition__listen_socket_53-good
+[ 90%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_61-bad
+[ 90%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_63-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_63b.c.o
+[ 90%] Built target CWE123_Write_What_Where_Condition__listen_socket_51-bad
+[ 90%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_53-bad
+[ 90%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_54-good
+[ 90%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_64-good.dir/CWE123_Write_What_Where_Condition__listen_socket_64b.c.o
+[ 90%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_65-good.dir/CWE123_Write_What_Where_Condition__listen_socket_65a.c.o
+[ 90%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_65-good.dir/CWE123_Write_What_Where_Condition__listen_socket_65b.c.o
+[ 90%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_63-good
+[ 90%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_62-good
+[ 90%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_62-bad
+[ 90%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_65-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_65a.c.o
+[ 90%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_64-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_64b.c.o
+[ 91%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_66-good.dir/CWE123_Write_What_Where_Condition__listen_socket_66a.c.o
+[ 92%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_65-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_65b.c.o
+[ 92%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_63-bad
+[ 92%] Built target CWE123_Write_What_Where_Condition__listen_socket_54-bad
+[ 92%] Built target CWE123_Write_What_Where_Condition__listen_socket_61-good
+[ 92%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_64-good
+[ 92%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_66-good.dir/CWE123_Write_What_Where_Condition__listen_socket_66b.c.o
+[ 92%] Built target CWE123_Write_What_Where_Condition__listen_socket_61-bad
+[ 92%] Built target CWE123_Write_What_Where_Condition__listen_socket_54-good
+[ 92%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_66-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_66a.c.o
+[ 92%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_66-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_66b.c.o
+[ 92%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_64-bad
+[ 92%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_67-good.dir/CWE123_Write_What_Where_Condition__listen_socket_67a.c.o
+[ 92%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_65-good
+[ 92%] Built target CWE123_Write_What_Where_Condition__listen_socket_53-bad
+[ 92%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_67-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_67a.c.o
+[ 92%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_68-good.dir/CWE123_Write_What_Where_Condition__listen_socket_68a.c.o
+[ 92%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_65-bad
+[ 92%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_68-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_68a.c.o
+[ 92%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_67-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_67b.c.o
+[ 92%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_66-good
+[ 92%] Built target CWE123_Write_What_Where_Condition__listen_socket_63-good
+[ 92%] Built target CWE123_Write_What_Where_Condition__listen_socket_62-good
+[ 92%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_67-good.dir/CWE123_Write_What_Where_Condition__listen_socket_67b.c.o
+[ 92%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_68-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_68b.c.o
+[ 92%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_66-bad
+[ 92%] Built target CWE123_Write_What_Where_Condition__listen_socket_63-bad
+[ 92%] Building C object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_68-good.dir/CWE123_Write_What_Where_Condition__listen_socket_68b.c.o
+[ 92%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_67-bad
+[ 92%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_72-good.dir/CWE123_Write_What_Where_Condition__listen_socket_72a.cpp.o
+[ 93%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_72-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_72a.cpp.o
+[ 93%] Built target CWE123_Write_What_Where_Condition__listen_socket_62-bad
+[ 93%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_73-good.dir/CWE123_Write_What_Where_Condition__listen_socket_73a.cpp.o
+[ 93%] Built target CWE123_Write_What_Where_Condition__listen_socket_64-good
+[ 93%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_73-good.dir/CWE123_Write_What_Where_Condition__listen_socket_73b.cpp.o
+[ 94%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_74-good.dir/CWE123_Write_What_Where_Condition__listen_socket_74a.cpp.o
+[ 94%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_73-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_73b.cpp.o
+[ 94%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_73-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_73a.cpp.o
+[ 94%] Built target CWE123_Write_What_Where_Condition__listen_socket_64-bad
+[ 94%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_68-bad
+[ 95%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_67-good
+[ 95%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_68-good
+[ 95%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_74-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_74a.cpp.o
+[ 95%] Built target CWE123_Write_What_Where_Condition__listen_socket_65-bad
+[ 95%] Built target CWE123_Write_What_Where_Condition__listen_socket_65-good
+[ 95%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_72-good.dir/CWE123_Write_What_Where_Condition__listen_socket_72b.cpp.o
+[ 95%] Built target CWE123_Write_What_Where_Condition__listen_socket_66-good
+[ 95%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_74-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_74b.cpp.o
+[ 95%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_81-good.dir/CWE123_Write_What_Where_Condition__listen_socket_81_bad.cpp.o
+[ 95%] Built target CWE123_Write_What_Where_Condition__listen_socket_66-bad
+[ 95%] Built target CWE123_Write_What_Where_Condition__listen_socket_67-bad
+[ 95%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_74-good.dir/CWE123_Write_What_Where_Condition__listen_socket_74b.cpp.o
+[ 96%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_81-good.dir/CWE123_Write_What_Where_Condition__listen_socket_81_goodG2B.cpp.o
+[ 96%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_81-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_81_bad.cpp.o
+[ 96%] Built target CWE123_Write_What_Where_Condition__listen_socket_67-good
+[ 96%] Built target CWE123_Write_What_Where_Condition__listen_socket_68-bad
+[ 96%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_81-good.dir/CWE123_Write_What_Where_Condition__listen_socket_81a.cpp.o
+[ 96%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_81-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_81_goodG2B.cpp.o
+[ 96%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_72-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_72b.cpp.o
+[ 96%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_81-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_81a.cpp.o
+[ 96%] Built target CWE123_Write_What_Where_Condition__listen_socket_68-good
+[ 96%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_82-good.dir/CWE123_Write_What_Where_Condition__listen_socket_82_bad.cpp.o
+[ 97%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_73-bad
+[ 97%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_73-good
+[ 99%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_83-good.dir/CWE123_Write_What_Where_Condition__listen_socket_83_bad.cpp.o
+[ 99%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_82-good.dir/CWE123_Write_What_Where_Condition__listen_socket_82_goodG2B.cpp.o
+[ 99%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_81-good
+[ 99%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_82-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_82_bad.cpp.o
+[ 99%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_83-good.dir/CWE123_Write_What_Where_Condition__listen_socket_83_goodG2B.cpp.o
+[ 99%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_81-bad
+[ 99%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_83-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_83_bad.cpp.o
+[ 99%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_83-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_83_goodG2B.cpp.o
+[ 99%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_72-good
+[ 99%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_83-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_83a.cpp.o
+[ 99%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_82-good.dir/CWE123_Write_What_Where_Condition__listen_socket_82a.cpp.o
+[ 99%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_83-good.dir/CWE123_Write_What_Where_Condition__listen_socket_83a.cpp.o
+[ 99%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_82-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_82_goodG2B.cpp.o
+[ 99%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_82-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_82a.cpp.o
+[100%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_84-good.dir/CWE123_Write_What_Where_Condition__listen_socket_84_bad.cpp.o
+[100%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_84-good.dir/CWE123_Write_What_Where_Condition__listen_socket_84a.cpp.o
+[100%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_84-good.dir/CWE123_Write_What_Where_Condition__listen_socket_84_goodG2B.cpp.o
+[100%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_74-bad
+[100%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_83-bad
+[100%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_84-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_84_bad.cpp.o
+[100%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_84-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_84_goodG2B.cpp.o
+[100%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_82-good
+[100%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_83-good
+[100%] Built target CWE123_Write_What_Where_Condition__listen_socket_73-bad
+[100%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_72-bad
+[100%] Building CXX object CMakeFiles/CWE123_Write_What_Where_Condition__listen_socket_84-bad.dir/CWE123_Write_What_Where_Condition__listen_socket_84a.cpp.o
+[100%] Built target CWE123_Write_What_Where_Condition__listen_socket_73-good
+[100%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_74-good
+[100%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_82-bad
+[100%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/good/CWE123_Write_What_Where_Condition__listen_socket_84-good
+[100%] Built target CWE123_Write_What_Where_Condition__listen_socket_81-good
+[100%] Built target CWE123_Write_What_Where_Condition__listen_socket_81-bad
+[100%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE123/bad/CWE123_Write_What_Where_Condition__listen_socket_84-bad
+[100%] Built target CWE123_Write_What_Where_Condition__listen_socket_83-bad
+[100%] Built target CWE123_Write_What_Where_Condition__listen_socket_72-good
+[100%] Built target CWE123_Write_What_Where_Condition__listen_socket_83-good
+[100%] Built target CWE123_Write_What_Where_Condition__listen_socket_74-bad
+[100%] Built target CWE123_Write_What_Where_Condition__listen_socket_82-good
+[100%] Built target CWE123_Write_What_Where_Condition__listen_socket_74-good
+[100%] Built target CWE123_Write_What_Where_Condition__listen_socket_82-bad
+[100%] Built target CWE123_Write_What_Where_Condition__listen_socket_84-good
+[100%] Built target CWE123_Write_What_Where_Condition__listen_socket_72-bad
+[100%] Built target CWE123_Write_What_Where_Condition__listen_socket_84-bad
+scan-build: Analysis run complete.
+scan-build: Removing directory '/home/dyre/exjobb/juliet/Clang/2025-02-26-142639-241011-1' because it contains no reports.
+scan-build: No bugs found.
+
+STDERR:
+

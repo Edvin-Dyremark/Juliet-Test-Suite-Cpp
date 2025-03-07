@@ -1,0 +1,86 @@
+[
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop/../../testcasesupport -O0 -o CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c",
+  "output": "CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop/../../testcasesupport -O0 -o CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c",
+  "output": "CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop/../../testcasesupport -O0 -o CMakeFiles/CWE835_Infinite_Loop__do_01-good.dir/CWE835_Infinite_Loop__do_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop/CWE835_Infinite_Loop__do_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop/CWE835_Infinite_Loop__do_01.c",
+  "output": "CMakeFiles/CWE835_Infinite_Loop__do_01-good.dir/CWE835_Infinite_Loop__do_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop/../../testcasesupport -O0 -o CMakeFiles/CWE835_Infinite_Loop__do_01-bad.dir/CWE835_Infinite_Loop__do_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop/CWE835_Infinite_Loop__do_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop/CWE835_Infinite_Loop__do_01.c",
+  "output": "CMakeFiles/CWE835_Infinite_Loop__do_01-bad.dir/CWE835_Infinite_Loop__do_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop/../../testcasesupport -O0 -o CMakeFiles/CWE835_Infinite_Loop__do_true_01-good.dir/CWE835_Infinite_Loop__do_true_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop/CWE835_Infinite_Loop__do_true_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop/CWE835_Infinite_Loop__do_true_01.c",
+  "output": "CMakeFiles/CWE835_Infinite_Loop__do_true_01-good.dir/CWE835_Infinite_Loop__do_true_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop/../../testcasesupport -O0 -o CMakeFiles/CWE835_Infinite_Loop__do_true_01-bad.dir/CWE835_Infinite_Loop__do_true_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop/CWE835_Infinite_Loop__do_true_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop/CWE835_Infinite_Loop__do_true_01.c",
+  "output": "CMakeFiles/CWE835_Infinite_Loop__do_true_01-bad.dir/CWE835_Infinite_Loop__do_true_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop/../../testcasesupport -O0 -o CMakeFiles/CWE835_Infinite_Loop__for_01-good.dir/CWE835_Infinite_Loop__for_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop/CWE835_Infinite_Loop__for_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop/CWE835_Infinite_Loop__for_01.c",
+  "output": "CMakeFiles/CWE835_Infinite_Loop__for_01-good.dir/CWE835_Infinite_Loop__for_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop/../../testcasesupport -O0 -o CMakeFiles/CWE835_Infinite_Loop__for_01-bad.dir/CWE835_Infinite_Loop__for_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop/CWE835_Infinite_Loop__for_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop/CWE835_Infinite_Loop__for_01.c",
+  "output": "CMakeFiles/CWE835_Infinite_Loop__for_01-bad.dir/CWE835_Infinite_Loop__for_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop/../../testcasesupport -O0 -o CMakeFiles/CWE835_Infinite_Loop__for_empty_01-good.dir/CWE835_Infinite_Loop__for_empty_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop/CWE835_Infinite_Loop__for_empty_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop/CWE835_Infinite_Loop__for_empty_01.c",
+  "output": "CMakeFiles/CWE835_Infinite_Loop__for_empty_01-good.dir/CWE835_Infinite_Loop__for_empty_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop/../../testcasesupport -O0 -o CMakeFiles/CWE835_Infinite_Loop__for_empty_01-bad.dir/CWE835_Infinite_Loop__for_empty_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop/CWE835_Infinite_Loop__for_empty_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop/CWE835_Infinite_Loop__for_empty_01.c",
+  "output": "CMakeFiles/CWE835_Infinite_Loop__for_empty_01-bad.dir/CWE835_Infinite_Loop__for_empty_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop/../../testcasesupport -O0 -o CMakeFiles/CWE835_Infinite_Loop__while_01-good.dir/CWE835_Infinite_Loop__while_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop/CWE835_Infinite_Loop__while_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop/CWE835_Infinite_Loop__while_01.c",
+  "output": "CMakeFiles/CWE835_Infinite_Loop__while_01-good.dir/CWE835_Infinite_Loop__while_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop/../../testcasesupport -O0 -o CMakeFiles/CWE835_Infinite_Loop__while_01-bad.dir/CWE835_Infinite_Loop__while_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop/CWE835_Infinite_Loop__while_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop/CWE835_Infinite_Loop__while_01.c",
+  "output": "CMakeFiles/CWE835_Infinite_Loop__while_01-bad.dir/CWE835_Infinite_Loop__while_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop/../../testcasesupport -O0 -o CMakeFiles/CWE835_Infinite_Loop__while_true_01-good.dir/CWE835_Infinite_Loop__while_true_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop/CWE835_Infinite_Loop__while_true_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop/CWE835_Infinite_Loop__while_true_01.c",
+  "output": "CMakeFiles/CWE835_Infinite_Loop__while_true_01-good.dir/CWE835_Infinite_Loop__while_true_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop/../../testcasesupport -O0 -o CMakeFiles/CWE835_Infinite_Loop__while_true_01-bad.dir/CWE835_Infinite_Loop__while_true_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop/CWE835_Infinite_Loop__while_true_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE835_Infinite_Loop/CWE835_Infinite_Loop__while_true_01.c",
+  "output": "CMakeFiles/CWE835_Infinite_Loop__while_true_01-bad.dir/CWE835_Infinite_Loop__while_true_01.c.o"
+}
+]

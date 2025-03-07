@@ -1,0 +1,662 @@
+[
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c",
+  "output": "CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c",
+  "output": "CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__counter_01-good.dir/CWE511_Logic_Time_Bomb__counter_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_01.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__counter_01-good.dir/CWE511_Logic_Time_Bomb__counter_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__counter_01-bad.dir/CWE511_Logic_Time_Bomb__counter_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_01.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__counter_01-bad.dir/CWE511_Logic_Time_Bomb__counter_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__counter_02-good.dir/CWE511_Logic_Time_Bomb__counter_02.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_02.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_02.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__counter_02-good.dir/CWE511_Logic_Time_Bomb__counter_02.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__counter_02-bad.dir/CWE511_Logic_Time_Bomb__counter_02.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_02.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_02.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__counter_02-bad.dir/CWE511_Logic_Time_Bomb__counter_02.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__counter_03-good.dir/CWE511_Logic_Time_Bomb__counter_03.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_03.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_03.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__counter_03-good.dir/CWE511_Logic_Time_Bomb__counter_03.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__counter_03-bad.dir/CWE511_Logic_Time_Bomb__counter_03.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_03.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_03.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__counter_03-bad.dir/CWE511_Logic_Time_Bomb__counter_03.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__counter_04-good.dir/CWE511_Logic_Time_Bomb__counter_04.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_04.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_04.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__counter_04-good.dir/CWE511_Logic_Time_Bomb__counter_04.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__counter_04-bad.dir/CWE511_Logic_Time_Bomb__counter_04.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_04.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_04.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__counter_04-bad.dir/CWE511_Logic_Time_Bomb__counter_04.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__counter_05-good.dir/CWE511_Logic_Time_Bomb__counter_05.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_05.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_05.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__counter_05-good.dir/CWE511_Logic_Time_Bomb__counter_05.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__counter_05-bad.dir/CWE511_Logic_Time_Bomb__counter_05.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_05.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_05.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__counter_05-bad.dir/CWE511_Logic_Time_Bomb__counter_05.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__counter_06-good.dir/CWE511_Logic_Time_Bomb__counter_06.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_06.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_06.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__counter_06-good.dir/CWE511_Logic_Time_Bomb__counter_06.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__counter_06-bad.dir/CWE511_Logic_Time_Bomb__counter_06.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_06.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_06.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__counter_06-bad.dir/CWE511_Logic_Time_Bomb__counter_06.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__counter_07-good.dir/CWE511_Logic_Time_Bomb__counter_07.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_07.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_07.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__counter_07-good.dir/CWE511_Logic_Time_Bomb__counter_07.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__counter_07-bad.dir/CWE511_Logic_Time_Bomb__counter_07.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_07.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_07.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__counter_07-bad.dir/CWE511_Logic_Time_Bomb__counter_07.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__counter_08-good.dir/CWE511_Logic_Time_Bomb__counter_08.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_08.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_08.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__counter_08-good.dir/CWE511_Logic_Time_Bomb__counter_08.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__counter_08-bad.dir/CWE511_Logic_Time_Bomb__counter_08.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_08.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_08.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__counter_08-bad.dir/CWE511_Logic_Time_Bomb__counter_08.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__counter_09-good.dir/CWE511_Logic_Time_Bomb__counter_09.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_09.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_09.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__counter_09-good.dir/CWE511_Logic_Time_Bomb__counter_09.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__counter_09-bad.dir/CWE511_Logic_Time_Bomb__counter_09.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_09.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_09.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__counter_09-bad.dir/CWE511_Logic_Time_Bomb__counter_09.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__counter_10-good.dir/CWE511_Logic_Time_Bomb__counter_10.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_10.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_10.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__counter_10-good.dir/CWE511_Logic_Time_Bomb__counter_10.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__counter_10-bad.dir/CWE511_Logic_Time_Bomb__counter_10.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_10.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_10.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__counter_10-bad.dir/CWE511_Logic_Time_Bomb__counter_10.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__counter_11-good.dir/CWE511_Logic_Time_Bomb__counter_11.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_11.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_11.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__counter_11-good.dir/CWE511_Logic_Time_Bomb__counter_11.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__counter_11-bad.dir/CWE511_Logic_Time_Bomb__counter_11.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_11.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_11.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__counter_11-bad.dir/CWE511_Logic_Time_Bomb__counter_11.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__counter_12-good.dir/CWE511_Logic_Time_Bomb__counter_12.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_12.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_12.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__counter_12-good.dir/CWE511_Logic_Time_Bomb__counter_12.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__counter_12-bad.dir/CWE511_Logic_Time_Bomb__counter_12.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_12.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_12.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__counter_12-bad.dir/CWE511_Logic_Time_Bomb__counter_12.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__counter_13-good.dir/CWE511_Logic_Time_Bomb__counter_13.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_13.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_13.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__counter_13-good.dir/CWE511_Logic_Time_Bomb__counter_13.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__counter_13-bad.dir/CWE511_Logic_Time_Bomb__counter_13.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_13.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_13.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__counter_13-bad.dir/CWE511_Logic_Time_Bomb__counter_13.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__counter_14-good.dir/CWE511_Logic_Time_Bomb__counter_14.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_14.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_14.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__counter_14-good.dir/CWE511_Logic_Time_Bomb__counter_14.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__counter_14-bad.dir/CWE511_Logic_Time_Bomb__counter_14.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_14.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_14.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__counter_14-bad.dir/CWE511_Logic_Time_Bomb__counter_14.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__counter_15-good.dir/CWE511_Logic_Time_Bomb__counter_15.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_15.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_15.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__counter_15-good.dir/CWE511_Logic_Time_Bomb__counter_15.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__counter_15-bad.dir/CWE511_Logic_Time_Bomb__counter_15.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_15.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_15.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__counter_15-bad.dir/CWE511_Logic_Time_Bomb__counter_15.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__counter_16-good.dir/CWE511_Logic_Time_Bomb__counter_16.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_16.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_16.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__counter_16-good.dir/CWE511_Logic_Time_Bomb__counter_16.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__counter_16-bad.dir/CWE511_Logic_Time_Bomb__counter_16.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_16.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_16.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__counter_16-bad.dir/CWE511_Logic_Time_Bomb__counter_16.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__counter_17-good.dir/CWE511_Logic_Time_Bomb__counter_17.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_17.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_17.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__counter_17-good.dir/CWE511_Logic_Time_Bomb__counter_17.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__counter_17-bad.dir/CWE511_Logic_Time_Bomb__counter_17.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_17.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_17.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__counter_17-bad.dir/CWE511_Logic_Time_Bomb__counter_17.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__counter_18-good.dir/CWE511_Logic_Time_Bomb__counter_18.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_18.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_18.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__counter_18-good.dir/CWE511_Logic_Time_Bomb__counter_18.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__counter_18-bad.dir/CWE511_Logic_Time_Bomb__counter_18.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_18.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__counter_18.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__counter_18-bad.dir/CWE511_Logic_Time_Bomb__counter_18.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__rand_01-good.dir/CWE511_Logic_Time_Bomb__rand_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_01.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__rand_01-good.dir/CWE511_Logic_Time_Bomb__rand_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__rand_01-bad.dir/CWE511_Logic_Time_Bomb__rand_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_01.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__rand_01-bad.dir/CWE511_Logic_Time_Bomb__rand_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__rand_02-good.dir/CWE511_Logic_Time_Bomb__rand_02.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_02.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_02.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__rand_02-good.dir/CWE511_Logic_Time_Bomb__rand_02.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__rand_02-bad.dir/CWE511_Logic_Time_Bomb__rand_02.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_02.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_02.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__rand_02-bad.dir/CWE511_Logic_Time_Bomb__rand_02.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__rand_03-good.dir/CWE511_Logic_Time_Bomb__rand_03.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_03.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_03.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__rand_03-good.dir/CWE511_Logic_Time_Bomb__rand_03.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__rand_03-bad.dir/CWE511_Logic_Time_Bomb__rand_03.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_03.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_03.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__rand_03-bad.dir/CWE511_Logic_Time_Bomb__rand_03.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__rand_04-good.dir/CWE511_Logic_Time_Bomb__rand_04.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_04.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_04.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__rand_04-good.dir/CWE511_Logic_Time_Bomb__rand_04.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__rand_04-bad.dir/CWE511_Logic_Time_Bomb__rand_04.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_04.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_04.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__rand_04-bad.dir/CWE511_Logic_Time_Bomb__rand_04.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__rand_05-good.dir/CWE511_Logic_Time_Bomb__rand_05.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_05.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_05.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__rand_05-good.dir/CWE511_Logic_Time_Bomb__rand_05.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__rand_05-bad.dir/CWE511_Logic_Time_Bomb__rand_05.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_05.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_05.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__rand_05-bad.dir/CWE511_Logic_Time_Bomb__rand_05.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__rand_06-good.dir/CWE511_Logic_Time_Bomb__rand_06.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_06.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_06.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__rand_06-good.dir/CWE511_Logic_Time_Bomb__rand_06.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__rand_06-bad.dir/CWE511_Logic_Time_Bomb__rand_06.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_06.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_06.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__rand_06-bad.dir/CWE511_Logic_Time_Bomb__rand_06.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__rand_07-good.dir/CWE511_Logic_Time_Bomb__rand_07.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_07.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_07.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__rand_07-good.dir/CWE511_Logic_Time_Bomb__rand_07.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__rand_07-bad.dir/CWE511_Logic_Time_Bomb__rand_07.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_07.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_07.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__rand_07-bad.dir/CWE511_Logic_Time_Bomb__rand_07.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__rand_08-good.dir/CWE511_Logic_Time_Bomb__rand_08.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_08.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_08.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__rand_08-good.dir/CWE511_Logic_Time_Bomb__rand_08.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__rand_08-bad.dir/CWE511_Logic_Time_Bomb__rand_08.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_08.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_08.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__rand_08-bad.dir/CWE511_Logic_Time_Bomb__rand_08.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__rand_09-good.dir/CWE511_Logic_Time_Bomb__rand_09.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_09.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_09.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__rand_09-good.dir/CWE511_Logic_Time_Bomb__rand_09.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__rand_09-bad.dir/CWE511_Logic_Time_Bomb__rand_09.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_09.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_09.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__rand_09-bad.dir/CWE511_Logic_Time_Bomb__rand_09.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__rand_10-good.dir/CWE511_Logic_Time_Bomb__rand_10.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_10.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_10.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__rand_10-good.dir/CWE511_Logic_Time_Bomb__rand_10.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__rand_10-bad.dir/CWE511_Logic_Time_Bomb__rand_10.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_10.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_10.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__rand_10-bad.dir/CWE511_Logic_Time_Bomb__rand_10.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__rand_11-good.dir/CWE511_Logic_Time_Bomb__rand_11.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_11.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_11.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__rand_11-good.dir/CWE511_Logic_Time_Bomb__rand_11.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__rand_11-bad.dir/CWE511_Logic_Time_Bomb__rand_11.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_11.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_11.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__rand_11-bad.dir/CWE511_Logic_Time_Bomb__rand_11.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__rand_12-good.dir/CWE511_Logic_Time_Bomb__rand_12.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_12.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_12.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__rand_12-good.dir/CWE511_Logic_Time_Bomb__rand_12.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__rand_12-bad.dir/CWE511_Logic_Time_Bomb__rand_12.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_12.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_12.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__rand_12-bad.dir/CWE511_Logic_Time_Bomb__rand_12.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__rand_13-good.dir/CWE511_Logic_Time_Bomb__rand_13.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_13.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_13.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__rand_13-good.dir/CWE511_Logic_Time_Bomb__rand_13.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__rand_13-bad.dir/CWE511_Logic_Time_Bomb__rand_13.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_13.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_13.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__rand_13-bad.dir/CWE511_Logic_Time_Bomb__rand_13.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__rand_14-good.dir/CWE511_Logic_Time_Bomb__rand_14.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_14.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_14.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__rand_14-good.dir/CWE511_Logic_Time_Bomb__rand_14.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__rand_14-bad.dir/CWE511_Logic_Time_Bomb__rand_14.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_14.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_14.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__rand_14-bad.dir/CWE511_Logic_Time_Bomb__rand_14.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__rand_15-good.dir/CWE511_Logic_Time_Bomb__rand_15.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_15.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_15.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__rand_15-good.dir/CWE511_Logic_Time_Bomb__rand_15.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__rand_15-bad.dir/CWE511_Logic_Time_Bomb__rand_15.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_15.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_15.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__rand_15-bad.dir/CWE511_Logic_Time_Bomb__rand_15.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__rand_16-good.dir/CWE511_Logic_Time_Bomb__rand_16.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_16.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_16.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__rand_16-good.dir/CWE511_Logic_Time_Bomb__rand_16.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__rand_16-bad.dir/CWE511_Logic_Time_Bomb__rand_16.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_16.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_16.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__rand_16-bad.dir/CWE511_Logic_Time_Bomb__rand_16.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__rand_17-good.dir/CWE511_Logic_Time_Bomb__rand_17.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_17.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_17.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__rand_17-good.dir/CWE511_Logic_Time_Bomb__rand_17.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__rand_17-bad.dir/CWE511_Logic_Time_Bomb__rand_17.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_17.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_17.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__rand_17-bad.dir/CWE511_Logic_Time_Bomb__rand_17.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__rand_18-good.dir/CWE511_Logic_Time_Bomb__rand_18.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_18.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_18.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__rand_18-good.dir/CWE511_Logic_Time_Bomb__rand_18.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__rand_18-bad.dir/CWE511_Logic_Time_Bomb__rand_18.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_18.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__rand_18.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__rand_18-bad.dir/CWE511_Logic_Time_Bomb__rand_18.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__time_01-good.dir/CWE511_Logic_Time_Bomb__time_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_01.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__time_01-good.dir/CWE511_Logic_Time_Bomb__time_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__time_01-bad.dir/CWE511_Logic_Time_Bomb__time_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_01.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__time_01-bad.dir/CWE511_Logic_Time_Bomb__time_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__time_02-good.dir/CWE511_Logic_Time_Bomb__time_02.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_02.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_02.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__time_02-good.dir/CWE511_Logic_Time_Bomb__time_02.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__time_02-bad.dir/CWE511_Logic_Time_Bomb__time_02.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_02.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_02.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__time_02-bad.dir/CWE511_Logic_Time_Bomb__time_02.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__time_03-good.dir/CWE511_Logic_Time_Bomb__time_03.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_03.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_03.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__time_03-good.dir/CWE511_Logic_Time_Bomb__time_03.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__time_03-bad.dir/CWE511_Logic_Time_Bomb__time_03.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_03.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_03.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__time_03-bad.dir/CWE511_Logic_Time_Bomb__time_03.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__time_04-good.dir/CWE511_Logic_Time_Bomb__time_04.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_04.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_04.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__time_04-good.dir/CWE511_Logic_Time_Bomb__time_04.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__time_04-bad.dir/CWE511_Logic_Time_Bomb__time_04.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_04.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_04.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__time_04-bad.dir/CWE511_Logic_Time_Bomb__time_04.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__time_05-good.dir/CWE511_Logic_Time_Bomb__time_05.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_05.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_05.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__time_05-good.dir/CWE511_Logic_Time_Bomb__time_05.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__time_05-bad.dir/CWE511_Logic_Time_Bomb__time_05.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_05.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_05.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__time_05-bad.dir/CWE511_Logic_Time_Bomb__time_05.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__time_06-good.dir/CWE511_Logic_Time_Bomb__time_06.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_06.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_06.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__time_06-good.dir/CWE511_Logic_Time_Bomb__time_06.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__time_06-bad.dir/CWE511_Logic_Time_Bomb__time_06.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_06.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_06.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__time_06-bad.dir/CWE511_Logic_Time_Bomb__time_06.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__time_07-good.dir/CWE511_Logic_Time_Bomb__time_07.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_07.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_07.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__time_07-good.dir/CWE511_Logic_Time_Bomb__time_07.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__time_07-bad.dir/CWE511_Logic_Time_Bomb__time_07.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_07.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_07.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__time_07-bad.dir/CWE511_Logic_Time_Bomb__time_07.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__time_08-good.dir/CWE511_Logic_Time_Bomb__time_08.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_08.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_08.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__time_08-good.dir/CWE511_Logic_Time_Bomb__time_08.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__time_08-bad.dir/CWE511_Logic_Time_Bomb__time_08.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_08.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_08.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__time_08-bad.dir/CWE511_Logic_Time_Bomb__time_08.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__time_09-good.dir/CWE511_Logic_Time_Bomb__time_09.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_09.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_09.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__time_09-good.dir/CWE511_Logic_Time_Bomb__time_09.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__time_09-bad.dir/CWE511_Logic_Time_Bomb__time_09.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_09.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_09.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__time_09-bad.dir/CWE511_Logic_Time_Bomb__time_09.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__time_10-good.dir/CWE511_Logic_Time_Bomb__time_10.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_10.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_10.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__time_10-good.dir/CWE511_Logic_Time_Bomb__time_10.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__time_10-bad.dir/CWE511_Logic_Time_Bomb__time_10.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_10.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_10.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__time_10-bad.dir/CWE511_Logic_Time_Bomb__time_10.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__time_11-good.dir/CWE511_Logic_Time_Bomb__time_11.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_11.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_11.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__time_11-good.dir/CWE511_Logic_Time_Bomb__time_11.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__time_11-bad.dir/CWE511_Logic_Time_Bomb__time_11.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_11.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_11.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__time_11-bad.dir/CWE511_Logic_Time_Bomb__time_11.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__time_12-good.dir/CWE511_Logic_Time_Bomb__time_12.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_12.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_12.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__time_12-good.dir/CWE511_Logic_Time_Bomb__time_12.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__time_12-bad.dir/CWE511_Logic_Time_Bomb__time_12.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_12.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_12.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__time_12-bad.dir/CWE511_Logic_Time_Bomb__time_12.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__time_13-good.dir/CWE511_Logic_Time_Bomb__time_13.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_13.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_13.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__time_13-good.dir/CWE511_Logic_Time_Bomb__time_13.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__time_13-bad.dir/CWE511_Logic_Time_Bomb__time_13.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_13.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_13.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__time_13-bad.dir/CWE511_Logic_Time_Bomb__time_13.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__time_14-good.dir/CWE511_Logic_Time_Bomb__time_14.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_14.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_14.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__time_14-good.dir/CWE511_Logic_Time_Bomb__time_14.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__time_14-bad.dir/CWE511_Logic_Time_Bomb__time_14.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_14.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_14.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__time_14-bad.dir/CWE511_Logic_Time_Bomb__time_14.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__time_15-good.dir/CWE511_Logic_Time_Bomb__time_15.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_15.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_15.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__time_15-good.dir/CWE511_Logic_Time_Bomb__time_15.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__time_15-bad.dir/CWE511_Logic_Time_Bomb__time_15.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_15.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_15.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__time_15-bad.dir/CWE511_Logic_Time_Bomb__time_15.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__time_16-good.dir/CWE511_Logic_Time_Bomb__time_16.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_16.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_16.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__time_16-good.dir/CWE511_Logic_Time_Bomb__time_16.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__time_16-bad.dir/CWE511_Logic_Time_Bomb__time_16.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_16.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_16.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__time_16-bad.dir/CWE511_Logic_Time_Bomb__time_16.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__time_17-good.dir/CWE511_Logic_Time_Bomb__time_17.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_17.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_17.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__time_17-good.dir/CWE511_Logic_Time_Bomb__time_17.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__time_17-bad.dir/CWE511_Logic_Time_Bomb__time_17.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_17.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_17.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__time_17-bad.dir/CWE511_Logic_Time_Bomb__time_17.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__time_18-good.dir/CWE511_Logic_Time_Bomb__time_18.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_18.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_18.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__time_18-good.dir/CWE511_Logic_Time_Bomb__time_18.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/../../testcasesupport -O0 -o CMakeFiles/CWE511_Logic_Time_Bomb__time_18-bad.dir/CWE511_Logic_Time_Bomb__time_18.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_18.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE511_Logic_Time_Bomb/CWE511_Logic_Time_Bomb__time_18.c",
+  "output": "CMakeFiles/CWE511_Logic_Time_Bomb__time_18-bad.dir/CWE511_Logic_Time_Bomb__time_18.c.o"
+}
+]

@@ -1,0 +1,553 @@
+STDOUT:
+scan-build: Using '/usr/lib/llvm-18/bin/clang' for static analysis
+[  1%] Building C object CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c.o
+[  1%] Built target copy-run-script
+[  1%] Building C object CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c.o
+[  2%] Linking C static library /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/support/libsupport.a
+[  2%] Built target support
+[  2%] Building C object CMakeFiles/CWE546_Suspicious_Comment__BUG_01-good.dir/CWE546_Suspicious_Comment__BUG_01.c.o
+[  2%] Building C object CMakeFiles/CWE546_Suspicious_Comment__BUG_02-good.dir/CWE546_Suspicious_Comment__BUG_02.c.o
+[  2%] Building C object CMakeFiles/CWE546_Suspicious_Comment__BUG_01-bad.dir/CWE546_Suspicious_Comment__BUG_01.c.o
+[  2%] Building C object CMakeFiles/CWE546_Suspicious_Comment__BUG_03-bad.dir/CWE546_Suspicious_Comment__BUG_03.c.o
+[  3%] Building C object CMakeFiles/CWE546_Suspicious_Comment__BUG_04-good.dir/CWE546_Suspicious_Comment__BUG_04.c.o
+[  4%] Building C object CMakeFiles/CWE546_Suspicious_Comment__BUG_03-good.dir/CWE546_Suspicious_Comment__BUG_03.c.o
+[  4%] Building C object CMakeFiles/CWE546_Suspicious_Comment__BUG_02-bad.dir/CWE546_Suspicious_Comment__BUG_02.c.o
+[  4%] Building C object CMakeFiles/CWE546_Suspicious_Comment__BUG_04-bad.dir/CWE546_Suspicious_Comment__BUG_04.c.o
+[  4%] Building C object CMakeFiles/CWE546_Suspicious_Comment__BUG_07-good.dir/CWE546_Suspicious_Comment__BUG_07.c.o
+[  4%] Building C object CMakeFiles/CWE546_Suspicious_Comment__BUG_05-bad.dir/CWE546_Suspicious_Comment__BUG_05.c.o
+[  4%] Building C object CMakeFiles/CWE546_Suspicious_Comment__BUG_07-bad.dir/CWE546_Suspicious_Comment__BUG_07.c.o
+[  5%] Building C object CMakeFiles/CWE546_Suspicious_Comment__BUG_08-good.dir/CWE546_Suspicious_Comment__BUG_08.c.o
+[  5%] Building C object CMakeFiles/CWE546_Suspicious_Comment__BUG_05-good.dir/CWE546_Suspicious_Comment__BUG_05.c.o
+[  5%] Building C object CMakeFiles/CWE546_Suspicious_Comment__BUG_08-bad.dir/CWE546_Suspicious_Comment__BUG_08.c.o
+[  5%] Building C object CMakeFiles/CWE546_Suspicious_Comment__BUG_06-bad.dir/CWE546_Suspicious_Comment__BUG_06.c.o
+[  7%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__BUG_02-good
+[  7%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__BUG_03-good
+[  7%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__BUG_03-bad
+[  7%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__BUG_01-good
+[  7%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__BUG_02-bad
+[  7%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__BUG_04-bad
+[  7%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__BUG_07-good
+[  7%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__BUG_01-bad
+[  7%] Building C object CMakeFiles/CWE546_Suspicious_Comment__BUG_06-good.dir/CWE546_Suspicious_Comment__BUG_06.c.o
+[  7%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__BUG_05-bad
+[  8%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__BUG_04-good
+[  8%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__BUG_08-bad
+[  9%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__BUG_07-bad
+[  9%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__BUG_05-good
+[  9%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__BUG_08-good
+[ 10%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__BUG_06-bad
+[ 10%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__BUG_06-good
+[ 10%] Built target CWE546_Suspicious_Comment__BUG_03-good
+[ 10%] Built target CWE546_Suspicious_Comment__BUG_01-good
+[ 10%] Built target CWE546_Suspicious_Comment__BUG_02-good
+[ 10%] Built target CWE546_Suspicious_Comment__BUG_07-good
+[ 10%] Built target CWE546_Suspicious_Comment__BUG_03-bad
+[ 10%] Built target CWE546_Suspicious_Comment__BUG_04-bad
+[ 10%] Built target CWE546_Suspicious_Comment__BUG_05-bad
+[ 10%] Built target CWE546_Suspicious_Comment__BUG_01-bad
+[ 10%] Built target CWE546_Suspicious_Comment__BUG_08-bad
+[ 10%] Built target CWE546_Suspicious_Comment__BUG_07-bad
+[ 10%] Built target CWE546_Suspicious_Comment__BUG_02-bad
+[ 10%] Built target CWE546_Suspicious_Comment__BUG_04-good
+[ 10%] Built target CWE546_Suspicious_Comment__BUG_05-good
+[ 10%] Building C object CMakeFiles/CWE546_Suspicious_Comment__BUG_09-good.dir/CWE546_Suspicious_Comment__BUG_09.c.o
+[ 10%] Building C object CMakeFiles/CWE546_Suspicious_Comment__BUG_10-good.dir/CWE546_Suspicious_Comment__BUG_10.c.o
+[ 10%] Built target CWE546_Suspicious_Comment__BUG_08-good
+[ 11%] Building C object CMakeFiles/CWE546_Suspicious_Comment__BUG_09-bad.dir/CWE546_Suspicious_Comment__BUG_09.c.o
+[ 11%] Building C object CMakeFiles/CWE546_Suspicious_Comment__BUG_12-good.dir/CWE546_Suspicious_Comment__BUG_12.c.o
+[ 12%] Building C object CMakeFiles/CWE546_Suspicious_Comment__BUG_13-good.dir/CWE546_Suspicious_Comment__BUG_13.c.o
+[ 13%] Building C object CMakeFiles/CWE546_Suspicious_Comment__BUG_10-bad.dir/CWE546_Suspicious_Comment__BUG_10.c.o
+[ 14%] Building C object CMakeFiles/CWE546_Suspicious_Comment__BUG_11-bad.dir/CWE546_Suspicious_Comment__BUG_11.c.o
+[ 15%] Building C object CMakeFiles/CWE546_Suspicious_Comment__BUG_11-good.dir/CWE546_Suspicious_Comment__BUG_11.c.o
+[ 15%] Building C object CMakeFiles/CWE546_Suspicious_Comment__BUG_13-bad.dir/CWE546_Suspicious_Comment__BUG_13.c.o
+[ 15%] Building C object CMakeFiles/CWE546_Suspicious_Comment__BUG_14-good.dir/CWE546_Suspicious_Comment__BUG_14.c.o
+[ 15%] Building C object CMakeFiles/CWE546_Suspicious_Comment__BUG_14-bad.dir/CWE546_Suspicious_Comment__BUG_14.c.o
+[ 16%] Building C object CMakeFiles/CWE546_Suspicious_Comment__BUG_15-good.dir/CWE546_Suspicious_Comment__BUG_15.c.o
+[ 16%] Built target CWE546_Suspicious_Comment__BUG_06-bad
+[ 16%] Building C object CMakeFiles/CWE546_Suspicious_Comment__BUG_15-bad.dir/CWE546_Suspicious_Comment__BUG_15.c.o
+[ 16%] Building C object CMakeFiles/CWE546_Suspicious_Comment__BUG_12-bad.dir/CWE546_Suspicious_Comment__BUG_12.c.o
+[ 16%] Building C object CMakeFiles/CWE546_Suspicious_Comment__BUG_16-good.dir/CWE546_Suspicious_Comment__BUG_16.c.o
+[ 17%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__BUG_10-good
+[ 17%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__BUG_12-good
+[ 17%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__BUG_09-bad
+[ 17%] Built target CWE546_Suspicious_Comment__BUG_06-good
+[ 17%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__BUG_13-bad
+[ 17%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__BUG_11-bad
+[ 17%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__BUG_13-good
+[ 17%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__BUG_10-bad
+[ 17%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__BUG_09-good
+[ 17%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__BUG_14-good
+[ 17%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__BUG_15-good
+[ 17%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__BUG_14-bad
+[ 17%] Building C object CMakeFiles/CWE546_Suspicious_Comment__BUG_16-bad.dir/CWE546_Suspicious_Comment__BUG_16.c.o
+[ 17%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__BUG_15-bad
+[ 18%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__BUG_11-good
+[ 18%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__BUG_16-good
+[ 18%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__BUG_12-bad
+[ 19%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__BUG_16-bad
+[ 19%] Built target CWE546_Suspicious_Comment__BUG_09-good
+[ 19%] Built target CWE546_Suspicious_Comment__BUG_10-good
+[ 19%] Built target CWE546_Suspicious_Comment__BUG_13-bad
+[ 19%] Built target CWE546_Suspicious_Comment__BUG_11-bad
+[ 19%] Built target CWE546_Suspicious_Comment__BUG_14-good
+[ 19%] Built target CWE546_Suspicious_Comment__BUG_10-bad
+[ 19%] Built target CWE546_Suspicious_Comment__BUG_13-good
+[ 19%] Built target CWE546_Suspicious_Comment__BUG_09-bad
+[ 19%] Built target CWE546_Suspicious_Comment__BUG_12-good
+[ 19%] Built target CWE546_Suspicious_Comment__BUG_15-good
+[ 19%] Built target CWE546_Suspicious_Comment__BUG_15-bad
+[ 19%] Building C object CMakeFiles/CWE546_Suspicious_Comment__BUG_18-bad.dir/CWE546_Suspicious_Comment__BUG_18.c.o
+[ 19%] Building C object CMakeFiles/CWE546_Suspicious_Comment__BUG_17-good.dir/CWE546_Suspicious_Comment__BUG_17.c.o
+[ 19%] Building C object CMakeFiles/CWE546_Suspicious_Comment__BUG_18-good.dir/CWE546_Suspicious_Comment__BUG_18.c.o
+[ 19%] Built target CWE546_Suspicious_Comment__BUG_14-bad
+[ 19%] Building C object CMakeFiles/CWE546_Suspicious_Comment__FIXME_01-good.dir/CWE546_Suspicious_Comment__FIXME_01.c.o
+[ 20%] Building C object CMakeFiles/CWE546_Suspicious_Comment__FIXME_01-bad.dir/CWE546_Suspicious_Comment__FIXME_01.c.o
+[ 20%] Built target CWE546_Suspicious_Comment__BUG_11-good
+[ 20%] Building C object CMakeFiles/CWE546_Suspicious_Comment__FIXME_02-good.dir/CWE546_Suspicious_Comment__FIXME_02.c.o
+[ 20%] Building C object CMakeFiles/CWE546_Suspicious_Comment__BUG_17-bad.dir/CWE546_Suspicious_Comment__BUG_17.c.o
+[ 21%] Building C object CMakeFiles/CWE546_Suspicious_Comment__FIXME_02-bad.dir/CWE546_Suspicious_Comment__FIXME_02.c.o
+[ 21%] Built target CWE546_Suspicious_Comment__BUG_16-good
+[ 21%] Built target CWE546_Suspicious_Comment__BUG_12-bad
+[ 21%] Building C object CMakeFiles/CWE546_Suspicious_Comment__FIXME_03-good.dir/CWE546_Suspicious_Comment__FIXME_03.c.o
+[ 21%] Building C object CMakeFiles/CWE546_Suspicious_Comment__FIXME_04-bad.dir/CWE546_Suspicious_Comment__FIXME_04.c.o
+[ 21%] Building C object CMakeFiles/CWE546_Suspicious_Comment__FIXME_04-good.dir/CWE546_Suspicious_Comment__FIXME_04.c.o
+[ 21%] Building C object CMakeFiles/CWE546_Suspicious_Comment__FIXME_05-bad.dir/CWE546_Suspicious_Comment__FIXME_05.c.o
+[ 22%] Building C object CMakeFiles/CWE546_Suspicious_Comment__FIXME_06-good.dir/CWE546_Suspicious_Comment__FIXME_06.c.o
+[ 23%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__FIXME_01-good
+[ 23%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__BUG_18-good
+[ 23%] Building C object CMakeFiles/CWE546_Suspicious_Comment__FIXME_03-bad.dir/CWE546_Suspicious_Comment__FIXME_03.c.o
+[ 23%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__FIXME_02-good
+[ 24%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__BUG_17-bad
+[ 24%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__FIXME_01-bad
+[ 25%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__BUG_18-bad
+[ 25%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__FIXME_02-bad
+[ 25%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__BUG_17-good
+[ 26%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__FIXME_03-good
+[ 27%] Building C object CMakeFiles/CWE546_Suspicious_Comment__FIXME_05-good.dir/CWE546_Suspicious_Comment__FIXME_05.c.o
+[ 27%] Built target CWE546_Suspicious_Comment__BUG_16-bad
+[ 27%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__FIXME_05-bad
+[ 28%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__FIXME_04-good
+[ 28%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__FIXME_06-good
+[ 28%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__FIXME_04-bad
+[ 28%] Building C object CMakeFiles/CWE546_Suspicious_Comment__FIXME_06-bad.dir/CWE546_Suspicious_Comment__FIXME_06.c.o
+[ 28%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__FIXME_03-bad
+[ 28%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__FIXME_05-good
+[ 28%] Built target CWE546_Suspicious_Comment__BUG_18-good
+[ 28%] Built target CWE546_Suspicious_Comment__BUG_17-bad
+[ 28%] Built target CWE546_Suspicious_Comment__FIXME_01-good
+[ 28%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__FIXME_06-bad
+[ 28%] Built target CWE546_Suspicious_Comment__FIXME_02-good
+[ 28%] Built target CWE546_Suspicious_Comment__BUG_17-good
+[ 28%] Built target CWE546_Suspicious_Comment__FIXME_01-bad
+[ 28%] Built target CWE546_Suspicious_Comment__FIXME_02-bad
+[ 29%] Building C object CMakeFiles/CWE546_Suspicious_Comment__FIXME_07-good.dir/CWE546_Suspicious_Comment__FIXME_07.c.o
+[ 29%] Building C object CMakeFiles/CWE546_Suspicious_Comment__FIXME_07-bad.dir/CWE546_Suspicious_Comment__FIXME_07.c.o
+[ 29%] Built target CWE546_Suspicious_Comment__FIXME_03-good
+[ 29%] Building C object CMakeFiles/CWE546_Suspicious_Comment__FIXME_08-good.dir/CWE546_Suspicious_Comment__FIXME_08.c.o
+[ 29%] Built target CWE546_Suspicious_Comment__BUG_18-bad
+[ 29%] Building C object CMakeFiles/CWE546_Suspicious_Comment__FIXME_08-bad.dir/CWE546_Suspicious_Comment__FIXME_08.c.o
+[ 29%] Building C object CMakeFiles/CWE546_Suspicious_Comment__FIXME_09-good.dir/CWE546_Suspicious_Comment__FIXME_09.c.o
+[ 29%] Built target CWE546_Suspicious_Comment__FIXME_04-good
+[ 29%] Built target CWE546_Suspicious_Comment__FIXME_05-bad
+[ 29%] Building C object CMakeFiles/CWE546_Suspicious_Comment__FIXME_09-bad.dir/CWE546_Suspicious_Comment__FIXME_09.c.o
+[ 29%] Building C object CMakeFiles/CWE546_Suspicious_Comment__FIXME_10-bad.dir/CWE546_Suspicious_Comment__FIXME_10.c.o
+[ 29%] Building C object CMakeFiles/CWE546_Suspicious_Comment__FIXME_10-good.dir/CWE546_Suspicious_Comment__FIXME_10.c.o
+[ 29%] Building C object CMakeFiles/CWE546_Suspicious_Comment__FIXME_11-good.dir/CWE546_Suspicious_Comment__FIXME_11.c.o
+[ 29%] Built target CWE546_Suspicious_Comment__FIXME_04-bad
+[ 29%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__FIXME_07-good
+[ 29%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__FIXME_07-bad
+[ 29%] Building C object CMakeFiles/CWE546_Suspicious_Comment__FIXME_12-good.dir/CWE546_Suspicious_Comment__FIXME_12.c.o
+[ 29%] Built target CWE546_Suspicious_Comment__FIXME_03-bad
+[ 30%] Building C object CMakeFiles/CWE546_Suspicious_Comment__FIXME_11-bad.dir/CWE546_Suspicious_Comment__FIXME_11.c.o
+[ 30%] Built target CWE546_Suspicious_Comment__FIXME_06-good
+[ 30%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__FIXME_08-good
+[ 30%] Built target CWE546_Suspicious_Comment__FIXME_05-good
+[ 31%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__FIXME_08-bad
+[ 31%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__FIXME_09-good
+[ 32%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__FIXME_10-bad
+[ 33%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__FIXME_09-bad
+[ 34%] Building C object CMakeFiles/CWE546_Suspicious_Comment__FIXME_12-bad.dir/CWE546_Suspicious_Comment__FIXME_12.c.o
+[ 34%] Building C object CMakeFiles/CWE546_Suspicious_Comment__FIXME_13-good.dir/CWE546_Suspicious_Comment__FIXME_13.c.o
+[ 35%] Building C object CMakeFiles/CWE546_Suspicious_Comment__FIXME_13-bad.dir/CWE546_Suspicious_Comment__FIXME_13.c.o
+[ 35%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__FIXME_11-good
+[ 35%] Building C object CMakeFiles/CWE546_Suspicious_Comment__FIXME_14-good.dir/CWE546_Suspicious_Comment__FIXME_14.c.o
+[ 35%] Built target CWE546_Suspicious_Comment__FIXME_06-bad
+[ 35%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__FIXME_10-good
+[ 35%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__FIXME_11-bad
+[ 35%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__FIXME_12-good
+[ 35%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__FIXME_12-bad
+[ 36%] Building C object CMakeFiles/CWE546_Suspicious_Comment__FIXME_14-bad.dir/CWE546_Suspicious_Comment__FIXME_14.c.o
+[ 36%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__FIXME_13-good
+[ 36%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__FIXME_13-bad
+[ 36%] Built target CWE546_Suspicious_Comment__FIXME_07-bad
+[ 36%] Built target CWE546_Suspicious_Comment__FIXME_07-good
+[ 37%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__FIXME_14-good
+[ 37%] Built target CWE546_Suspicious_Comment__FIXME_08-bad
+[ 37%] Built target CWE546_Suspicious_Comment__FIXME_08-good
+[ 37%] Built target CWE546_Suspicious_Comment__FIXME_10-bad
+[ 37%] Built target CWE546_Suspicious_Comment__FIXME_09-bad
+[ 37%] Building C object CMakeFiles/CWE546_Suspicious_Comment__FIXME_15-bad.dir/CWE546_Suspicious_Comment__FIXME_15.c.o
+[ 37%] Building C object CMakeFiles/CWE546_Suspicious_Comment__FIXME_15-good.dir/CWE546_Suspicious_Comment__FIXME_15.c.o
+[ 37%] Built target CWE546_Suspicious_Comment__FIXME_09-good
+[ 37%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__FIXME_14-bad
+[ 38%] Building C object CMakeFiles/CWE546_Suspicious_Comment__FIXME_16-good.dir/CWE546_Suspicious_Comment__FIXME_16.c.o
+[ 38%] Built target CWE546_Suspicious_Comment__FIXME_11-good
+[ 39%] Building C object CMakeFiles/CWE546_Suspicious_Comment__FIXME_17-good.dir/CWE546_Suspicious_Comment__FIXME_17.c.o
+[ 39%] Building C object CMakeFiles/CWE546_Suspicious_Comment__FIXME_17-bad.dir/CWE546_Suspicious_Comment__FIXME_17.c.o
+[ 39%] Building C object CMakeFiles/CWE546_Suspicious_Comment__FIXME_18-good.dir/CWE546_Suspicious_Comment__FIXME_18.c.o
+[ 39%] Building C object CMakeFiles/CWE546_Suspicious_Comment__FIXME_16-bad.dir/CWE546_Suspicious_Comment__FIXME_16.c.o
+[ 39%] Built target CWE546_Suspicious_Comment__FIXME_12-good
+[ 39%] Built target CWE546_Suspicious_Comment__FIXME_11-bad
+[ 39%] Building C object CMakeFiles/CWE546_Suspicious_Comment__FIXME_18-bad.dir/CWE546_Suspicious_Comment__FIXME_18.c.o
+[ 39%] Built target CWE546_Suspicious_Comment__FIXME_12-bad
+[ 39%] Built target CWE546_Suspicious_Comment__FIXME_10-good
+[ 40%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__FIXME_15-good
+[ 40%] Built target CWE546_Suspicious_Comment__FIXME_13-good
+[ 40%] Building C object CMakeFiles/CWE546_Suspicious_Comment__HACK_01-good.dir/CWE546_Suspicious_Comment__HACK_01.c.o
+[ 40%] Built target CWE546_Suspicious_Comment__FIXME_13-bad
+[ 40%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__FIXME_15-bad
+[ 40%] Building C object CMakeFiles/CWE546_Suspicious_Comment__HACK_01-bad.dir/CWE546_Suspicious_Comment__HACK_01.c.o
+[ 40%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__FIXME_16-good
+[ 40%] Building C object CMakeFiles/CWE546_Suspicious_Comment__HACK_02-good.dir/CWE546_Suspicious_Comment__HACK_02.c.o
+[ 40%] Building C object CMakeFiles/CWE546_Suspicious_Comment__HACK_02-bad.dir/CWE546_Suspicious_Comment__HACK_02.c.o
+[ 40%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__FIXME_17-bad
+[ 40%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__FIXME_16-bad
+[ 40%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__FIXME_17-good
+[ 40%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__FIXME_18-good
+[ 40%] Building C object CMakeFiles/CWE546_Suspicious_Comment__HACK_03-good.dir/CWE546_Suspicious_Comment__HACK_03.c.o
+[ 41%] Building C object CMakeFiles/CWE546_Suspicious_Comment__HACK_03-bad.dir/CWE546_Suspicious_Comment__HACK_03.c.o
+[ 41%] Built target CWE546_Suspicious_Comment__FIXME_14-good
+[ 42%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__FIXME_18-bad
+[ 43%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__HACK_01-bad
+[ 43%] Building C object CMakeFiles/CWE546_Suspicious_Comment__HACK_04-good.dir/CWE546_Suspicious_Comment__HACK_04.c.o
+[ 43%] Built target CWE546_Suspicious_Comment__FIXME_14-bad
+[ 43%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__HACK_01-good
+[ 44%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__HACK_02-bad
+[ 44%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__HACK_02-good
+[ 44%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__HACK_03-good
+[ 44%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__HACK_03-bad
+[ 45%] Building C object CMakeFiles/CWE546_Suspicious_Comment__HACK_04-bad.dir/CWE546_Suspicious_Comment__HACK_04.c.o
+[ 45%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__HACK_04-good
+[ 45%] Built target CWE546_Suspicious_Comment__FIXME_15-bad
+[ 45%] Built target CWE546_Suspicious_Comment__FIXME_15-good
+[ 45%] Built target CWE546_Suspicious_Comment__FIXME_16-good
+[ 45%] Built target CWE546_Suspicious_Comment__FIXME_17-good
+[ 45%] Built target CWE546_Suspicious_Comment__FIXME_16-bad
+[ 45%] Built target CWE546_Suspicious_Comment__FIXME_17-bad
+[ 45%] Built target CWE546_Suspicious_Comment__FIXME_18-good
+[ 46%] Building C object CMakeFiles/CWE546_Suspicious_Comment__HACK_05-good.dir/CWE546_Suspicious_Comment__HACK_05.c.o
+[ 46%] Building C object CMakeFiles/CWE546_Suspicious_Comment__HACK_07-good.dir/CWE546_Suspicious_Comment__HACK_07.c.o
+[ 46%] Building C object CMakeFiles/CWE546_Suspicious_Comment__HACK_06-good.dir/CWE546_Suspicious_Comment__HACK_06.c.o
+[ 46%] Building C object CMakeFiles/CWE546_Suspicious_Comment__HACK_05-bad.dir/CWE546_Suspicious_Comment__HACK_05.c.o
+[ 46%] Building C object CMakeFiles/CWE546_Suspicious_Comment__HACK_07-bad.dir/CWE546_Suspicious_Comment__HACK_07.c.o
+[ 46%] Building C object CMakeFiles/CWE546_Suspicious_Comment__HACK_06-bad.dir/CWE546_Suspicious_Comment__HACK_06.c.o
+[ 46%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__HACK_04-bad
+[ 46%] Built target CWE546_Suspicious_Comment__FIXME_18-bad
+[ 47%] Building C object CMakeFiles/CWE546_Suspicious_Comment__HACK_08-good.dir/CWE546_Suspicious_Comment__HACK_08.c.o
+[ 47%] Built target CWE546_Suspicious_Comment__HACK_02-good
+[ 47%] Built target CWE546_Suspicious_Comment__HACK_02-bad
+[ 47%] Built target CWE546_Suspicious_Comment__HACK_01-good
+[ 47%] Built target CWE546_Suspicious_Comment__HACK_01-bad
+[ 47%] Building C object CMakeFiles/CWE546_Suspicious_Comment__HACK_08-bad.dir/CWE546_Suspicious_Comment__HACK_08.c.o
+[ 47%] Built target CWE546_Suspicious_Comment__HACK_03-good
+[ 47%] Built target CWE546_Suspicious_Comment__HACK_03-bad
+[ 49%] Building C object CMakeFiles/CWE546_Suspicious_Comment__HACK_09-good.dir/CWE546_Suspicious_Comment__HACK_09.c.o
+[ 49%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__HACK_07-bad
+[ 49%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__HACK_05-good
+[ 49%] Building C object CMakeFiles/CWE546_Suspicious_Comment__HACK_10-bad.dir/CWE546_Suspicious_Comment__HACK_10.c.o
+[ 50%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__HACK_07-good
+[ 50%] Building C object CMakeFiles/CWE546_Suspicious_Comment__HACK_09-bad.dir/CWE546_Suspicious_Comment__HACK_09.c.o
+[ 50%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__HACK_06-bad
+[ 50%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__HACK_05-bad
+[ 50%] Building C object CMakeFiles/CWE546_Suspicious_Comment__HACK_10-good.dir/CWE546_Suspicious_Comment__HACK_10.c.o
+[ 51%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__HACK_06-good
+[ 51%] Building C object CMakeFiles/CWE546_Suspicious_Comment__HACK_11-good.dir/CWE546_Suspicious_Comment__HACK_11.c.o
+[ 51%] Building C object CMakeFiles/CWE546_Suspicious_Comment__HACK_11-bad.dir/CWE546_Suspicious_Comment__HACK_11.c.o
+[ 51%] Built target CWE546_Suspicious_Comment__HACK_04-good
+[ 51%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__HACK_08-bad
+[ 51%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__HACK_08-good
+[ 52%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__HACK_10-bad
+[ 52%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__HACK_09-good
+[ 52%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__HACK_09-bad
+[ 52%] Building C object CMakeFiles/CWE546_Suspicious_Comment__HACK_12-good.dir/CWE546_Suspicious_Comment__HACK_12.c.o
+[ 52%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__HACK_10-good
+[ 52%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__HACK_11-good
+[ 53%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__HACK_11-bad
+[ 53%] Built target CWE546_Suspicious_Comment__HACK_04-bad
+[ 53%] Building C object CMakeFiles/CWE546_Suspicious_Comment__HACK_12-bad.dir/CWE546_Suspicious_Comment__HACK_12.c.o
+[ 53%] Built target CWE546_Suspicious_Comment__HACK_05-good
+[ 53%] Built target CWE546_Suspicious_Comment__HACK_05-bad
+[ 53%] Built target CWE546_Suspicious_Comment__HACK_07-good
+[ 53%] Built target CWE546_Suspicious_Comment__HACK_07-bad
+[ 53%] Built target CWE546_Suspicious_Comment__HACK_06-bad
+[ 53%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__HACK_12-good
+[ 53%] Built target CWE546_Suspicious_Comment__HACK_06-good
+[ 53%] Building C object CMakeFiles/CWE546_Suspicious_Comment__HACK_15-good.dir/CWE546_Suspicious_Comment__HACK_15.c.o
+[ 53%] Building C object CMakeFiles/CWE546_Suspicious_Comment__HACK_14-good.dir/CWE546_Suspicious_Comment__HACK_14.c.o
+[ 54%] Building C object CMakeFiles/CWE546_Suspicious_Comment__HACK_14-bad.dir/CWE546_Suspicious_Comment__HACK_14.c.o
+[ 54%] Built target CWE546_Suspicious_Comment__HACK_08-bad
+[ 55%] Building C object CMakeFiles/CWE546_Suspicious_Comment__HACK_15-bad.dir/CWE546_Suspicious_Comment__HACK_15.c.o
+[ 56%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__HACK_12-bad
+[ 56%] Building C object CMakeFiles/CWE546_Suspicious_Comment__HACK_13-good.dir/CWE546_Suspicious_Comment__HACK_13.c.o
+[ 56%] Built target CWE546_Suspicious_Comment__HACK_08-good
+[ 56%] Built target CWE546_Suspicious_Comment__HACK_09-good
+[ 57%] Building C object CMakeFiles/CWE546_Suspicious_Comment__HACK_13-bad.dir/CWE546_Suspicious_Comment__HACK_13.c.o
+[ 57%] Built target CWE546_Suspicious_Comment__HACK_10-good
+[ 57%] Built target CWE546_Suspicious_Comment__HACK_11-good
+[ 57%] Built target CWE546_Suspicious_Comment__HACK_10-bad
+[ 57%] Built target CWE546_Suspicious_Comment__HACK_09-bad
+[ 57%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__HACK_14-bad
+[ 57%] Building C object CMakeFiles/CWE546_Suspicious_Comment__HACK_17-good.dir/CWE546_Suspicious_Comment__HACK_17.c.o
+[ 57%] Building C object CMakeFiles/CWE546_Suspicious_Comment__HACK_16-good.dir/CWE546_Suspicious_Comment__HACK_16.c.o
+[ 57%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__HACK_14-good
+[ 58%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__HACK_15-good
+[ 58%] Building C object CMakeFiles/CWE546_Suspicious_Comment__HACK_16-bad.dir/CWE546_Suspicious_Comment__HACK_16.c.o
+[ 58%] Building C object CMakeFiles/CWE546_Suspicious_Comment__HACK_18-bad.dir/CWE546_Suspicious_Comment__HACK_18.c.o
+[ 58%] Built target CWE546_Suspicious_Comment__HACK_11-bad
+[ 59%] Building C object CMakeFiles/CWE546_Suspicious_Comment__HACK_18-good.dir/CWE546_Suspicious_Comment__HACK_18.c.o
+[ 60%] Building C object CMakeFiles/CWE546_Suspicious_Comment__LATER_01-good.dir/CWE546_Suspicious_Comment__LATER_01.c.o
+[ 60%] Building C object CMakeFiles/CWE546_Suspicious_Comment__HACK_17-bad.dir/CWE546_Suspicious_Comment__HACK_17.c.o
+[ 60%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__HACK_15-bad
+[ 60%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__HACK_13-bad
+[ 60%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__HACK_13-good
+[ 60%] Building C object CMakeFiles/CWE546_Suspicious_Comment__LATER_01-bad.dir/CWE546_Suspicious_Comment__LATER_01.c.o
+[ 60%] Built target CWE546_Suspicious_Comment__HACK_12-good
+[ 61%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__HACK_17-good
+[ 62%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__HACK_16-good
+[ 62%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__HACK_16-bad
+[ 62%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__HACK_18-bad
+[ 62%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__HACK_18-good
+[ 63%] Building C object CMakeFiles/CWE546_Suspicious_Comment__LATER_02-good.dir/CWE546_Suspicious_Comment__LATER_02.c.o
+[ 63%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__LATER_01-good
+[ 63%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__HACK_17-bad
+[ 63%] Built target CWE546_Suspicious_Comment__HACK_14-bad
+[ 63%] Built target CWE546_Suspicious_Comment__HACK_12-bad
+[ 63%] Built target CWE546_Suspicious_Comment__HACK_15-good
+[ 63%] Built target CWE546_Suspicious_Comment__HACK_14-good
+[ 63%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__LATER_01-bad
+[ 63%] Building C object CMakeFiles/CWE546_Suspicious_Comment__LATER_03-good.dir/CWE546_Suspicious_Comment__LATER_03.c.o
+[ 63%] Built target CWE546_Suspicious_Comment__HACK_15-bad
+[ 63%] Building C object CMakeFiles/CWE546_Suspicious_Comment__LATER_02-bad.dir/CWE546_Suspicious_Comment__LATER_02.c.o
+[ 63%] Building C object CMakeFiles/CWE546_Suspicious_Comment__LATER_03-bad.dir/CWE546_Suspicious_Comment__LATER_03.c.o
+[ 63%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__LATER_02-good
+[ 63%] Built target CWE546_Suspicious_Comment__HACK_13-bad
+[ 63%] Building C object CMakeFiles/CWE546_Suspicious_Comment__LATER_04-good.dir/CWE546_Suspicious_Comment__LATER_04.c.o
+[ 63%] Built target CWE546_Suspicious_Comment__HACK_13-good
+[ 63%] Building C object CMakeFiles/CWE546_Suspicious_Comment__LATER_04-bad.dir/CWE546_Suspicious_Comment__LATER_04.c.o
+[ 63%] Built target CWE546_Suspicious_Comment__HACK_17-good
+[ 63%] Built target CWE546_Suspicious_Comment__HACK_16-good
+[ 63%] Building C object CMakeFiles/CWE546_Suspicious_Comment__LATER_05-good.dir/CWE546_Suspicious_Comment__LATER_05.c.o
+[ 63%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__LATER_02-bad
+[ 63%] Built target CWE546_Suspicious_Comment__HACK_17-bad
+[ 64%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__LATER_03-bad
+[ 64%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__LATER_03-good
+[ 64%] Built target CWE546_Suspicious_Comment__LATER_01-good
+[ 65%] Building C object CMakeFiles/CWE546_Suspicious_Comment__LATER_05-bad.dir/CWE546_Suspicious_Comment__LATER_05.c.o
+[ 65%] Built target CWE546_Suspicious_Comment__HACK_16-bad
+[ 66%] Building C object CMakeFiles/CWE546_Suspicious_Comment__LATER_06-bad.dir/CWE546_Suspicious_Comment__LATER_06.c.o
+[ 66%] Built target CWE546_Suspicious_Comment__HACK_18-good
+[ 66%] Built target CWE546_Suspicious_Comment__HACK_18-bad
+[ 66%] Building C object CMakeFiles/CWE546_Suspicious_Comment__LATER_06-good.dir/CWE546_Suspicious_Comment__LATER_06.c.o
+[ 66%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__LATER_04-good
+[ 67%] Building C object CMakeFiles/CWE546_Suspicious_Comment__LATER_07-bad.dir/CWE546_Suspicious_Comment__LATER_07.c.o
+[ 67%] Building C object CMakeFiles/CWE546_Suspicious_Comment__LATER_07-good.dir/CWE546_Suspicious_Comment__LATER_07.c.o
+[ 68%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__LATER_04-bad
+[ 68%] Built target CWE546_Suspicious_Comment__LATER_01-bad
+[ 68%] Building C object CMakeFiles/CWE546_Suspicious_Comment__LATER_09-good.dir/CWE546_Suspicious_Comment__LATER_09.c.o
+[ 68%] Building C object CMakeFiles/CWE546_Suspicious_Comment__LATER_08-good.dir/CWE546_Suspicious_Comment__LATER_08.c.o
+[ 68%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__LATER_05-good
+[ 68%] Building C object CMakeFiles/CWE546_Suspicious_Comment__LATER_08-bad.dir/CWE546_Suspicious_Comment__LATER_08.c.o
+[ 68%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__LATER_05-bad
+[ 68%] Building C object CMakeFiles/CWE546_Suspicious_Comment__LATER_09-bad.dir/CWE546_Suspicious_Comment__LATER_09.c.o
+[ 68%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__LATER_06-good
+[ 68%] Built target CWE546_Suspicious_Comment__LATER_02-good
+[ 68%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__LATER_06-bad
+[ 69%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__LATER_07-good
+[ 69%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__LATER_07-bad
+[ 69%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__LATER_08-bad
+[ 70%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__LATER_09-good
+[ 71%] Building C object CMakeFiles/CWE546_Suspicious_Comment__LATER_10-good.dir/CWE546_Suspicious_Comment__LATER_10.c.o
+[ 72%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__LATER_08-good
+[ 72%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__LATER_09-bad
+[ 72%] Built target CWE546_Suspicious_Comment__LATER_03-good
+[ 72%] Built target CWE546_Suspicious_Comment__LATER_03-bad
+[ 72%] Built target CWE546_Suspicious_Comment__LATER_04-good
+[ 72%] Built target CWE546_Suspicious_Comment__LATER_02-bad
+[ 73%] Building C object CMakeFiles/CWE546_Suspicious_Comment__LATER_11-good.dir/CWE546_Suspicious_Comment__LATER_11.c.o
+[ 73%] Built target CWE546_Suspicious_Comment__LATER_05-good
+[ 73%] Built target CWE546_Suspicious_Comment__LATER_04-bad
+[ 73%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__LATER_10-good
+[ 73%] Building C object CMakeFiles/CWE546_Suspicious_Comment__LATER_11-bad.dir/CWE546_Suspicious_Comment__LATER_11.c.o
+[ 74%] Building C object CMakeFiles/CWE546_Suspicious_Comment__LATER_12-good.dir/CWE546_Suspicious_Comment__LATER_12.c.o
+[ 74%] Building C object CMakeFiles/CWE546_Suspicious_Comment__LATER_10-bad.dir/CWE546_Suspicious_Comment__LATER_10.c.o
+[ 74%] Built target CWE546_Suspicious_Comment__LATER_05-bad
+[ 74%] Building C object CMakeFiles/CWE546_Suspicious_Comment__LATER_12-bad.dir/CWE546_Suspicious_Comment__LATER_12.c.o
+[ 74%] Building C object CMakeFiles/CWE546_Suspicious_Comment__LATER_13-good.dir/CWE546_Suspicious_Comment__LATER_13.c.o
+[ 74%] Built target CWE546_Suspicious_Comment__LATER_07-good
+[ 74%] Building C object CMakeFiles/CWE546_Suspicious_Comment__LATER_13-bad.dir/CWE546_Suspicious_Comment__LATER_13.c.o
+[ 74%] Built target CWE546_Suspicious_Comment__LATER_06-good
+[ 74%] Built target CWE546_Suspicious_Comment__LATER_06-bad
+[ 74%] Built target CWE546_Suspicious_Comment__LATER_08-bad
+[ 74%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__LATER_12-good
+[ 74%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__LATER_11-bad
+[ 74%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__LATER_11-good
+[ 74%] Built target CWE546_Suspicious_Comment__LATER_07-bad
+[ 74%] Built target CWE546_Suspicious_Comment__LATER_09-good
+[ 74%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__LATER_13-good
+[ 74%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__LATER_10-bad
+[ 74%] Building C object CMakeFiles/CWE546_Suspicious_Comment__LATER_15-good.dir/CWE546_Suspicious_Comment__LATER_15.c.o
+[ 74%] Building C object CMakeFiles/CWE546_Suspicious_Comment__LATER_14-good.dir/CWE546_Suspicious_Comment__LATER_14.c.o
+[ 74%] Building C object CMakeFiles/CWE546_Suspicious_Comment__LATER_14-bad.dir/CWE546_Suspicious_Comment__LATER_14.c.o
+[ 74%] Built target CWE546_Suspicious_Comment__LATER_08-good
+[ 75%] Building C object CMakeFiles/CWE546_Suspicious_Comment__LATER_15-bad.dir/CWE546_Suspicious_Comment__LATER_15.c.o
+[ 75%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__LATER_12-bad
+[ 75%] Built target CWE546_Suspicious_Comment__LATER_09-bad
+[ 75%] Building C object CMakeFiles/CWE546_Suspicious_Comment__LATER_16-good.dir/CWE546_Suspicious_Comment__LATER_16.c.o
+[ 76%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__LATER_13-bad
+[ 77%] Building C object CMakeFiles/CWE546_Suspicious_Comment__LATER_16-bad.dir/CWE546_Suspicious_Comment__LATER_16.c.o
+[ 77%] Building C object CMakeFiles/CWE546_Suspicious_Comment__LATER_17-good.dir/CWE546_Suspicious_Comment__LATER_17.c.o
+[ 78%] Building C object CMakeFiles/CWE546_Suspicious_Comment__LATER_17-bad.dir/CWE546_Suspicious_Comment__LATER_17.c.o
+[ 78%] Built target CWE546_Suspicious_Comment__LATER_10-good
+[ 79%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__LATER_15-bad
+[ 79%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__LATER_15-good
+[ 79%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__LATER_14-bad
+[ 79%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__LATER_14-good
+[ 79%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__LATER_16-good
+[ 79%] Building C object CMakeFiles/CWE546_Suspicious_Comment__LATER_18-good.dir/CWE546_Suspicious_Comment__LATER_18.c.o
+[ 79%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__LATER_16-bad
+[ 80%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__LATER_17-good
+[ 80%] Built target CWE546_Suspicious_Comment__LATER_11-bad
+[ 80%] Built target CWE546_Suspicious_Comment__LATER_12-good
+[ 80%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__LATER_17-bad
+[ 80%] Built target CWE546_Suspicious_Comment__LATER_13-good
+[ 80%] Built target CWE546_Suspicious_Comment__LATER_10-bad
+[ 80%] Built target CWE546_Suspicious_Comment__LATER_11-good
+[ 80%] Building C object CMakeFiles/CWE546_Suspicious_Comment__TODO_01-good.dir/CWE546_Suspicious_Comment__TODO_01.c.o
+[ 80%] Building C object CMakeFiles/CWE546_Suspicious_Comment__LATER_18-bad.dir/CWE546_Suspicious_Comment__LATER_18.c.o
+[ 81%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__LATER_18-good
+[ 81%] Building C object CMakeFiles/CWE546_Suspicious_Comment__TODO_01-bad.dir/CWE546_Suspicious_Comment__TODO_01.c.o
+[ 82%] Building C object CMakeFiles/CWE546_Suspicious_Comment__TODO_02-good.dir/CWE546_Suspicious_Comment__TODO_02.c.o
+[ 82%] Built target CWE546_Suspicious_Comment__LATER_12-bad
+[ 82%] Building C object CMakeFiles/CWE546_Suspicious_Comment__TODO_02-bad.dir/CWE546_Suspicious_Comment__TODO_02.c.o
+[ 82%] Built target CWE546_Suspicious_Comment__LATER_13-bad
+[ 83%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__TODO_01-good
+[ 83%] Built target CWE546_Suspicious_Comment__LATER_15-bad
+[ 83%] Built target CWE546_Suspicious_Comment__LATER_14-bad
+[ 83%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__LATER_18-bad
+[ 83%] Built target CWE546_Suspicious_Comment__LATER_14-good
+[ 84%] Building C object CMakeFiles/CWE546_Suspicious_Comment__TODO_03-good.dir/CWE546_Suspicious_Comment__TODO_03.c.o
+[ 84%] Built target CWE546_Suspicious_Comment__LATER_16-good
+[ 84%] Built target CWE546_Suspicious_Comment__LATER_15-good
+[ 84%] Building C object CMakeFiles/CWE546_Suspicious_Comment__TODO_03-bad.dir/CWE546_Suspicious_Comment__TODO_03.c.o
+[ 84%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__TODO_02-good
+[ 84%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__TODO_01-bad
+[ 84%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__TODO_02-bad
+[ 84%] Built target CWE546_Suspicious_Comment__LATER_16-bad
+[ 85%] Building C object CMakeFiles/CWE546_Suspicious_Comment__TODO_04-good.dir/CWE546_Suspicious_Comment__TODO_04.c.o
+[ 85%] Building C object CMakeFiles/CWE546_Suspicious_Comment__TODO_05-good.dir/CWE546_Suspicious_Comment__TODO_05.c.o
+[ 85%] Building C object CMakeFiles/CWE546_Suspicious_Comment__TODO_04-bad.dir/CWE546_Suspicious_Comment__TODO_04.c.o
+[ 85%] Building C object CMakeFiles/CWE546_Suspicious_Comment__TODO_05-bad.dir/CWE546_Suspicious_Comment__TODO_05.c.o
+[ 85%] Building C object CMakeFiles/CWE546_Suspicious_Comment__TODO_06-good.dir/CWE546_Suspicious_Comment__TODO_06.c.o
+[ 85%] Built target CWE546_Suspicious_Comment__LATER_17-good
+[ 85%] Built target CWE546_Suspicious_Comment__LATER_17-bad
+[ 85%] Building C object CMakeFiles/CWE546_Suspicious_Comment__TODO_06-bad.dir/CWE546_Suspicious_Comment__TODO_06.c.o
+[ 85%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__TODO_03-bad
+[ 85%] Building C object CMakeFiles/CWE546_Suspicious_Comment__TODO_07-bad.dir/CWE546_Suspicious_Comment__TODO_07.c.o
+[ 85%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__TODO_05-good
+[ 85%] Building C object CMakeFiles/CWE546_Suspicious_Comment__TODO_07-good.dir/CWE546_Suspicious_Comment__TODO_07.c.o
+[ 85%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__TODO_04-good
+[ 85%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__TODO_04-bad
+[ 86%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__TODO_05-bad
+[ 86%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__TODO_03-good
+[ 86%] Built target CWE546_Suspicious_Comment__LATER_18-good
+[ 86%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__TODO_06-good
+[ 87%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__TODO_06-bad
+[ 87%] Built target CWE546_Suspicious_Comment__TODO_01-bad
+[ 87%] Built target CWE546_Suspicious_Comment__TODO_02-good
+[ 87%] Built target CWE546_Suspicious_Comment__LATER_18-bad
+[ 87%] Building C object CMakeFiles/CWE546_Suspicious_Comment__TODO_08-good.dir/CWE546_Suspicious_Comment__TODO_08.c.o
+[ 87%] Built target CWE546_Suspicious_Comment__TODO_01-good
+[ 88%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__TODO_07-good
+[ 88%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__TODO_07-bad
+[ 89%] Building C object CMakeFiles/CWE546_Suspicious_Comment__TODO_08-bad.dir/CWE546_Suspicious_Comment__TODO_08.c.o
+[ 90%] Building C object CMakeFiles/CWE546_Suspicious_Comment__TODO_09-bad.dir/CWE546_Suspicious_Comment__TODO_09.c.o
+[ 90%] Building C object CMakeFiles/CWE546_Suspicious_Comment__TODO_09-good.dir/CWE546_Suspicious_Comment__TODO_09.c.o
+[ 90%] Built target CWE546_Suspicious_Comment__TODO_02-bad
+[ 90%] Building C object CMakeFiles/CWE546_Suspicious_Comment__TODO_10-good.dir/CWE546_Suspicious_Comment__TODO_10.c.o
+[ 90%] Built target CWE546_Suspicious_Comment__TODO_03-bad
+[ 90%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__TODO_08-good
+[ 90%] Building C object CMakeFiles/CWE546_Suspicious_Comment__TODO_10-bad.dir/CWE546_Suspicious_Comment__TODO_10.c.o
+[ 90%] Built target CWE546_Suspicious_Comment__TODO_04-good
+[ 90%] Built target CWE546_Suspicious_Comment__TODO_05-good
+[ 90%] Built target CWE546_Suspicious_Comment__TODO_04-bad
+[ 90%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__TODO_08-bad
+[ 90%] Built target CWE546_Suspicious_Comment__TODO_03-good
+[ 90%] Building C object CMakeFiles/CWE546_Suspicious_Comment__TODO_11-good.dir/CWE546_Suspicious_Comment__TODO_11.c.o
+[ 90%] Built target CWE546_Suspicious_Comment__TODO_05-bad
+[ 90%] Built target CWE546_Suspicious_Comment__TODO_06-good
+[ 92%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__TODO_10-good
+[ 92%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__TODO_09-good
+[ 92%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__TODO_09-bad
+[ 93%] Building C object CMakeFiles/CWE546_Suspicious_Comment__TODO_12-good.dir/CWE546_Suspicious_Comment__TODO_12.c.o
+[ 93%] Building C object CMakeFiles/CWE546_Suspicious_Comment__TODO_12-bad.dir/CWE546_Suspicious_Comment__TODO_12.c.o
+[ 93%] Building C object CMakeFiles/CWE546_Suspicious_Comment__TODO_11-bad.dir/CWE546_Suspicious_Comment__TODO_11.c.o
+[ 94%] Building C object CMakeFiles/CWE546_Suspicious_Comment__TODO_13-good.dir/CWE546_Suspicious_Comment__TODO_13.c.o
+[ 94%] Building C object CMakeFiles/CWE546_Suspicious_Comment__TODO_13-bad.dir/CWE546_Suspicious_Comment__TODO_13.c.o
+[ 94%] Built target CWE546_Suspicious_Comment__TODO_07-good
+[ 94%] Built target CWE546_Suspicious_Comment__TODO_07-bad
+[ 94%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__TODO_10-bad
+[ 94%] Built target CWE546_Suspicious_Comment__TODO_06-bad
+[ 95%] Building C object CMakeFiles/CWE546_Suspicious_Comment__TODO_14-good.dir/CWE546_Suspicious_Comment__TODO_14.c.o
+[ 95%] Building C object CMakeFiles/CWE546_Suspicious_Comment__TODO_14-bad.dir/CWE546_Suspicious_Comment__TODO_14.c.o
+[ 95%] Building C object CMakeFiles/CWE546_Suspicious_Comment__TODO_15-good.dir/CWE546_Suspicious_Comment__TODO_15.c.o
+[ 96%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__TODO_11-good
+[ 96%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__TODO_12-good
+[ 96%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__TODO_12-bad
+[ 96%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__TODO_11-bad
+[ 96%] Building C object CMakeFiles/CWE546_Suspicious_Comment__TODO_15-bad.dir/CWE546_Suspicious_Comment__TODO_15.c.o
+[ 96%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__TODO_13-good
+[ 96%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__TODO_13-bad
+[ 96%] Built target CWE546_Suspicious_Comment__TODO_08-good
+[ 96%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__TODO_14-good
+[ 96%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__TODO_14-bad
+[ 96%] Built target CWE546_Suspicious_Comment__TODO_10-good
+[ 96%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__TODO_15-good
+[ 96%] Built target CWE546_Suspicious_Comment__TODO_08-bad
+[ 96%] Built target CWE546_Suspicious_Comment__TODO_09-bad
+[ 96%] Building C object CMakeFiles/CWE546_Suspicious_Comment__TODO_16-good.dir/CWE546_Suspicious_Comment__TODO_16.c.o
+[ 97%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__TODO_15-bad
+[ 97%] Built target CWE546_Suspicious_Comment__TODO_09-good
+[ 97%] Building C object CMakeFiles/CWE546_Suspicious_Comment__TODO_16-bad.dir/CWE546_Suspicious_Comment__TODO_16.c.o
+[ 97%] Built target CWE546_Suspicious_Comment__TODO_10-bad
+[ 97%] Building C object CMakeFiles/CWE546_Suspicious_Comment__TODO_17-bad.dir/CWE546_Suspicious_Comment__TODO_17.c.o
+[ 97%] Building C object CMakeFiles/CWE546_Suspicious_Comment__TODO_17-good.dir/CWE546_Suspicious_Comment__TODO_17.c.o
+[ 97%] Building C object CMakeFiles/CWE546_Suspicious_Comment__TODO_18-good.dir/CWE546_Suspicious_Comment__TODO_18.c.o
+[ 97%] Built target CWE546_Suspicious_Comment__TODO_11-good
+[ 98%] Building C object CMakeFiles/CWE546_Suspicious_Comment__TODO_18-bad.dir/CWE546_Suspicious_Comment__TODO_18.c.o
+[ 98%] Built target CWE546_Suspicious_Comment__TODO_12-bad
+[ 98%] Built target CWE546_Suspicious_Comment__TODO_12-good
+[ 98%] Built target CWE546_Suspicious_Comment__TODO_11-bad
+[ 99%] Built target CWE546_Suspicious_Comment__TODO_13-good
+[ 99%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__TODO_16-bad
+[ 99%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__TODO_16-good
+[ 99%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__TODO_17-good
+[100%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__TODO_17-bad
+[100%] Built target CWE546_Suspicious_Comment__TODO_14-good
+[100%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/good/CWE546_Suspicious_Comment__TODO_18-good
+[100%] Built target CWE546_Suspicious_Comment__TODO_13-bad
+[100%] Built target CWE546_Suspicious_Comment__TODO_14-bad
+[100%] Built target CWE546_Suspicious_Comment__TODO_15-good
+[100%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE546/bad/CWE546_Suspicious_Comment__TODO_18-bad
+[100%] Built target CWE546_Suspicious_Comment__TODO_15-bad
+[100%] Built target CWE546_Suspicious_Comment__TODO_16-good
+[100%] Built target CWE546_Suspicious_Comment__TODO_17-bad
+[100%] Built target CWE546_Suspicious_Comment__TODO_16-bad
+[100%] Built target CWE546_Suspicious_Comment__TODO_17-good
+[100%] Built target CWE546_Suspicious_Comment__TODO_18-good
+[100%] Built target CWE546_Suspicious_Comment__TODO_18-bad
+scan-build: Analysis run complete.
+scan-build: Removing directory '/home/dyre/exjobb/juliet/Clang/2025-02-26-142741-281902-1' because it contains no reports.
+scan-build: No bugs found.
+
+STDERR:
+

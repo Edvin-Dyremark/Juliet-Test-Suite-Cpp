@@ -1,0 +1,553 @@
+STDOUT:
+scan-build: Using '/usr/lib/llvm-18/bin/clang' for static analysis
+[  1%] Built target copy-run-script
+[  1%] Building C object CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c.o
+[  1%] Building C object CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c.o
+[  2%] Linking C static library /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/support/libsupport.a
+[  2%] Built target support
+[  2%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_01-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_01.c.o
+[  2%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_02-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_02.c.o
+[  2%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_01-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_01.c.o
+[  2%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_04-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_04.c.o
+[  2%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_03-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_03.c.o
+[  3%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_02-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_02.c.o
+[  4%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_03-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_03.c.o
+[  4%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_05-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_05.c.o
+[  3%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_04-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_04.c.o
+[  4%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_06-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_06.c.o
+[  4%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_06-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_06.c.o
+[  4%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_07-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_07.c.o
+[  4%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_07-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_07.c.o
+[  5%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_05-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_05.c.o
+[  5%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_08-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_08.c.o
+[  5%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_08-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_08.c.o
+[  6%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_01-good
+[  6%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_04-bad
+[  7%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_02-good
+[  7%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_05-bad
+[  7%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_02-bad
+[  7%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_03-good
+[  7%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_03-bad
+[  8%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_06-bad
+[  8%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_01-bad
+[  8%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_06-good
+[  8%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_04-good
+[  8%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_05-good
+[  8%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_07-good
+[  8%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_08-good
+[  9%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_07-bad
+[ 10%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_08-bad
+[ 10%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_03-good
+[ 10%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_06-bad
+[ 10%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_01-good
+[ 10%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_03-bad
+[ 10%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_01-bad
+[ 10%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_02-bad
+[ 10%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_02-good
+[ 10%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_04-bad
+[ 10%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_05-bad
+[ 10%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_06-good
+[ 10%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_05-good
+[ 10%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_04-good
+[ 10%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_08-good
+[ 10%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_07-good
+[ 10%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_11-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_11.c.o
+[ 10%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_12-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_12.c.o
+[ 10%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_07-bad
+[ 11%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_09-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_09.c.o
+[ 12%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_10-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_10.c.o
+[ 13%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_11-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_11.c.o
+[ 13%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_12-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_12.c.o
+[ 13%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_10-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_10.c.o
+[ 13%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_09-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_09.c.o
+[ 14%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_13-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_13.c.o
+[ 15%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_14-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_14.c.o
+[ 15%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_13-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_13.c.o
+[ 15%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_14-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_14.c.o
+[ 15%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_15-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_15.c.o
+[ 15%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_16-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_16.c.o
+[ 16%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_15-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_15.c.o
+[ 17%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_12-good
+[ 17%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_11-bad
+[ 18%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_11-good
+[ 18%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_09-bad
+[ 18%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_10-good
+[ 18%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_10-bad
+[ 18%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_09-good
+[ 18%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_08-bad
+[ 18%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_12-bad
+[ 18%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_13-bad
+[ 18%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_14-bad
+[ 18%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_13-good
+[ 18%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_15-bad
+[ 18%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_16-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_16.c.o
+[ 18%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_16-good
+[ 18%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_14-good
+[ 18%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_15-good
+[ 19%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_16-bad
+[ 19%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_09-good
+[ 19%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_10-bad
+[ 19%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_12-good
+[ 19%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_11-bad
+[ 19%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_09-bad
+[ 19%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_10-good
+[ 19%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_14-bad
+[ 19%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_13-bad
+[ 19%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_12-bad
+[ 19%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_11-good
+[ 19%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_17-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_17.c.o
+[ 19%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_18-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_18.c.o
+[ 19%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_13-good
+[ 19%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_01-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_01.c.o
+[ 19%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_17-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_17.c.o
+[ 20%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_01-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_01.c.o
+[ 20%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_03-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_03.c.o
+[ 20%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_15-bad
+[ 20%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_18-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_18.c.o
+[ 20%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_02-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_02.c.o
+[ 21%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_03-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_03.c.o
+[ 22%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_02-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_02.c.o
+[ 22%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_14-good
+[ 22%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_16-good
+[ 22%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_04-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_04.c.o
+[ 22%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_15-good
+[ 22%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_04-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_04.c.o
+[ 22%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_17-good
+[ 22%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_05-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_05.c.o
+[ 22%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_01-bad
+[ 23%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_17-bad
+[ 24%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_05-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_05.c.o
+[ 24%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_01-good
+[ 25%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_06-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_06.c.o
+[ 26%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_18-bad
+[ 26%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_02-good
+[ 26%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_03-bad
+[ 26%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_18-good
+[ 26%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_02-bad
+[ 27%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_03-good
+[ 27%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_16-bad
+[ 27%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_04-bad
+[ 28%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_04-good
+[ 28%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_05-bad
+[ 28%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_06-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_06.c.o
+[ 28%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_05-good
+[ 28%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_06-good
+[ 28%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_01-good
+[ 28%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_18-bad
+[ 28%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_17-good
+[ 28%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_02-good
+[ 28%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_18-good
+[ 28%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_06-bad
+[ 28%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_03-bad
+[ 28%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_17-bad
+[ 28%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_08-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_08.c.o
+[ 29%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_07-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_07.c.o
+[ 28%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_07-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_07.c.o
+[ 29%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_08-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_08.c.o
+[ 29%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_01-bad
+[ 29%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_02-bad
+[ 29%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_09-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_09.c.o
+[ 29%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_10-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_10.c.o
+[ 29%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_10-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_10.c.o
+[ 29%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_09-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_09.c.o
+[ 29%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_07-bad
+[ 29%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_11-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_11.c.o
+[ 29%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_03-good
+[ 29%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_08-good
+[ 29%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_07-good
+[ 30%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_11-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_11.c.o
+[ 31%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_09-bad
+[ 31%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_04-bad
+[ 30%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_09-good
+[ 32%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_08-bad
+[ 32%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_10-good
+[ 33%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_10-bad
+[ 33%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_12-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_12.c.o
+[ 33%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_06-good
+[ 33%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_04-good
+[ 33%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_11-good
+[ 33%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_05-bad
+[ 33%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_05-good
+[ 33%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_11-bad
+[ 33%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_13-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_13.c.o
+[ 34%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_12-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_12.c.o
+[ 35%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_13-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_13.c.o
+[ 35%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_12-good
+[ 35%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_06-bad
+[ 35%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_14-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_14.c.o
+[ 35%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_08-good
+[ 35%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_07-bad
+[ 35%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_14-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_14.c.o
+[ 35%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_07-good
+[ 35%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_08-bad
+[ 35%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_10-good
+[ 35%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_12-bad
+[ 35%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_09-bad
+[ 35%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_15-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_15.c.o
+[ 36%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_13-good
+[ 36%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_13-bad
+[ 36%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_09-good
+[ 36%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_15-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_15.c.o
+[ 37%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_16-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_16.c.o
+[ 38%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_17-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_17.c.o
+[ 38%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_17-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_17.c.o
+[ 38%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_16-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_16.c.o
+[ 38%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_11-good
+[ 38%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_10-bad
+[ 38%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_18-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_18.c.o
+[ 39%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_14-good
+[ 39%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_14-bad
+[ 39%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_11-bad
+[ 39%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_18-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_18.c.o
+[ 40%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_15-good
+[ 40%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_01-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_01.c.o
+[ 40%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_17-bad
+[ 40%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_17-good
+[ 40%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_15-bad
+[ 40%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_12-good
+[ 40%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_16-bad
+[ 40%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_16-good
+[ 40%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_01-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_01.c.o
+[ 40%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_18-good
+[ 40%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_02-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_02.c.o
+[ 41%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_18-bad
+[ 41%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_12-bad
+[ 41%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_13-bad
+[ 41%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_13-good
+[ 41%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_01-good
+[ 41%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_14-bad
+[ 41%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_03-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_03.c.o
+[ 41%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_14-good
+[ 42%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_02-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_02.c.o
+[ 42%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_03-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_03.c.o
+[ 43%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_01-bad
+[ 44%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_04-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_04.c.o
+[ 44%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_04-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_04.c.o
+[ 44%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_17-bad
+[ 44%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_15-good
+[ 44%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_02-good
+[ 44%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_15-bad
+[ 44%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_17-good
+[ 44%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_16-bad
+[ 44%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_03-good
+[ 44%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_16-good
+[ 44%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_03-bad
+[ 45%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_02-bad
+[ 45%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_05-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_05.c.o
+[ 45%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_06-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_06.c.o
+[ 45%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_07-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_07.c.o
+[ 46%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_04-bad
+[ 46%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_05-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_05.c.o
+[ 46%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_06-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_06.c.o
+[ 46%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_07-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_07.c.o
+[ 46%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_18-good
+[ 46%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_18-bad
+[ 46%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_04-good
+[ 47%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_08-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_08.c.o
+[ 47%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_01-good
+[ 47%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_08-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_08.c.o
+[ 48%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_05-good
+[ 49%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_06-good
+[ 50%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_07-good
+[ 50%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_05-bad
+[ 50%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_01-bad
+[ 50%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_02-good
+[ 50%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_07-bad
+[ 50%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_03-bad
+[ 51%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_09-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_09.c.o
+[ 51%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_06-bad
+[ 51%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_09-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_09.c.o
+[ 51%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_02-bad
+[ 51%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_10-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_10.c.o
+[ 51%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_10-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_10.c.o
+[ 51%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_08-good
+[ 51%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_08-bad
+[ 51%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_11-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_11.c.o
+[ 51%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_04-good
+[ 51%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_04-bad
+[ 51%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_09-good
+[ 51%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_03-good
+[ 51%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_05-good
+[ 51%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_09-bad
+[ 51%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_12-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_12.c.o
+[ 51%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_11-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_11.c.o
+[ 52%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_10-bad
+[ 52%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_10-good
+[ 52%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_13-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_13.c.o
+[ 52%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_12-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_12.c.o
+[ 52%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_05-bad
+[ 52%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_07-good
+[ 52%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_06-good
+[ 52%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_07-bad
+[ 52%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_06-bad
+[ 52%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_11-good
+[ 52%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_14-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_14.c.o
+[ 55%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_13-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_13.c.o
+[ 55%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_14-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_14.c.o
+[ 55%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_15-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_15.c.o
+[ 56%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_08-good
+[ 56%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_11-bad
+[ 56%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_12-good
+[ 56%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_15-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_15.c.o
+[ 56%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_08-bad
+[ 57%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_12-bad
+[ 57%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_16-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_16.c.o
+[ 57%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_09-bad
+[ 57%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_13-good
+[ 57%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_09-good
+[ 57%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_10-bad
+[ 57%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_16-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_16.c.o
+[ 57%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_10-good
+[ 57%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_14-bad
+[ 57%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_14-good
+[ 57%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_15-bad
+[ 57%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_17-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_17.c.o
+[ 57%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_13-bad
+[ 58%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_18-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_18.c.o
+[ 58%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_17-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_17.c.o
+[ 58%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_18-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_18.c.o
+[ 59%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_15-good
+[ 59%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_11-good
+[ 60%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_16-good
+[ 60%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_16-bad
+[ 61%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_01-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_01.c.o
+[ 61%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_11-bad
+[ 61%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_17-bad
+[ 61%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_18-bad
+[ 61%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_12-good
+[ 62%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_17-good
+[ 62%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_18-good
+[ 62%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_01-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_01.c.o
+[ 63%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_02-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_02.c.o
+[ 63%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_14-bad
+[ 63%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_12-bad
+[ 63%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_13-good
+[ 63%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_13-bad
+[ 63%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_14-good
+[ 63%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_01-good
+[ 63%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_15-bad
+[ 63%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_15-good
+[ 63%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_03-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_03.c.o
+[ 63%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_03-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_03.c.o
+[ 63%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_02-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_02.c.o
+[ 63%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_04-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_04.c.o
+[ 63%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_04-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_04.c.o
+[ 63%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_01-bad
+[ 64%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_05-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_05.c.o
+[ 64%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_05-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_05.c.o
+[ 64%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_16-good
+[ 64%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_16-bad
+[ 64%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_02-good
+[ 64%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_17-bad
+[ 65%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_06-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_06.c.o
+[ 65%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_06-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_06.c.o
+[ 66%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_17-good
+[ 66%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_03-bad
+[ 66%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_18-good
+[ 66%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_18-bad
+[ 66%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_02-bad
+[ 66%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_04-good
+[ 66%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_05-good
+[ 67%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_04-bad
+[ 67%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_03-good
+[ 67%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_07-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_07.c.o
+[ 68%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_07-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_07.c.o
+[ 68%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_08-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_08.c.o
+[ 68%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_08-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_08.c.o
+[ 68%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_05-bad
+[ 68%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_06-good
+[ 68%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_01-good
+[ 68%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_06-bad
+[ 68%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_01-bad
+[ 68%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_07-bad
+[ 68%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_02-good
+[ 69%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_07-good
+[ 69%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_08-bad
+[ 69%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_09-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_09.c.o
+[ 70%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_08-good
+[ 70%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_09-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_09.c.o
+[ 70%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_03-bad
+[ 70%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_02-bad
+[ 71%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_10-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_10.c.o
+[ 71%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_04-good
+[ 71%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_03-good
+[ 71%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_05-good
+[ 71%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_10-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_10.c.o
+[ 72%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_11-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_11.c.o
+[ 72%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_04-bad
+[ 73%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_12-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_12.c.o
+[ 73%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_12-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_12.c.o
+[ 73%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_11-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_11.c.o
+[ 74%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_09-good
+[ 74%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_05-bad
+[ 74%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_13-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_13.c.o
+[ 74%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_10-good
+[ 74%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_06-good
+[ 74%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_06-bad
+[ 74%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_09-bad
+[ 74%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_07-bad
+[ 74%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_10-bad
+[ 74%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_07-good
+[ 74%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_08-good
+[ 74%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_11-good
+[ 74%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_13-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_13.c.o
+[ 74%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_12-good
+[ 74%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_08-bad
+[ 74%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_12-bad
+[ 74%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_14-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_14.c.o
+[ 74%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_14-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_14.c.o
+[ 75%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_15-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_15.c.o
+[ 75%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_15-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_15.c.o
+[ 75%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_16-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_16.c.o
+[ 75%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_11-bad
+[ 75%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_13-good
+[ 76%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_16-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_16.c.o
+[ 77%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_13-bad
+[ 77%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_14-good
+[ 77%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_09-good
+[ 78%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_14-bad
+[ 78%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_16-good
+[ 78%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_15-good
+[ 78%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_15-bad
+[ 78%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_10-good
+[ 78%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_12-good
+[ 78%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_09-bad
+[ 78%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_17-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_17.c.o
+[ 78%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_10-bad
+[ 78%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_16-bad
+[ 78%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_18-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_18.c.o
+[ 79%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_17-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_17.c.o
+[ 79%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_18-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_18.c.o
+[ 79%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_01-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_01.c.o
+[ 79%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_11-good
+[ 79%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_12-bad
+[ 79%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_11-bad
+[ 79%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_13-good
+[ 79%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_01-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_01.c.o
+[ 80%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_02-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_02.c.o
+[ 81%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_17-good
+[ 81%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_02-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_02.c.o
+[ 82%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_03-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_03.c.o
+[ 82%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_17-bad
+[ 82%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_13-bad
+[ 82%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_18-bad
+[ 82%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_14-good
+[ 83%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_01-good
+[ 83%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_15-good
+[ 83%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_14-bad
+[ 83%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_16-good
+[ 83%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_03-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_03.c.o
+[ 83%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_15-bad
+[ 84%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_04-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_04.c.o
+[ 85%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_18-good
+[ 85%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_04-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_04.c.o
+[ 85%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_02-good
+[ 85%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_01-bad
+[ 85%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_02-bad
+[ 85%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_03-good
+[ 85%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_05-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_05.c.o
+[ 85%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_16-bad
+[ 85%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_05-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_05.c.o
+[ 85%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_06-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_06.c.o
+[ 85%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_03-bad
+[ 85%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_06-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_06.c.o
+[ 85%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_04-good
+[ 85%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_17-good
+[ 85%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_04-bad
+[ 85%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_18-bad
+[ 86%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_05-bad
+[ 86%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_17-bad
+[ 86%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_01-good
+[ 86%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_07-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_07.c.o
+[ 86%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_06-good
+[ 86%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_05-good
+[ 86%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_07-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_07.c.o
+[ 86%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_08-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_08.c.o
+[ 87%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_08-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_08.c.o
+[ 87%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_18-good
+[ 87%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_02-bad
+[ 87%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_03-good
+[ 88%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_06-bad
+[ 88%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_01-bad
+[ 88%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_02-good
+[ 88%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_09-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_09.c.o
+[ 88%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_10-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_10.c.o
+[ 89%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_09-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_09.c.o
+[ 89%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_07-good
+[ 89%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_10-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_10.c.o
+[ 89%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_11-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_11.c.o
+[ 90%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_08-good
+[ 90%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_07-bad
+[ 90%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_03-bad
+[ 90%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_04-good
+[ 90%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_04-bad
+[ 90%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_08-bad
+[ 90%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_05-bad
+[ 90%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_11-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_11.c.o
+[ 90%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_05-good
+[ 91%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_12-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_12.c.o
+[ 91%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_06-good
+[ 93%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_12-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_12.c.o
+[ 93%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_09-good
+[ 93%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_13-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_13.c.o
+[ 93%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_09-bad
+[ 93%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_10-bad
+[ 94%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_11-good
+[ 94%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_13-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_13.c.o
+[ 95%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_10-good
+[ 96%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_14-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_14.c.o
+[ 96%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_06-bad
+[ 96%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_14-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_14.c.o
+[ 96%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_12-good
+[ 96%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_07-good
+[ 96%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_08-good
+[ 96%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_07-bad
+[ 96%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_13-good
+[ 96%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_12-bad
+[ 96%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_08-bad
+[ 96%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_13-bad
+[ 96%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_15-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_15.c.o
+[ 96%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_15-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_15.c.o
+[ 96%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_16-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_16.c.o
+[ 96%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_14-good
+[ 96%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_11-bad
+[ 96%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_16-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_16.c.o
+[ 96%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_14-bad
+[ 96%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_09-good
+[ 96%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_10-bad
+[ 96%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_10-good
+[ 96%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_11-good
+[ 96%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_09-bad
+[ 96%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_17-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_17.c.o
+[ 97%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_15-bad
+[ 97%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_17-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_17.c.o
+[ 97%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_15-good
+[ 97%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_16-good
+[ 98%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_18-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_18.c.o
+[ 98%] Building C object CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_18-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_18.c.o
+[ 98%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_12-bad
+[ 98%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_13-good
+[ 99%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_16-bad
+[ 99%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_13-bad
+[ 99%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_14-good
+[ 99%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_12-good
+[ 99%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_17-good
+[100%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_17-bad
+[100%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/bad/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_18-bad
+[100%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/CWE666/good/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_18-good
+[100%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_11-bad
+[100%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_14-bad
+[100%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_15-good
+[100%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_16-good
+[100%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_15-bad
+[100%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_16-bad
+[100%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_17-good
+[100%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_17-bad
+[100%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_18-bad
+[100%] Built target CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_18-good
+scan-build: Analysis run complete.
+scan-build: Removing directory '/home/dyre/exjobb/juliet/Clang/2025-02-26-142736-278646-1' because it contains no reports.
+scan-build: No bugs found.
+
+STDERR:
+

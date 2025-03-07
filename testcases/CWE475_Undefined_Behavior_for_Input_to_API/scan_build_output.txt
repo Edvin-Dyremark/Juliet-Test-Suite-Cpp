@@ -1,0 +1,82 @@
+STDOUT:
+scan-build: Using '/usr/lib/llvm-18/bin/clang' for static analysis
+[  1%] Built target copy-run-script
+[  5%] Built target support
+[  7%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE475/good/CWE475_Undefined_Behavior_for_Input_to_API__char_03-good
+[  7%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE475/bad/CWE475_Undefined_Behavior_for_Input_to_API__char_02-bad
+[  9%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE475/good/CWE475_Undefined_Behavior_for_Input_to_API__char_02-good
+[ 10%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE475/bad/CWE475_Undefined_Behavior_for_Input_to_API__char_01-bad
+[ 11%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE475/good/CWE475_Undefined_Behavior_for_Input_to_API__char_01-good
+[ 13%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE475/bad/CWE475_Undefined_Behavior_for_Input_to_API__char_03-bad
+[ 15%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE475/good/CWE475_Undefined_Behavior_for_Input_to_API__char_04-good
+[ 15%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE475/bad/CWE475_Undefined_Behavior_for_Input_to_API__char_05-bad
+[ 17%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE475/good/CWE475_Undefined_Behavior_for_Input_to_API__char_05-good
+[ 19%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE475/good/CWE475_Undefined_Behavior_for_Input_to_API__char_06-good
+[ 19%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE475/good/CWE475_Undefined_Behavior_for_Input_to_API__char_08-good
+[ 21%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE475/bad/CWE475_Undefined_Behavior_for_Input_to_API__char_04-bad
+[ 22%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE475/bad/CWE475_Undefined_Behavior_for_Input_to_API__char_08-bad
+[ 23%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE475/bad/CWE475_Undefined_Behavior_for_Input_to_API__char_06-bad
+[ 25%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE475/bad/CWE475_Undefined_Behavior_for_Input_to_API__char_07-bad
+[ 26%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE475/good/CWE475_Undefined_Behavior_for_Input_to_API__char_07-good
+[ 27%] Built target CWE475_Undefined_Behavior_for_Input_to_API__char_02-good
+[ 30%] Built target CWE475_Undefined_Behavior_for_Input_to_API__char_01-bad
+[ 30%] Built target CWE475_Undefined_Behavior_for_Input_to_API__char_03-good
+[ 34%] Built target CWE475_Undefined_Behavior_for_Input_to_API__char_02-bad
+[ 34%] Built target CWE475_Undefined_Behavior_for_Input_to_API__char_05-good
+[ 34%] Built target CWE475_Undefined_Behavior_for_Input_to_API__char_03-bad
+[ 35%] Built target CWE475_Undefined_Behavior_for_Input_to_API__char_01-good
+[ 36%] Built target CWE475_Undefined_Behavior_for_Input_to_API__char_06-bad
+[ 39%] Built target CWE475_Undefined_Behavior_for_Input_to_API__char_06-good
+[ 40%] Built target CWE475_Undefined_Behavior_for_Input_to_API__char_04-good
+[ 40%] Built target CWE475_Undefined_Behavior_for_Input_to_API__char_04-bad
+[ 42%] Built target CWE475_Undefined_Behavior_for_Input_to_API__char_05-bad
+[ 44%] Built target CWE475_Undefined_Behavior_for_Input_to_API__char_07-bad
+[ 44%] Built target CWE475_Undefined_Behavior_for_Input_to_API__char_08-bad
+[ 46%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE475/bad/CWE475_Undefined_Behavior_for_Input_to_API__char_09-bad
+[ 47%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE475/good/CWE475_Undefined_Behavior_for_Input_to_API__char_09-good
+[ 48%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE475/bad/CWE475_Undefined_Behavior_for_Input_to_API__char_10-bad
+[ 50%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE475/bad/CWE475_Undefined_Behavior_for_Input_to_API__char_11-bad
+[ 52%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE475/good/CWE475_Undefined_Behavior_for_Input_to_API__char_12-good
+[ 52%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE475/good/CWE475_Undefined_Behavior_for_Input_to_API__char_10-good
+[ 53%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE475/good/CWE475_Undefined_Behavior_for_Input_to_API__char_11-good
+[ 55%] Built target CWE475_Undefined_Behavior_for_Input_to_API__char_07-good
+[ 56%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE475/bad/CWE475_Undefined_Behavior_for_Input_to_API__char_12-bad
+[ 57%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE475/good/CWE475_Undefined_Behavior_for_Input_to_API__char_13-good
+[ 59%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE475/good/CWE475_Undefined_Behavior_for_Input_to_API__char_14-good
+[ 60%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE475/bad/CWE475_Undefined_Behavior_for_Input_to_API__char_13-bad
+[ 61%] Built target CWE475_Undefined_Behavior_for_Input_to_API__char_08-good
+[ 63%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE475/bad/CWE475_Undefined_Behavior_for_Input_to_API__char_14-bad
+[ 64%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE475/good/CWE475_Undefined_Behavior_for_Input_to_API__char_15-good
+[ 65%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE475/bad/CWE475_Undefined_Behavior_for_Input_to_API__char_15-bad
+[ 67%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE475/good/CWE475_Undefined_Behavior_for_Input_to_API__char_16-good
+[ 68%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE475/bad/CWE475_Undefined_Behavior_for_Input_to_API__char_16-bad
+[ 69%] Built target CWE475_Undefined_Behavior_for_Input_to_API__char_09-bad
+[ 71%] Built target CWE475_Undefined_Behavior_for_Input_to_API__char_09-good
+[ 72%] Built target CWE475_Undefined_Behavior_for_Input_to_API__char_13-good
+[ 75%] Built target CWE475_Undefined_Behavior_for_Input_to_API__char_11-good
+[ 75%] Built target CWE475_Undefined_Behavior_for_Input_to_API__char_12-good
+[ 76%] Built target CWE475_Undefined_Behavior_for_Input_to_API__char_10-bad
+[ 77%] Built target CWE475_Undefined_Behavior_for_Input_to_API__char_10-good
+[ 80%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE475/bad/CWE475_Undefined_Behavior_for_Input_to_API__char_17-bad
+[ 80%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE475/good/CWE475_Undefined_Behavior_for_Input_to_API__char_17-good
+[ 81%] Built target CWE475_Undefined_Behavior_for_Input_to_API__char_11-bad
+[ 82%] Built target CWE475_Undefined_Behavior_for_Input_to_API__char_12-bad
+[ 84%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE475/good/CWE475_Undefined_Behavior_for_Input_to_API__char_18-good
+[ 86%] Built target CWE475_Undefined_Behavior_for_Input_to_API__char_13-bad
+[ 86%] Built target CWE475_Undefined_Behavior_for_Input_to_API__char_14-bad
+[ 88%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE475/bad/CWE475_Undefined_Behavior_for_Input_to_API__char_18-bad
+[ 89%] Built target CWE475_Undefined_Behavior_for_Input_to_API__char_16-good
+[ 90%] Built target CWE475_Undefined_Behavior_for_Input_to_API__char_15-bad
+[ 92%] Built target CWE475_Undefined_Behavior_for_Input_to_API__char_14-good
+[ 93%] Built target CWE475_Undefined_Behavior_for_Input_to_API__char_15-good
+[ 94%] Built target CWE475_Undefined_Behavior_for_Input_to_API__char_16-bad
+[ 97%] Built target CWE475_Undefined_Behavior_for_Input_to_API__char_17-bad
+[ 97%] Built target CWE475_Undefined_Behavior_for_Input_to_API__char_17-good
+[100%] Built target CWE475_Undefined_Behavior_for_Input_to_API__char_18-bad
+[100%] Built target CWE475_Undefined_Behavior_for_Input_to_API__char_18-good
+scan-build: Analysis run complete.
+scan-build: Removing directory '/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE475_Undefined_Behavior_for_Input_to_API/scan-build/2025-02-26-140729-162066-1' because it contains no reports.
+scan-build: No bugs found.
+
+STDERR:
+

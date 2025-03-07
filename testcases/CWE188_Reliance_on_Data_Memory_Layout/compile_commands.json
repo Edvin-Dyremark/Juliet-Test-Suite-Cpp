@@ -1,0 +1,446 @@
+[
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c",
+  "output": "CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c",
+  "output": "CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_01-good.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_01.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_01-good.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_01-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_01.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_01-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_02-good.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_02.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_02.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_02.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_02-good.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_02.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_02-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_02.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_02.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_02.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_02-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_02.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_03-good.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_03.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_03.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_03.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_03-good.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_03.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_03-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_03.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_03.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_03.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_03-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_03.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_04-good.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_04.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_04.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_04.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_04-good.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_04.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_04-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_04.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_04.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_04.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_04-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_04.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_05-good.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_05.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_05.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_05.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_05-good.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_05.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_05-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_05.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_05.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_05.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_05-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_05.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_06-good.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_06.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_06.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_06.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_06-good.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_06.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_06-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_06.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_06.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_06.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_06-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_06.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_07-good.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_07.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_07.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_07.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_07-good.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_07.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_07-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_07.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_07.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_07.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_07-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_07.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_08-good.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_08.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_08.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_08.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_08-good.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_08.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_08-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_08.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_08.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_08.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_08-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_08.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_09-good.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_09.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_09.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_09.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_09-good.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_09.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_09-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_09.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_09.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_09.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_09-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_09.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_10-good.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_10.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_10.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_10.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_10-good.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_10.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_10-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_10.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_10.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_10.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_10-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_10.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_11-good.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_11.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_11.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_11.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_11-good.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_11.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_11-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_11.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_11.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_11.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_11-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_11.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_12-good.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_12.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_12.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_12.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_12-good.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_12.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_12-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_12.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_12.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_12.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_12-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_12.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_13-good.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_13.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_13.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_13.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_13-good.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_13.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_13-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_13.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_13.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_13.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_13-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_13.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_14-good.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_14.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_14.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_14.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_14-good.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_14.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_14-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_14.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_14.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_14.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_14-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_14.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_15-good.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_15.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_15.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_15.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_15-good.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_15.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_15-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_15.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_15.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_15.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_15-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_15.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_16-good.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_16.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_16.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_16.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_16-good.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_16.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_16-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_16.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_16.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_16.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_16-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_16.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_17-good.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_17.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_17.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_17.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_17-good.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_17.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_17-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_17.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_17.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_17.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_17-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_17.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_18-good.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_18.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_18.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_18.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_18-good.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_18.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_18-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_18.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_18.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__modify_local_18.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__modify_local_18-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__modify_local_18.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_01-good.dir/CWE188_Reliance_on_Data_Memory_Layout__union_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_01.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_01-good.dir/CWE188_Reliance_on_Data_Memory_Layout__union_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_01-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__union_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_01.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_01-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__union_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_02-good.dir/CWE188_Reliance_on_Data_Memory_Layout__union_02.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_02.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_02.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_02-good.dir/CWE188_Reliance_on_Data_Memory_Layout__union_02.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_02-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__union_02.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_02.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_02.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_02-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__union_02.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_03-good.dir/CWE188_Reliance_on_Data_Memory_Layout__union_03.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_03.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_03.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_03-good.dir/CWE188_Reliance_on_Data_Memory_Layout__union_03.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_03-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__union_03.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_03.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_03.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_03-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__union_03.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_04-good.dir/CWE188_Reliance_on_Data_Memory_Layout__union_04.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_04.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_04.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_04-good.dir/CWE188_Reliance_on_Data_Memory_Layout__union_04.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_04-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__union_04.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_04.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_04.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_04-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__union_04.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_05-good.dir/CWE188_Reliance_on_Data_Memory_Layout__union_05.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_05.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_05.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_05-good.dir/CWE188_Reliance_on_Data_Memory_Layout__union_05.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_05-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__union_05.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_05.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_05.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_05-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__union_05.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_06-good.dir/CWE188_Reliance_on_Data_Memory_Layout__union_06.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_06.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_06.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_06-good.dir/CWE188_Reliance_on_Data_Memory_Layout__union_06.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_06-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__union_06.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_06.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_06.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_06-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__union_06.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_07-good.dir/CWE188_Reliance_on_Data_Memory_Layout__union_07.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_07.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_07.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_07-good.dir/CWE188_Reliance_on_Data_Memory_Layout__union_07.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_07-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__union_07.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_07.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_07.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_07-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__union_07.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_08-good.dir/CWE188_Reliance_on_Data_Memory_Layout__union_08.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_08.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_08.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_08-good.dir/CWE188_Reliance_on_Data_Memory_Layout__union_08.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_08-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__union_08.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_08.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_08.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_08-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__union_08.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_09-good.dir/CWE188_Reliance_on_Data_Memory_Layout__union_09.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_09.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_09.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_09-good.dir/CWE188_Reliance_on_Data_Memory_Layout__union_09.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_09-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__union_09.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_09.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_09.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_09-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__union_09.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_10-good.dir/CWE188_Reliance_on_Data_Memory_Layout__union_10.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_10.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_10.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_10-good.dir/CWE188_Reliance_on_Data_Memory_Layout__union_10.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_10-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__union_10.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_10.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_10.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_10-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__union_10.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_11-good.dir/CWE188_Reliance_on_Data_Memory_Layout__union_11.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_11.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_11.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_11-good.dir/CWE188_Reliance_on_Data_Memory_Layout__union_11.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_11-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__union_11.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_11.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_11.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_11-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__union_11.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_12-good.dir/CWE188_Reliance_on_Data_Memory_Layout__union_12.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_12.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_12.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_12-good.dir/CWE188_Reliance_on_Data_Memory_Layout__union_12.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_12-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__union_12.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_12.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_12.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_12-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__union_12.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_13-good.dir/CWE188_Reliance_on_Data_Memory_Layout__union_13.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_13.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_13.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_13-good.dir/CWE188_Reliance_on_Data_Memory_Layout__union_13.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_13-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__union_13.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_13.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_13.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_13-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__union_13.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_14-good.dir/CWE188_Reliance_on_Data_Memory_Layout__union_14.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_14.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_14.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_14-good.dir/CWE188_Reliance_on_Data_Memory_Layout__union_14.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_14-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__union_14.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_14.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_14.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_14-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__union_14.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_15-good.dir/CWE188_Reliance_on_Data_Memory_Layout__union_15.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_15.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_15.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_15-good.dir/CWE188_Reliance_on_Data_Memory_Layout__union_15.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_15-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__union_15.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_15.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_15.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_15-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__union_15.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_16-good.dir/CWE188_Reliance_on_Data_Memory_Layout__union_16.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_16.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_16.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_16-good.dir/CWE188_Reliance_on_Data_Memory_Layout__union_16.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_16-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__union_16.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_16.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_16.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_16-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__union_16.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_17-good.dir/CWE188_Reliance_on_Data_Memory_Layout__union_17.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_17.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_17.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_17-good.dir/CWE188_Reliance_on_Data_Memory_Layout__union_17.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_17-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__union_17.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_17.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_17.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_17-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__union_17.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_18-good.dir/CWE188_Reliance_on_Data_Memory_Layout__union_18.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_18.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_18.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_18-good.dir/CWE188_Reliance_on_Data_Memory_Layout__union_18.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/../../testcasesupport -O0 -o CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_18-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__union_18.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_18.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE188_Reliance_on_Data_Memory_Layout/CWE188_Reliance_on_Data_Memory_Layout__union_18.c",
+  "output": "CMakeFiles/CWE188_Reliance_on_Data_Memory_Layout__union_18-bad.dir/CWE188_Reliance_on_Data_Memory_Layout__union_18.c.o"
+}
+]

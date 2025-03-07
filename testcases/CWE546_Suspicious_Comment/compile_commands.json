@@ -1,0 +1,1094 @@
+[
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c",
+  "output": "CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c",
+  "output": "CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__BUG_01-good.dir/CWE546_Suspicious_Comment__BUG_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_01.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__BUG_01-good.dir/CWE546_Suspicious_Comment__BUG_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__BUG_01-bad.dir/CWE546_Suspicious_Comment__BUG_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_01.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__BUG_01-bad.dir/CWE546_Suspicious_Comment__BUG_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__BUG_02-good.dir/CWE546_Suspicious_Comment__BUG_02.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_02.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_02.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__BUG_02-good.dir/CWE546_Suspicious_Comment__BUG_02.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__BUG_02-bad.dir/CWE546_Suspicious_Comment__BUG_02.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_02.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_02.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__BUG_02-bad.dir/CWE546_Suspicious_Comment__BUG_02.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__BUG_03-good.dir/CWE546_Suspicious_Comment__BUG_03.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_03.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_03.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__BUG_03-good.dir/CWE546_Suspicious_Comment__BUG_03.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__BUG_03-bad.dir/CWE546_Suspicious_Comment__BUG_03.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_03.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_03.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__BUG_03-bad.dir/CWE546_Suspicious_Comment__BUG_03.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__BUG_04-good.dir/CWE546_Suspicious_Comment__BUG_04.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_04.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_04.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__BUG_04-good.dir/CWE546_Suspicious_Comment__BUG_04.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__BUG_04-bad.dir/CWE546_Suspicious_Comment__BUG_04.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_04.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_04.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__BUG_04-bad.dir/CWE546_Suspicious_Comment__BUG_04.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__BUG_05-good.dir/CWE546_Suspicious_Comment__BUG_05.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_05.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_05.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__BUG_05-good.dir/CWE546_Suspicious_Comment__BUG_05.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__BUG_05-bad.dir/CWE546_Suspicious_Comment__BUG_05.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_05.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_05.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__BUG_05-bad.dir/CWE546_Suspicious_Comment__BUG_05.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__BUG_06-good.dir/CWE546_Suspicious_Comment__BUG_06.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_06.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_06.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__BUG_06-good.dir/CWE546_Suspicious_Comment__BUG_06.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__BUG_06-bad.dir/CWE546_Suspicious_Comment__BUG_06.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_06.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_06.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__BUG_06-bad.dir/CWE546_Suspicious_Comment__BUG_06.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__BUG_07-good.dir/CWE546_Suspicious_Comment__BUG_07.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_07.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_07.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__BUG_07-good.dir/CWE546_Suspicious_Comment__BUG_07.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__BUG_07-bad.dir/CWE546_Suspicious_Comment__BUG_07.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_07.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_07.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__BUG_07-bad.dir/CWE546_Suspicious_Comment__BUG_07.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__BUG_08-good.dir/CWE546_Suspicious_Comment__BUG_08.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_08.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_08.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__BUG_08-good.dir/CWE546_Suspicious_Comment__BUG_08.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__BUG_08-bad.dir/CWE546_Suspicious_Comment__BUG_08.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_08.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_08.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__BUG_08-bad.dir/CWE546_Suspicious_Comment__BUG_08.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__BUG_09-good.dir/CWE546_Suspicious_Comment__BUG_09.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_09.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_09.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__BUG_09-good.dir/CWE546_Suspicious_Comment__BUG_09.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__BUG_09-bad.dir/CWE546_Suspicious_Comment__BUG_09.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_09.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_09.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__BUG_09-bad.dir/CWE546_Suspicious_Comment__BUG_09.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__BUG_10-good.dir/CWE546_Suspicious_Comment__BUG_10.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_10.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_10.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__BUG_10-good.dir/CWE546_Suspicious_Comment__BUG_10.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__BUG_10-bad.dir/CWE546_Suspicious_Comment__BUG_10.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_10.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_10.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__BUG_10-bad.dir/CWE546_Suspicious_Comment__BUG_10.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__BUG_11-good.dir/CWE546_Suspicious_Comment__BUG_11.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_11.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_11.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__BUG_11-good.dir/CWE546_Suspicious_Comment__BUG_11.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__BUG_11-bad.dir/CWE546_Suspicious_Comment__BUG_11.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_11.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_11.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__BUG_11-bad.dir/CWE546_Suspicious_Comment__BUG_11.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__BUG_12-good.dir/CWE546_Suspicious_Comment__BUG_12.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_12.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_12.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__BUG_12-good.dir/CWE546_Suspicious_Comment__BUG_12.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__BUG_12-bad.dir/CWE546_Suspicious_Comment__BUG_12.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_12.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_12.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__BUG_12-bad.dir/CWE546_Suspicious_Comment__BUG_12.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__BUG_13-good.dir/CWE546_Suspicious_Comment__BUG_13.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_13.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_13.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__BUG_13-good.dir/CWE546_Suspicious_Comment__BUG_13.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__BUG_13-bad.dir/CWE546_Suspicious_Comment__BUG_13.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_13.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_13.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__BUG_13-bad.dir/CWE546_Suspicious_Comment__BUG_13.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__BUG_14-good.dir/CWE546_Suspicious_Comment__BUG_14.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_14.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_14.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__BUG_14-good.dir/CWE546_Suspicious_Comment__BUG_14.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__BUG_14-bad.dir/CWE546_Suspicious_Comment__BUG_14.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_14.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_14.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__BUG_14-bad.dir/CWE546_Suspicious_Comment__BUG_14.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__BUG_15-good.dir/CWE546_Suspicious_Comment__BUG_15.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_15.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_15.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__BUG_15-good.dir/CWE546_Suspicious_Comment__BUG_15.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__BUG_15-bad.dir/CWE546_Suspicious_Comment__BUG_15.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_15.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_15.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__BUG_15-bad.dir/CWE546_Suspicious_Comment__BUG_15.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__BUG_16-good.dir/CWE546_Suspicious_Comment__BUG_16.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_16.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_16.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__BUG_16-good.dir/CWE546_Suspicious_Comment__BUG_16.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__BUG_16-bad.dir/CWE546_Suspicious_Comment__BUG_16.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_16.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_16.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__BUG_16-bad.dir/CWE546_Suspicious_Comment__BUG_16.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__BUG_17-good.dir/CWE546_Suspicious_Comment__BUG_17.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_17.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_17.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__BUG_17-good.dir/CWE546_Suspicious_Comment__BUG_17.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__BUG_17-bad.dir/CWE546_Suspicious_Comment__BUG_17.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_17.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_17.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__BUG_17-bad.dir/CWE546_Suspicious_Comment__BUG_17.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__BUG_18-good.dir/CWE546_Suspicious_Comment__BUG_18.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_18.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_18.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__BUG_18-good.dir/CWE546_Suspicious_Comment__BUG_18.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__BUG_18-bad.dir/CWE546_Suspicious_Comment__BUG_18.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_18.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_18.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__BUG_18-bad.dir/CWE546_Suspicious_Comment__BUG_18.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__FIXME_01-good.dir/CWE546_Suspicious_Comment__FIXME_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_01.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__FIXME_01-good.dir/CWE546_Suspicious_Comment__FIXME_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__FIXME_01-bad.dir/CWE546_Suspicious_Comment__FIXME_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_01.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__FIXME_01-bad.dir/CWE546_Suspicious_Comment__FIXME_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__FIXME_02-good.dir/CWE546_Suspicious_Comment__FIXME_02.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_02.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_02.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__FIXME_02-good.dir/CWE546_Suspicious_Comment__FIXME_02.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__FIXME_02-bad.dir/CWE546_Suspicious_Comment__FIXME_02.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_02.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_02.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__FIXME_02-bad.dir/CWE546_Suspicious_Comment__FIXME_02.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__FIXME_03-good.dir/CWE546_Suspicious_Comment__FIXME_03.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_03.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_03.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__FIXME_03-good.dir/CWE546_Suspicious_Comment__FIXME_03.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__FIXME_03-bad.dir/CWE546_Suspicious_Comment__FIXME_03.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_03.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_03.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__FIXME_03-bad.dir/CWE546_Suspicious_Comment__FIXME_03.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__FIXME_04-good.dir/CWE546_Suspicious_Comment__FIXME_04.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_04.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_04.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__FIXME_04-good.dir/CWE546_Suspicious_Comment__FIXME_04.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__FIXME_04-bad.dir/CWE546_Suspicious_Comment__FIXME_04.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_04.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_04.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__FIXME_04-bad.dir/CWE546_Suspicious_Comment__FIXME_04.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__FIXME_05-good.dir/CWE546_Suspicious_Comment__FIXME_05.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_05.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_05.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__FIXME_05-good.dir/CWE546_Suspicious_Comment__FIXME_05.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__FIXME_05-bad.dir/CWE546_Suspicious_Comment__FIXME_05.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_05.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_05.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__FIXME_05-bad.dir/CWE546_Suspicious_Comment__FIXME_05.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__FIXME_06-good.dir/CWE546_Suspicious_Comment__FIXME_06.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_06.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_06.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__FIXME_06-good.dir/CWE546_Suspicious_Comment__FIXME_06.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__FIXME_06-bad.dir/CWE546_Suspicious_Comment__FIXME_06.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_06.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_06.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__FIXME_06-bad.dir/CWE546_Suspicious_Comment__FIXME_06.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__FIXME_07-good.dir/CWE546_Suspicious_Comment__FIXME_07.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_07.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_07.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__FIXME_07-good.dir/CWE546_Suspicious_Comment__FIXME_07.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__FIXME_07-bad.dir/CWE546_Suspicious_Comment__FIXME_07.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_07.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_07.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__FIXME_07-bad.dir/CWE546_Suspicious_Comment__FIXME_07.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__FIXME_08-good.dir/CWE546_Suspicious_Comment__FIXME_08.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_08.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_08.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__FIXME_08-good.dir/CWE546_Suspicious_Comment__FIXME_08.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__FIXME_08-bad.dir/CWE546_Suspicious_Comment__FIXME_08.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_08.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_08.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__FIXME_08-bad.dir/CWE546_Suspicious_Comment__FIXME_08.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__FIXME_09-good.dir/CWE546_Suspicious_Comment__FIXME_09.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_09.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_09.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__FIXME_09-good.dir/CWE546_Suspicious_Comment__FIXME_09.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__FIXME_09-bad.dir/CWE546_Suspicious_Comment__FIXME_09.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_09.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_09.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__FIXME_09-bad.dir/CWE546_Suspicious_Comment__FIXME_09.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__FIXME_10-good.dir/CWE546_Suspicious_Comment__FIXME_10.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_10.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_10.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__FIXME_10-good.dir/CWE546_Suspicious_Comment__FIXME_10.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__FIXME_10-bad.dir/CWE546_Suspicious_Comment__FIXME_10.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_10.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_10.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__FIXME_10-bad.dir/CWE546_Suspicious_Comment__FIXME_10.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__FIXME_11-good.dir/CWE546_Suspicious_Comment__FIXME_11.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_11.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_11.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__FIXME_11-good.dir/CWE546_Suspicious_Comment__FIXME_11.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__FIXME_11-bad.dir/CWE546_Suspicious_Comment__FIXME_11.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_11.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_11.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__FIXME_11-bad.dir/CWE546_Suspicious_Comment__FIXME_11.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__FIXME_12-good.dir/CWE546_Suspicious_Comment__FIXME_12.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_12.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_12.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__FIXME_12-good.dir/CWE546_Suspicious_Comment__FIXME_12.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__FIXME_12-bad.dir/CWE546_Suspicious_Comment__FIXME_12.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_12.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_12.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__FIXME_12-bad.dir/CWE546_Suspicious_Comment__FIXME_12.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__FIXME_13-good.dir/CWE546_Suspicious_Comment__FIXME_13.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_13.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_13.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__FIXME_13-good.dir/CWE546_Suspicious_Comment__FIXME_13.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__FIXME_13-bad.dir/CWE546_Suspicious_Comment__FIXME_13.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_13.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_13.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__FIXME_13-bad.dir/CWE546_Suspicious_Comment__FIXME_13.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__FIXME_14-good.dir/CWE546_Suspicious_Comment__FIXME_14.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_14.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_14.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__FIXME_14-good.dir/CWE546_Suspicious_Comment__FIXME_14.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__FIXME_14-bad.dir/CWE546_Suspicious_Comment__FIXME_14.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_14.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_14.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__FIXME_14-bad.dir/CWE546_Suspicious_Comment__FIXME_14.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__FIXME_15-good.dir/CWE546_Suspicious_Comment__FIXME_15.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_15.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_15.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__FIXME_15-good.dir/CWE546_Suspicious_Comment__FIXME_15.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__FIXME_15-bad.dir/CWE546_Suspicious_Comment__FIXME_15.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_15.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_15.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__FIXME_15-bad.dir/CWE546_Suspicious_Comment__FIXME_15.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__FIXME_16-good.dir/CWE546_Suspicious_Comment__FIXME_16.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_16.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_16.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__FIXME_16-good.dir/CWE546_Suspicious_Comment__FIXME_16.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__FIXME_16-bad.dir/CWE546_Suspicious_Comment__FIXME_16.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_16.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_16.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__FIXME_16-bad.dir/CWE546_Suspicious_Comment__FIXME_16.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__FIXME_17-good.dir/CWE546_Suspicious_Comment__FIXME_17.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_17.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_17.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__FIXME_17-good.dir/CWE546_Suspicious_Comment__FIXME_17.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__FIXME_17-bad.dir/CWE546_Suspicious_Comment__FIXME_17.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_17.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_17.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__FIXME_17-bad.dir/CWE546_Suspicious_Comment__FIXME_17.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__FIXME_18-good.dir/CWE546_Suspicious_Comment__FIXME_18.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_18.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_18.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__FIXME_18-good.dir/CWE546_Suspicious_Comment__FIXME_18.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__FIXME_18-bad.dir/CWE546_Suspicious_Comment__FIXME_18.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_18.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__FIXME_18.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__FIXME_18-bad.dir/CWE546_Suspicious_Comment__FIXME_18.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__HACK_01-good.dir/CWE546_Suspicious_Comment__HACK_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_01.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__HACK_01-good.dir/CWE546_Suspicious_Comment__HACK_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__HACK_01-bad.dir/CWE546_Suspicious_Comment__HACK_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_01.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__HACK_01-bad.dir/CWE546_Suspicious_Comment__HACK_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__HACK_02-good.dir/CWE546_Suspicious_Comment__HACK_02.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_02.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_02.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__HACK_02-good.dir/CWE546_Suspicious_Comment__HACK_02.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__HACK_02-bad.dir/CWE546_Suspicious_Comment__HACK_02.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_02.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_02.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__HACK_02-bad.dir/CWE546_Suspicious_Comment__HACK_02.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__HACK_03-good.dir/CWE546_Suspicious_Comment__HACK_03.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_03.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_03.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__HACK_03-good.dir/CWE546_Suspicious_Comment__HACK_03.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__HACK_03-bad.dir/CWE546_Suspicious_Comment__HACK_03.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_03.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_03.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__HACK_03-bad.dir/CWE546_Suspicious_Comment__HACK_03.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__HACK_04-good.dir/CWE546_Suspicious_Comment__HACK_04.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_04.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_04.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__HACK_04-good.dir/CWE546_Suspicious_Comment__HACK_04.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__HACK_04-bad.dir/CWE546_Suspicious_Comment__HACK_04.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_04.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_04.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__HACK_04-bad.dir/CWE546_Suspicious_Comment__HACK_04.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__HACK_05-good.dir/CWE546_Suspicious_Comment__HACK_05.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_05.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_05.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__HACK_05-good.dir/CWE546_Suspicious_Comment__HACK_05.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__HACK_05-bad.dir/CWE546_Suspicious_Comment__HACK_05.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_05.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_05.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__HACK_05-bad.dir/CWE546_Suspicious_Comment__HACK_05.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__HACK_06-good.dir/CWE546_Suspicious_Comment__HACK_06.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_06.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_06.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__HACK_06-good.dir/CWE546_Suspicious_Comment__HACK_06.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__HACK_06-bad.dir/CWE546_Suspicious_Comment__HACK_06.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_06.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_06.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__HACK_06-bad.dir/CWE546_Suspicious_Comment__HACK_06.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__HACK_07-good.dir/CWE546_Suspicious_Comment__HACK_07.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_07.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_07.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__HACK_07-good.dir/CWE546_Suspicious_Comment__HACK_07.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__HACK_07-bad.dir/CWE546_Suspicious_Comment__HACK_07.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_07.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_07.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__HACK_07-bad.dir/CWE546_Suspicious_Comment__HACK_07.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__HACK_08-good.dir/CWE546_Suspicious_Comment__HACK_08.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_08.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_08.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__HACK_08-good.dir/CWE546_Suspicious_Comment__HACK_08.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__HACK_08-bad.dir/CWE546_Suspicious_Comment__HACK_08.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_08.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_08.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__HACK_08-bad.dir/CWE546_Suspicious_Comment__HACK_08.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__HACK_09-good.dir/CWE546_Suspicious_Comment__HACK_09.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_09.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_09.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__HACK_09-good.dir/CWE546_Suspicious_Comment__HACK_09.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__HACK_09-bad.dir/CWE546_Suspicious_Comment__HACK_09.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_09.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_09.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__HACK_09-bad.dir/CWE546_Suspicious_Comment__HACK_09.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__HACK_10-good.dir/CWE546_Suspicious_Comment__HACK_10.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_10.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_10.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__HACK_10-good.dir/CWE546_Suspicious_Comment__HACK_10.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__HACK_10-bad.dir/CWE546_Suspicious_Comment__HACK_10.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_10.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_10.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__HACK_10-bad.dir/CWE546_Suspicious_Comment__HACK_10.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__HACK_11-good.dir/CWE546_Suspicious_Comment__HACK_11.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_11.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_11.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__HACK_11-good.dir/CWE546_Suspicious_Comment__HACK_11.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__HACK_11-bad.dir/CWE546_Suspicious_Comment__HACK_11.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_11.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_11.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__HACK_11-bad.dir/CWE546_Suspicious_Comment__HACK_11.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__HACK_12-good.dir/CWE546_Suspicious_Comment__HACK_12.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_12.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_12.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__HACK_12-good.dir/CWE546_Suspicious_Comment__HACK_12.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__HACK_12-bad.dir/CWE546_Suspicious_Comment__HACK_12.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_12.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_12.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__HACK_12-bad.dir/CWE546_Suspicious_Comment__HACK_12.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__HACK_13-good.dir/CWE546_Suspicious_Comment__HACK_13.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_13.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_13.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__HACK_13-good.dir/CWE546_Suspicious_Comment__HACK_13.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__HACK_13-bad.dir/CWE546_Suspicious_Comment__HACK_13.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_13.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_13.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__HACK_13-bad.dir/CWE546_Suspicious_Comment__HACK_13.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__HACK_14-good.dir/CWE546_Suspicious_Comment__HACK_14.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_14.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_14.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__HACK_14-good.dir/CWE546_Suspicious_Comment__HACK_14.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__HACK_14-bad.dir/CWE546_Suspicious_Comment__HACK_14.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_14.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_14.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__HACK_14-bad.dir/CWE546_Suspicious_Comment__HACK_14.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__HACK_15-good.dir/CWE546_Suspicious_Comment__HACK_15.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_15.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_15.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__HACK_15-good.dir/CWE546_Suspicious_Comment__HACK_15.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__HACK_15-bad.dir/CWE546_Suspicious_Comment__HACK_15.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_15.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_15.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__HACK_15-bad.dir/CWE546_Suspicious_Comment__HACK_15.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__HACK_16-good.dir/CWE546_Suspicious_Comment__HACK_16.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_16.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_16.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__HACK_16-good.dir/CWE546_Suspicious_Comment__HACK_16.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__HACK_16-bad.dir/CWE546_Suspicious_Comment__HACK_16.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_16.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_16.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__HACK_16-bad.dir/CWE546_Suspicious_Comment__HACK_16.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__HACK_17-good.dir/CWE546_Suspicious_Comment__HACK_17.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_17.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_17.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__HACK_17-good.dir/CWE546_Suspicious_Comment__HACK_17.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__HACK_17-bad.dir/CWE546_Suspicious_Comment__HACK_17.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_17.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_17.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__HACK_17-bad.dir/CWE546_Suspicious_Comment__HACK_17.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__HACK_18-good.dir/CWE546_Suspicious_Comment__HACK_18.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_18.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_18.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__HACK_18-good.dir/CWE546_Suspicious_Comment__HACK_18.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__HACK_18-bad.dir/CWE546_Suspicious_Comment__HACK_18.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_18.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__HACK_18.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__HACK_18-bad.dir/CWE546_Suspicious_Comment__HACK_18.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__LATER_01-good.dir/CWE546_Suspicious_Comment__LATER_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_01.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__LATER_01-good.dir/CWE546_Suspicious_Comment__LATER_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__LATER_01-bad.dir/CWE546_Suspicious_Comment__LATER_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_01.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__LATER_01-bad.dir/CWE546_Suspicious_Comment__LATER_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__LATER_02-good.dir/CWE546_Suspicious_Comment__LATER_02.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_02.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_02.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__LATER_02-good.dir/CWE546_Suspicious_Comment__LATER_02.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__LATER_02-bad.dir/CWE546_Suspicious_Comment__LATER_02.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_02.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_02.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__LATER_02-bad.dir/CWE546_Suspicious_Comment__LATER_02.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__LATER_03-good.dir/CWE546_Suspicious_Comment__LATER_03.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_03.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_03.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__LATER_03-good.dir/CWE546_Suspicious_Comment__LATER_03.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__LATER_03-bad.dir/CWE546_Suspicious_Comment__LATER_03.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_03.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_03.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__LATER_03-bad.dir/CWE546_Suspicious_Comment__LATER_03.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__LATER_04-good.dir/CWE546_Suspicious_Comment__LATER_04.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_04.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_04.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__LATER_04-good.dir/CWE546_Suspicious_Comment__LATER_04.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__LATER_04-bad.dir/CWE546_Suspicious_Comment__LATER_04.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_04.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_04.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__LATER_04-bad.dir/CWE546_Suspicious_Comment__LATER_04.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__LATER_05-good.dir/CWE546_Suspicious_Comment__LATER_05.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_05.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_05.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__LATER_05-good.dir/CWE546_Suspicious_Comment__LATER_05.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__LATER_05-bad.dir/CWE546_Suspicious_Comment__LATER_05.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_05.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_05.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__LATER_05-bad.dir/CWE546_Suspicious_Comment__LATER_05.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__LATER_06-good.dir/CWE546_Suspicious_Comment__LATER_06.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_06.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_06.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__LATER_06-good.dir/CWE546_Suspicious_Comment__LATER_06.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__LATER_06-bad.dir/CWE546_Suspicious_Comment__LATER_06.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_06.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_06.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__LATER_06-bad.dir/CWE546_Suspicious_Comment__LATER_06.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__LATER_07-good.dir/CWE546_Suspicious_Comment__LATER_07.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_07.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_07.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__LATER_07-good.dir/CWE546_Suspicious_Comment__LATER_07.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__LATER_07-bad.dir/CWE546_Suspicious_Comment__LATER_07.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_07.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_07.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__LATER_07-bad.dir/CWE546_Suspicious_Comment__LATER_07.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__LATER_08-good.dir/CWE546_Suspicious_Comment__LATER_08.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_08.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_08.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__LATER_08-good.dir/CWE546_Suspicious_Comment__LATER_08.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__LATER_08-bad.dir/CWE546_Suspicious_Comment__LATER_08.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_08.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_08.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__LATER_08-bad.dir/CWE546_Suspicious_Comment__LATER_08.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__LATER_09-good.dir/CWE546_Suspicious_Comment__LATER_09.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_09.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_09.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__LATER_09-good.dir/CWE546_Suspicious_Comment__LATER_09.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__LATER_09-bad.dir/CWE546_Suspicious_Comment__LATER_09.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_09.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_09.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__LATER_09-bad.dir/CWE546_Suspicious_Comment__LATER_09.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__LATER_10-good.dir/CWE546_Suspicious_Comment__LATER_10.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_10.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_10.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__LATER_10-good.dir/CWE546_Suspicious_Comment__LATER_10.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__LATER_10-bad.dir/CWE546_Suspicious_Comment__LATER_10.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_10.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_10.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__LATER_10-bad.dir/CWE546_Suspicious_Comment__LATER_10.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__LATER_11-good.dir/CWE546_Suspicious_Comment__LATER_11.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_11.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_11.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__LATER_11-good.dir/CWE546_Suspicious_Comment__LATER_11.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__LATER_11-bad.dir/CWE546_Suspicious_Comment__LATER_11.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_11.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_11.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__LATER_11-bad.dir/CWE546_Suspicious_Comment__LATER_11.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__LATER_12-good.dir/CWE546_Suspicious_Comment__LATER_12.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_12.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_12.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__LATER_12-good.dir/CWE546_Suspicious_Comment__LATER_12.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__LATER_12-bad.dir/CWE546_Suspicious_Comment__LATER_12.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_12.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_12.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__LATER_12-bad.dir/CWE546_Suspicious_Comment__LATER_12.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__LATER_13-good.dir/CWE546_Suspicious_Comment__LATER_13.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_13.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_13.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__LATER_13-good.dir/CWE546_Suspicious_Comment__LATER_13.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__LATER_13-bad.dir/CWE546_Suspicious_Comment__LATER_13.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_13.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_13.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__LATER_13-bad.dir/CWE546_Suspicious_Comment__LATER_13.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__LATER_14-good.dir/CWE546_Suspicious_Comment__LATER_14.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_14.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_14.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__LATER_14-good.dir/CWE546_Suspicious_Comment__LATER_14.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__LATER_14-bad.dir/CWE546_Suspicious_Comment__LATER_14.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_14.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_14.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__LATER_14-bad.dir/CWE546_Suspicious_Comment__LATER_14.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__LATER_15-good.dir/CWE546_Suspicious_Comment__LATER_15.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_15.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_15.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__LATER_15-good.dir/CWE546_Suspicious_Comment__LATER_15.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__LATER_15-bad.dir/CWE546_Suspicious_Comment__LATER_15.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_15.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_15.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__LATER_15-bad.dir/CWE546_Suspicious_Comment__LATER_15.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__LATER_16-good.dir/CWE546_Suspicious_Comment__LATER_16.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_16.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_16.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__LATER_16-good.dir/CWE546_Suspicious_Comment__LATER_16.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__LATER_16-bad.dir/CWE546_Suspicious_Comment__LATER_16.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_16.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_16.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__LATER_16-bad.dir/CWE546_Suspicious_Comment__LATER_16.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__LATER_17-good.dir/CWE546_Suspicious_Comment__LATER_17.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_17.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_17.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__LATER_17-good.dir/CWE546_Suspicious_Comment__LATER_17.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__LATER_17-bad.dir/CWE546_Suspicious_Comment__LATER_17.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_17.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_17.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__LATER_17-bad.dir/CWE546_Suspicious_Comment__LATER_17.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__LATER_18-good.dir/CWE546_Suspicious_Comment__LATER_18.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_18.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_18.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__LATER_18-good.dir/CWE546_Suspicious_Comment__LATER_18.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__LATER_18-bad.dir/CWE546_Suspicious_Comment__LATER_18.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_18.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__LATER_18.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__LATER_18-bad.dir/CWE546_Suspicious_Comment__LATER_18.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__TODO_01-good.dir/CWE546_Suspicious_Comment__TODO_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_01.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__TODO_01-good.dir/CWE546_Suspicious_Comment__TODO_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__TODO_01-bad.dir/CWE546_Suspicious_Comment__TODO_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_01.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__TODO_01-bad.dir/CWE546_Suspicious_Comment__TODO_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__TODO_02-good.dir/CWE546_Suspicious_Comment__TODO_02.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_02.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_02.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__TODO_02-good.dir/CWE546_Suspicious_Comment__TODO_02.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__TODO_02-bad.dir/CWE546_Suspicious_Comment__TODO_02.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_02.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_02.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__TODO_02-bad.dir/CWE546_Suspicious_Comment__TODO_02.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__TODO_03-good.dir/CWE546_Suspicious_Comment__TODO_03.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_03.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_03.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__TODO_03-good.dir/CWE546_Suspicious_Comment__TODO_03.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__TODO_03-bad.dir/CWE546_Suspicious_Comment__TODO_03.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_03.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_03.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__TODO_03-bad.dir/CWE546_Suspicious_Comment__TODO_03.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__TODO_04-good.dir/CWE546_Suspicious_Comment__TODO_04.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_04.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_04.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__TODO_04-good.dir/CWE546_Suspicious_Comment__TODO_04.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__TODO_04-bad.dir/CWE546_Suspicious_Comment__TODO_04.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_04.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_04.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__TODO_04-bad.dir/CWE546_Suspicious_Comment__TODO_04.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__TODO_05-good.dir/CWE546_Suspicious_Comment__TODO_05.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_05.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_05.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__TODO_05-good.dir/CWE546_Suspicious_Comment__TODO_05.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__TODO_05-bad.dir/CWE546_Suspicious_Comment__TODO_05.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_05.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_05.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__TODO_05-bad.dir/CWE546_Suspicious_Comment__TODO_05.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__TODO_06-good.dir/CWE546_Suspicious_Comment__TODO_06.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_06.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_06.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__TODO_06-good.dir/CWE546_Suspicious_Comment__TODO_06.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__TODO_06-bad.dir/CWE546_Suspicious_Comment__TODO_06.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_06.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_06.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__TODO_06-bad.dir/CWE546_Suspicious_Comment__TODO_06.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__TODO_07-good.dir/CWE546_Suspicious_Comment__TODO_07.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_07.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_07.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__TODO_07-good.dir/CWE546_Suspicious_Comment__TODO_07.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__TODO_07-bad.dir/CWE546_Suspicious_Comment__TODO_07.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_07.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_07.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__TODO_07-bad.dir/CWE546_Suspicious_Comment__TODO_07.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__TODO_08-good.dir/CWE546_Suspicious_Comment__TODO_08.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_08.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_08.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__TODO_08-good.dir/CWE546_Suspicious_Comment__TODO_08.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__TODO_08-bad.dir/CWE546_Suspicious_Comment__TODO_08.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_08.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_08.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__TODO_08-bad.dir/CWE546_Suspicious_Comment__TODO_08.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__TODO_09-good.dir/CWE546_Suspicious_Comment__TODO_09.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_09.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_09.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__TODO_09-good.dir/CWE546_Suspicious_Comment__TODO_09.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__TODO_09-bad.dir/CWE546_Suspicious_Comment__TODO_09.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_09.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_09.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__TODO_09-bad.dir/CWE546_Suspicious_Comment__TODO_09.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__TODO_10-good.dir/CWE546_Suspicious_Comment__TODO_10.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_10.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_10.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__TODO_10-good.dir/CWE546_Suspicious_Comment__TODO_10.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__TODO_10-bad.dir/CWE546_Suspicious_Comment__TODO_10.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_10.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_10.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__TODO_10-bad.dir/CWE546_Suspicious_Comment__TODO_10.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__TODO_11-good.dir/CWE546_Suspicious_Comment__TODO_11.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_11.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_11.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__TODO_11-good.dir/CWE546_Suspicious_Comment__TODO_11.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__TODO_11-bad.dir/CWE546_Suspicious_Comment__TODO_11.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_11.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_11.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__TODO_11-bad.dir/CWE546_Suspicious_Comment__TODO_11.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__TODO_12-good.dir/CWE546_Suspicious_Comment__TODO_12.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_12.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_12.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__TODO_12-good.dir/CWE546_Suspicious_Comment__TODO_12.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__TODO_12-bad.dir/CWE546_Suspicious_Comment__TODO_12.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_12.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_12.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__TODO_12-bad.dir/CWE546_Suspicious_Comment__TODO_12.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__TODO_13-good.dir/CWE546_Suspicious_Comment__TODO_13.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_13.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_13.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__TODO_13-good.dir/CWE546_Suspicious_Comment__TODO_13.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__TODO_13-bad.dir/CWE546_Suspicious_Comment__TODO_13.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_13.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_13.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__TODO_13-bad.dir/CWE546_Suspicious_Comment__TODO_13.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__TODO_14-good.dir/CWE546_Suspicious_Comment__TODO_14.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_14.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_14.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__TODO_14-good.dir/CWE546_Suspicious_Comment__TODO_14.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__TODO_14-bad.dir/CWE546_Suspicious_Comment__TODO_14.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_14.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_14.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__TODO_14-bad.dir/CWE546_Suspicious_Comment__TODO_14.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__TODO_15-good.dir/CWE546_Suspicious_Comment__TODO_15.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_15.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_15.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__TODO_15-good.dir/CWE546_Suspicious_Comment__TODO_15.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__TODO_15-bad.dir/CWE546_Suspicious_Comment__TODO_15.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_15.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_15.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__TODO_15-bad.dir/CWE546_Suspicious_Comment__TODO_15.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__TODO_16-good.dir/CWE546_Suspicious_Comment__TODO_16.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_16.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_16.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__TODO_16-good.dir/CWE546_Suspicious_Comment__TODO_16.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__TODO_16-bad.dir/CWE546_Suspicious_Comment__TODO_16.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_16.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_16.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__TODO_16-bad.dir/CWE546_Suspicious_Comment__TODO_16.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__TODO_17-good.dir/CWE546_Suspicious_Comment__TODO_17.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_17.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_17.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__TODO_17-good.dir/CWE546_Suspicious_Comment__TODO_17.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__TODO_17-bad.dir/CWE546_Suspicious_Comment__TODO_17.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_17.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_17.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__TODO_17-bad.dir/CWE546_Suspicious_Comment__TODO_17.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__TODO_18-good.dir/CWE546_Suspicious_Comment__TODO_18.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_18.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_18.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__TODO_18-good.dir/CWE546_Suspicious_Comment__TODO_18.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/../../testcasesupport -O0 -o CMakeFiles/CWE546_Suspicious_Comment__TODO_18-bad.dir/CWE546_Suspicious_Comment__TODO_18.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_18.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__TODO_18.c",
+  "output": "CMakeFiles/CWE546_Suspicious_Comment__TODO_18-bad.dir/CWE546_Suspicious_Comment__TODO_18.c.o"
+}
+]

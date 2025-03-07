@@ -1,0 +1,242 @@
+[
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c",
+  "output": "CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c",
+  "output": "CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE397_Throw_Generic_Exception__declare_exception_01-good.dir/CWE397_Throw_Generic_Exception__declare_exception_01.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__declare_exception_01.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__declare_exception_01.cpp",
+  "output": "CMakeFiles/CWE397_Throw_Generic_Exception__declare_exception_01-good.dir/CWE397_Throw_Generic_Exception__declare_exception_01.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE397_Throw_Generic_Exception__declare_exception_01-bad.dir/CWE397_Throw_Generic_Exception__declare_exception_01.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__declare_exception_01.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__declare_exception_01.cpp",
+  "output": "CMakeFiles/CWE397_Throw_Generic_Exception__declare_exception_01-bad.dir/CWE397_Throw_Generic_Exception__declare_exception_01.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_01-good.dir/CWE397_Throw_Generic_Exception__throw_exception_01.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_01.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_01.cpp",
+  "output": "CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_01-good.dir/CWE397_Throw_Generic_Exception__throw_exception_01.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_01-bad.dir/CWE397_Throw_Generic_Exception__throw_exception_01.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_01.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_01.cpp",
+  "output": "CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_01-bad.dir/CWE397_Throw_Generic_Exception__throw_exception_01.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_02-good.dir/CWE397_Throw_Generic_Exception__throw_exception_02.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_02.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_02.cpp",
+  "output": "CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_02-good.dir/CWE397_Throw_Generic_Exception__throw_exception_02.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_02-bad.dir/CWE397_Throw_Generic_Exception__throw_exception_02.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_02.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_02.cpp",
+  "output": "CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_02-bad.dir/CWE397_Throw_Generic_Exception__throw_exception_02.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_03-good.dir/CWE397_Throw_Generic_Exception__throw_exception_03.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_03.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_03.cpp",
+  "output": "CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_03-good.dir/CWE397_Throw_Generic_Exception__throw_exception_03.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_03-bad.dir/CWE397_Throw_Generic_Exception__throw_exception_03.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_03.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_03.cpp",
+  "output": "CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_03-bad.dir/CWE397_Throw_Generic_Exception__throw_exception_03.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_04-good.dir/CWE397_Throw_Generic_Exception__throw_exception_04.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_04.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_04.cpp",
+  "output": "CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_04-good.dir/CWE397_Throw_Generic_Exception__throw_exception_04.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_04-bad.dir/CWE397_Throw_Generic_Exception__throw_exception_04.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_04.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_04.cpp",
+  "output": "CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_04-bad.dir/CWE397_Throw_Generic_Exception__throw_exception_04.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_05-good.dir/CWE397_Throw_Generic_Exception__throw_exception_05.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_05.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_05.cpp",
+  "output": "CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_05-good.dir/CWE397_Throw_Generic_Exception__throw_exception_05.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_05-bad.dir/CWE397_Throw_Generic_Exception__throw_exception_05.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_05.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_05.cpp",
+  "output": "CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_05-bad.dir/CWE397_Throw_Generic_Exception__throw_exception_05.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_06-good.dir/CWE397_Throw_Generic_Exception__throw_exception_06.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_06.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_06.cpp",
+  "output": "CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_06-good.dir/CWE397_Throw_Generic_Exception__throw_exception_06.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_06-bad.dir/CWE397_Throw_Generic_Exception__throw_exception_06.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_06.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_06.cpp",
+  "output": "CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_06-bad.dir/CWE397_Throw_Generic_Exception__throw_exception_06.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_07-good.dir/CWE397_Throw_Generic_Exception__throw_exception_07.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_07.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_07.cpp",
+  "output": "CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_07-good.dir/CWE397_Throw_Generic_Exception__throw_exception_07.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_07-bad.dir/CWE397_Throw_Generic_Exception__throw_exception_07.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_07.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_07.cpp",
+  "output": "CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_07-bad.dir/CWE397_Throw_Generic_Exception__throw_exception_07.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_08-good.dir/CWE397_Throw_Generic_Exception__throw_exception_08.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_08.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_08.cpp",
+  "output": "CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_08-good.dir/CWE397_Throw_Generic_Exception__throw_exception_08.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_08-bad.dir/CWE397_Throw_Generic_Exception__throw_exception_08.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_08.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_08.cpp",
+  "output": "CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_08-bad.dir/CWE397_Throw_Generic_Exception__throw_exception_08.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_09-good.dir/CWE397_Throw_Generic_Exception__throw_exception_09.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_09.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_09.cpp",
+  "output": "CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_09-good.dir/CWE397_Throw_Generic_Exception__throw_exception_09.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_09-bad.dir/CWE397_Throw_Generic_Exception__throw_exception_09.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_09.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_09.cpp",
+  "output": "CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_09-bad.dir/CWE397_Throw_Generic_Exception__throw_exception_09.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_10-good.dir/CWE397_Throw_Generic_Exception__throw_exception_10.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_10.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_10.cpp",
+  "output": "CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_10-good.dir/CWE397_Throw_Generic_Exception__throw_exception_10.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_10-bad.dir/CWE397_Throw_Generic_Exception__throw_exception_10.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_10.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_10.cpp",
+  "output": "CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_10-bad.dir/CWE397_Throw_Generic_Exception__throw_exception_10.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_11-good.dir/CWE397_Throw_Generic_Exception__throw_exception_11.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_11.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_11.cpp",
+  "output": "CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_11-good.dir/CWE397_Throw_Generic_Exception__throw_exception_11.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_11-bad.dir/CWE397_Throw_Generic_Exception__throw_exception_11.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_11.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_11.cpp",
+  "output": "CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_11-bad.dir/CWE397_Throw_Generic_Exception__throw_exception_11.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_12-good.dir/CWE397_Throw_Generic_Exception__throw_exception_12.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_12.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_12.cpp",
+  "output": "CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_12-good.dir/CWE397_Throw_Generic_Exception__throw_exception_12.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_12-bad.dir/CWE397_Throw_Generic_Exception__throw_exception_12.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_12.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_12.cpp",
+  "output": "CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_12-bad.dir/CWE397_Throw_Generic_Exception__throw_exception_12.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_13-good.dir/CWE397_Throw_Generic_Exception__throw_exception_13.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_13.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_13.cpp",
+  "output": "CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_13-good.dir/CWE397_Throw_Generic_Exception__throw_exception_13.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_13-bad.dir/CWE397_Throw_Generic_Exception__throw_exception_13.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_13.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_13.cpp",
+  "output": "CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_13-bad.dir/CWE397_Throw_Generic_Exception__throw_exception_13.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_14-good.dir/CWE397_Throw_Generic_Exception__throw_exception_14.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_14.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_14.cpp",
+  "output": "CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_14-good.dir/CWE397_Throw_Generic_Exception__throw_exception_14.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_14-bad.dir/CWE397_Throw_Generic_Exception__throw_exception_14.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_14.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_14.cpp",
+  "output": "CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_14-bad.dir/CWE397_Throw_Generic_Exception__throw_exception_14.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_15-good.dir/CWE397_Throw_Generic_Exception__throw_exception_15.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_15.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_15.cpp",
+  "output": "CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_15-good.dir/CWE397_Throw_Generic_Exception__throw_exception_15.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_15-bad.dir/CWE397_Throw_Generic_Exception__throw_exception_15.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_15.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_15.cpp",
+  "output": "CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_15-bad.dir/CWE397_Throw_Generic_Exception__throw_exception_15.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_16-good.dir/CWE397_Throw_Generic_Exception__throw_exception_16.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_16.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_16.cpp",
+  "output": "CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_16-good.dir/CWE397_Throw_Generic_Exception__throw_exception_16.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_16-bad.dir/CWE397_Throw_Generic_Exception__throw_exception_16.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_16.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_16.cpp",
+  "output": "CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_16-bad.dir/CWE397_Throw_Generic_Exception__throw_exception_16.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_17-good.dir/CWE397_Throw_Generic_Exception__throw_exception_17.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_17.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_17.cpp",
+  "output": "CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_17-good.dir/CWE397_Throw_Generic_Exception__throw_exception_17.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_17-bad.dir/CWE397_Throw_Generic_Exception__throw_exception_17.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_17.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_17.cpp",
+  "output": "CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_17-bad.dir/CWE397_Throw_Generic_Exception__throw_exception_17.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_18-good.dir/CWE397_Throw_Generic_Exception__throw_exception_18.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_18.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_18.cpp",
+  "output": "CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_18-good.dir/CWE397_Throw_Generic_Exception__throw_exception_18.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_18-bad.dir/CWE397_Throw_Generic_Exception__throw_exception_18.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_18.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_exception_18.cpp",
+  "output": "CMakeFiles/CWE397_Throw_Generic_Exception__throw_exception_18-bad.dir/CWE397_Throw_Generic_Exception__throw_exception_18.cpp.o"
+}
+]

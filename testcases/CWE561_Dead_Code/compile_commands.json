@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE561_Dead_Code",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE561_Dead_Code/../../testcasesupport -O0 -o CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c",
+  "output": "CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE561_Dead_Code",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE561_Dead_Code/../../testcasesupport -O0 -o CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c",
+  "output": "CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE561_Dead_Code",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE561_Dead_Code/../../testcasesupport -O0 -o CMakeFiles/CWE561_Dead_Code__return_before_code_01-good.dir/CWE561_Dead_Code__return_before_code_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE561_Dead_Code/CWE561_Dead_Code__return_before_code_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE561_Dead_Code/CWE561_Dead_Code__return_before_code_01.c",
+  "output": "CMakeFiles/CWE561_Dead_Code__return_before_code_01-good.dir/CWE561_Dead_Code__return_before_code_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE561_Dead_Code",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE561_Dead_Code/../../testcasesupport -O0 -o CMakeFiles/CWE561_Dead_Code__return_before_code_01-bad.dir/CWE561_Dead_Code__return_before_code_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE561_Dead_Code/CWE561_Dead_Code__return_before_code_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE561_Dead_Code/CWE561_Dead_Code__return_before_code_01.c",
+  "output": "CMakeFiles/CWE561_Dead_Code__return_before_code_01-bad.dir/CWE561_Dead_Code__return_before_code_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE561_Dead_Code",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE561_Dead_Code/../../testcasesupport -O0 -o CMakeFiles/CWE561_Dead_Code__unused_function_01-good.dir/CWE561_Dead_Code__unused_function_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE561_Dead_Code/CWE561_Dead_Code__unused_function_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE561_Dead_Code/CWE561_Dead_Code__unused_function_01.c",
+  "output": "CMakeFiles/CWE561_Dead_Code__unused_function_01-good.dir/CWE561_Dead_Code__unused_function_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE561_Dead_Code",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE561_Dead_Code/../../testcasesupport -O0 -o CMakeFiles/CWE561_Dead_Code__unused_function_01-bad.dir/CWE561_Dead_Code__unused_function_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE561_Dead_Code/CWE561_Dead_Code__unused_function_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE561_Dead_Code/CWE561_Dead_Code__unused_function_01.c",
+  "output": "CMakeFiles/CWE561_Dead_Code__unused_function_01-bad.dir/CWE561_Dead_Code__unused_function_01.c.o"
+}
+]

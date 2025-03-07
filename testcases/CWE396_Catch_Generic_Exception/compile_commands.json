@@ -1,0 +1,662 @@
+[
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c",
+  "output": "CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c",
+  "output": "CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_01-good.dir/CWE396_Catch_Generic_Exception__dotdotdot_01.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_01.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_01.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_01-good.dir/CWE396_Catch_Generic_Exception__dotdotdot_01.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_01-bad.dir/CWE396_Catch_Generic_Exception__dotdotdot_01.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_01.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_01.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_01-bad.dir/CWE396_Catch_Generic_Exception__dotdotdot_01.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_02-good.dir/CWE396_Catch_Generic_Exception__dotdotdot_02.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_02.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_02.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_02-good.dir/CWE396_Catch_Generic_Exception__dotdotdot_02.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_02-bad.dir/CWE396_Catch_Generic_Exception__dotdotdot_02.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_02.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_02.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_02-bad.dir/CWE396_Catch_Generic_Exception__dotdotdot_02.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_03-good.dir/CWE396_Catch_Generic_Exception__dotdotdot_03.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_03.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_03.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_03-good.dir/CWE396_Catch_Generic_Exception__dotdotdot_03.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_03-bad.dir/CWE396_Catch_Generic_Exception__dotdotdot_03.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_03.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_03.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_03-bad.dir/CWE396_Catch_Generic_Exception__dotdotdot_03.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_04-good.dir/CWE396_Catch_Generic_Exception__dotdotdot_04.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_04.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_04.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_04-good.dir/CWE396_Catch_Generic_Exception__dotdotdot_04.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_04-bad.dir/CWE396_Catch_Generic_Exception__dotdotdot_04.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_04.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_04.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_04-bad.dir/CWE396_Catch_Generic_Exception__dotdotdot_04.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_05-good.dir/CWE396_Catch_Generic_Exception__dotdotdot_05.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_05.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_05.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_05-good.dir/CWE396_Catch_Generic_Exception__dotdotdot_05.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_05-bad.dir/CWE396_Catch_Generic_Exception__dotdotdot_05.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_05.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_05.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_05-bad.dir/CWE396_Catch_Generic_Exception__dotdotdot_05.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_06-good.dir/CWE396_Catch_Generic_Exception__dotdotdot_06.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_06.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_06.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_06-good.dir/CWE396_Catch_Generic_Exception__dotdotdot_06.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_06-bad.dir/CWE396_Catch_Generic_Exception__dotdotdot_06.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_06.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_06.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_06-bad.dir/CWE396_Catch_Generic_Exception__dotdotdot_06.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_07-good.dir/CWE396_Catch_Generic_Exception__dotdotdot_07.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_07.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_07.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_07-good.dir/CWE396_Catch_Generic_Exception__dotdotdot_07.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_07-bad.dir/CWE396_Catch_Generic_Exception__dotdotdot_07.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_07.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_07.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_07-bad.dir/CWE396_Catch_Generic_Exception__dotdotdot_07.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_08-good.dir/CWE396_Catch_Generic_Exception__dotdotdot_08.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_08.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_08.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_08-good.dir/CWE396_Catch_Generic_Exception__dotdotdot_08.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_08-bad.dir/CWE396_Catch_Generic_Exception__dotdotdot_08.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_08.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_08.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_08-bad.dir/CWE396_Catch_Generic_Exception__dotdotdot_08.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_09-good.dir/CWE396_Catch_Generic_Exception__dotdotdot_09.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_09.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_09.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_09-good.dir/CWE396_Catch_Generic_Exception__dotdotdot_09.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_09-bad.dir/CWE396_Catch_Generic_Exception__dotdotdot_09.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_09.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_09.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_09-bad.dir/CWE396_Catch_Generic_Exception__dotdotdot_09.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_10-good.dir/CWE396_Catch_Generic_Exception__dotdotdot_10.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_10.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_10.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_10-good.dir/CWE396_Catch_Generic_Exception__dotdotdot_10.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_10-bad.dir/CWE396_Catch_Generic_Exception__dotdotdot_10.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_10.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_10.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_10-bad.dir/CWE396_Catch_Generic_Exception__dotdotdot_10.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_11-good.dir/CWE396_Catch_Generic_Exception__dotdotdot_11.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_11.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_11.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_11-good.dir/CWE396_Catch_Generic_Exception__dotdotdot_11.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_11-bad.dir/CWE396_Catch_Generic_Exception__dotdotdot_11.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_11.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_11.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_11-bad.dir/CWE396_Catch_Generic_Exception__dotdotdot_11.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_12-good.dir/CWE396_Catch_Generic_Exception__dotdotdot_12.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_12.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_12.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_12-good.dir/CWE396_Catch_Generic_Exception__dotdotdot_12.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_12-bad.dir/CWE396_Catch_Generic_Exception__dotdotdot_12.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_12.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_12.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_12-bad.dir/CWE396_Catch_Generic_Exception__dotdotdot_12.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_13-good.dir/CWE396_Catch_Generic_Exception__dotdotdot_13.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_13.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_13.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_13-good.dir/CWE396_Catch_Generic_Exception__dotdotdot_13.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_13-bad.dir/CWE396_Catch_Generic_Exception__dotdotdot_13.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_13.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_13.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_13-bad.dir/CWE396_Catch_Generic_Exception__dotdotdot_13.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_14-good.dir/CWE396_Catch_Generic_Exception__dotdotdot_14.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_14.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_14.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_14-good.dir/CWE396_Catch_Generic_Exception__dotdotdot_14.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_14-bad.dir/CWE396_Catch_Generic_Exception__dotdotdot_14.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_14.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_14.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_14-bad.dir/CWE396_Catch_Generic_Exception__dotdotdot_14.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_15-good.dir/CWE396_Catch_Generic_Exception__dotdotdot_15.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_15.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_15.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_15-good.dir/CWE396_Catch_Generic_Exception__dotdotdot_15.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_15-bad.dir/CWE396_Catch_Generic_Exception__dotdotdot_15.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_15.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_15.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_15-bad.dir/CWE396_Catch_Generic_Exception__dotdotdot_15.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_16-good.dir/CWE396_Catch_Generic_Exception__dotdotdot_16.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_16.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_16.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_16-good.dir/CWE396_Catch_Generic_Exception__dotdotdot_16.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_16-bad.dir/CWE396_Catch_Generic_Exception__dotdotdot_16.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_16.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_16.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_16-bad.dir/CWE396_Catch_Generic_Exception__dotdotdot_16.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_17-good.dir/CWE396_Catch_Generic_Exception__dotdotdot_17.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_17.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_17.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_17-good.dir/CWE396_Catch_Generic_Exception__dotdotdot_17.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_17-bad.dir/CWE396_Catch_Generic_Exception__dotdotdot_17.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_17.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_17.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_17-bad.dir/CWE396_Catch_Generic_Exception__dotdotdot_17.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_18-good.dir/CWE396_Catch_Generic_Exception__dotdotdot_18.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_18.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_18.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_18-good.dir/CWE396_Catch_Generic_Exception__dotdotdot_18.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_18-bad.dir/CWE396_Catch_Generic_Exception__dotdotdot_18.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_18.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__dotdotdot_18.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__dotdotdot_18-bad.dir/CWE396_Catch_Generic_Exception__dotdotdot_18.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_01-good.dir/CWE396_Catch_Generic_Exception__exception_01.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_01.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_01.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_01-good.dir/CWE396_Catch_Generic_Exception__exception_01.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_01-bad.dir/CWE396_Catch_Generic_Exception__exception_01.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_01.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_01.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_01-bad.dir/CWE396_Catch_Generic_Exception__exception_01.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_02-good.dir/CWE396_Catch_Generic_Exception__exception_02.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_02.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_02.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_02-good.dir/CWE396_Catch_Generic_Exception__exception_02.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_02-bad.dir/CWE396_Catch_Generic_Exception__exception_02.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_02.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_02.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_02-bad.dir/CWE396_Catch_Generic_Exception__exception_02.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_03-good.dir/CWE396_Catch_Generic_Exception__exception_03.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_03.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_03.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_03-good.dir/CWE396_Catch_Generic_Exception__exception_03.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_03-bad.dir/CWE396_Catch_Generic_Exception__exception_03.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_03.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_03.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_03-bad.dir/CWE396_Catch_Generic_Exception__exception_03.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_04-good.dir/CWE396_Catch_Generic_Exception__exception_04.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_04.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_04.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_04-good.dir/CWE396_Catch_Generic_Exception__exception_04.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_04-bad.dir/CWE396_Catch_Generic_Exception__exception_04.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_04.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_04.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_04-bad.dir/CWE396_Catch_Generic_Exception__exception_04.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_05-good.dir/CWE396_Catch_Generic_Exception__exception_05.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_05.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_05.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_05-good.dir/CWE396_Catch_Generic_Exception__exception_05.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_05-bad.dir/CWE396_Catch_Generic_Exception__exception_05.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_05.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_05.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_05-bad.dir/CWE396_Catch_Generic_Exception__exception_05.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_06-good.dir/CWE396_Catch_Generic_Exception__exception_06.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_06.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_06.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_06-good.dir/CWE396_Catch_Generic_Exception__exception_06.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_06-bad.dir/CWE396_Catch_Generic_Exception__exception_06.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_06.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_06.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_06-bad.dir/CWE396_Catch_Generic_Exception__exception_06.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_07-good.dir/CWE396_Catch_Generic_Exception__exception_07.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_07.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_07.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_07-good.dir/CWE396_Catch_Generic_Exception__exception_07.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_07-bad.dir/CWE396_Catch_Generic_Exception__exception_07.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_07.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_07.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_07-bad.dir/CWE396_Catch_Generic_Exception__exception_07.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_08-good.dir/CWE396_Catch_Generic_Exception__exception_08.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_08.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_08.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_08-good.dir/CWE396_Catch_Generic_Exception__exception_08.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_08-bad.dir/CWE396_Catch_Generic_Exception__exception_08.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_08.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_08.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_08-bad.dir/CWE396_Catch_Generic_Exception__exception_08.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_09-good.dir/CWE396_Catch_Generic_Exception__exception_09.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_09.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_09.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_09-good.dir/CWE396_Catch_Generic_Exception__exception_09.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_09-bad.dir/CWE396_Catch_Generic_Exception__exception_09.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_09.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_09.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_09-bad.dir/CWE396_Catch_Generic_Exception__exception_09.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_10-good.dir/CWE396_Catch_Generic_Exception__exception_10.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_10.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_10.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_10-good.dir/CWE396_Catch_Generic_Exception__exception_10.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_10-bad.dir/CWE396_Catch_Generic_Exception__exception_10.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_10.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_10.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_10-bad.dir/CWE396_Catch_Generic_Exception__exception_10.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_11-good.dir/CWE396_Catch_Generic_Exception__exception_11.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_11.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_11.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_11-good.dir/CWE396_Catch_Generic_Exception__exception_11.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_11-bad.dir/CWE396_Catch_Generic_Exception__exception_11.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_11.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_11.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_11-bad.dir/CWE396_Catch_Generic_Exception__exception_11.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_12-good.dir/CWE396_Catch_Generic_Exception__exception_12.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_12.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_12.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_12-good.dir/CWE396_Catch_Generic_Exception__exception_12.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_12-bad.dir/CWE396_Catch_Generic_Exception__exception_12.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_12.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_12.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_12-bad.dir/CWE396_Catch_Generic_Exception__exception_12.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_13-good.dir/CWE396_Catch_Generic_Exception__exception_13.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_13.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_13.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_13-good.dir/CWE396_Catch_Generic_Exception__exception_13.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_13-bad.dir/CWE396_Catch_Generic_Exception__exception_13.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_13.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_13.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_13-bad.dir/CWE396_Catch_Generic_Exception__exception_13.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_14-good.dir/CWE396_Catch_Generic_Exception__exception_14.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_14.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_14.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_14-good.dir/CWE396_Catch_Generic_Exception__exception_14.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_14-bad.dir/CWE396_Catch_Generic_Exception__exception_14.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_14.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_14.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_14-bad.dir/CWE396_Catch_Generic_Exception__exception_14.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_15-good.dir/CWE396_Catch_Generic_Exception__exception_15.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_15.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_15.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_15-good.dir/CWE396_Catch_Generic_Exception__exception_15.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_15-bad.dir/CWE396_Catch_Generic_Exception__exception_15.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_15.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_15.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_15-bad.dir/CWE396_Catch_Generic_Exception__exception_15.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_16-good.dir/CWE396_Catch_Generic_Exception__exception_16.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_16.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_16.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_16-good.dir/CWE396_Catch_Generic_Exception__exception_16.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_16-bad.dir/CWE396_Catch_Generic_Exception__exception_16.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_16.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_16.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_16-bad.dir/CWE396_Catch_Generic_Exception__exception_16.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_17-good.dir/CWE396_Catch_Generic_Exception__exception_17.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_17.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_17.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_17-good.dir/CWE396_Catch_Generic_Exception__exception_17.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_17-bad.dir/CWE396_Catch_Generic_Exception__exception_17.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_17.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_17.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_17-bad.dir/CWE396_Catch_Generic_Exception__exception_17.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_18-good.dir/CWE396_Catch_Generic_Exception__exception_18.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_18.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_18.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_18-good.dir/CWE396_Catch_Generic_Exception__exception_18.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_18-bad.dir/CWE396_Catch_Generic_Exception__exception_18.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_18.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_18.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_18-bad.dir/CWE396_Catch_Generic_Exception__exception_18.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_01-good.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_01.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_01.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_01.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_01-good.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_01.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_01-bad.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_01.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_01.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_01.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_01-bad.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_01.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_02-good.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_02.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_02.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_02.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_02-good.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_02.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_02-bad.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_02.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_02.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_02.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_02-bad.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_02.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_03-good.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_03.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_03.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_03.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_03-good.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_03.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_03-bad.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_03.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_03.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_03.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_03-bad.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_03.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_04-good.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_04.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_04.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_04.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_04-good.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_04.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_04-bad.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_04.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_04.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_04.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_04-bad.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_04.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_05-good.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_05.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_05.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_05.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_05-good.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_05.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_05-bad.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_05.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_05.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_05.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_05-bad.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_05.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_06-good.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_06.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_06.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_06.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_06-good.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_06.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_06-bad.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_06.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_06.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_06.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_06-bad.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_06.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_07-good.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_07.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_07.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_07.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_07-good.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_07.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_07-bad.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_07.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_07.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_07.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_07-bad.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_07.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_08-good.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_08.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_08.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_08.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_08-good.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_08.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_08-bad.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_08.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_08.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_08.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_08-bad.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_08.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_09-good.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_09.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_09.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_09.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_09-good.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_09.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_09-bad.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_09.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_09.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_09.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_09-bad.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_09.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_10-good.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_10.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_10.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_10.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_10-good.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_10.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_10-bad.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_10.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_10.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_10.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_10-bad.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_10.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_11-good.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_11.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_11.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_11.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_11-good.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_11.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_11-bad.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_11.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_11.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_11.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_11-bad.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_11.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_12-good.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_12.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_12.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_12.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_12-good.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_12.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_12-bad.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_12.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_12.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_12.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_12-bad.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_12.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_13-good.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_13.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_13.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_13.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_13-good.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_13.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_13-bad.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_13.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_13.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_13.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_13-bad.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_13.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_14-good.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_14.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_14.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_14.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_14-good.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_14.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_14-bad.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_14.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_14.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_14.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_14-bad.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_14.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_15-good.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_15.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_15.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_15.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_15-good.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_15.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_15-bad.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_15.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_15.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_15.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_15-bad.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_15.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_16-good.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_16.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_16.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_16.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_16-good.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_16.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_16-bad.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_16.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_16.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_16.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_16-bad.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_16.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_17-good.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_17.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_17.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_17.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_17-good.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_17.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_17-bad.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_17.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_17.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_17.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_17-bad.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_17.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_18-good.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_18.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_18.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_18.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_18-good.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_18.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/../../testcasesupport -O0 -o CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_18-bad.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_18.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_18.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__exception_and_domain_error_18.cpp",
+  "output": "CMakeFiles/CWE396_Catch_Generic_Exception__exception_and_domain_error_18-bad.dir/CWE396_Catch_Generic_Exception__exception_and_domain_error_18.cpp.o"
+}
+]

@@ -1,0 +1,446 @@
+[
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c",
+  "output": "CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c",
+  "output": "CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_01-good.dir/CWE366_Race_Condition_Within_Thread__global_int_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_01.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_01-good.dir/CWE366_Race_Condition_Within_Thread__global_int_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_01-bad.dir/CWE366_Race_Condition_Within_Thread__global_int_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_01.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_01-bad.dir/CWE366_Race_Condition_Within_Thread__global_int_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_02-good.dir/CWE366_Race_Condition_Within_Thread__global_int_02.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_02.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_02.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_02-good.dir/CWE366_Race_Condition_Within_Thread__global_int_02.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_02-bad.dir/CWE366_Race_Condition_Within_Thread__global_int_02.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_02.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_02.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_02-bad.dir/CWE366_Race_Condition_Within_Thread__global_int_02.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_03-good.dir/CWE366_Race_Condition_Within_Thread__global_int_03.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_03.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_03.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_03-good.dir/CWE366_Race_Condition_Within_Thread__global_int_03.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_03-bad.dir/CWE366_Race_Condition_Within_Thread__global_int_03.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_03.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_03.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_03-bad.dir/CWE366_Race_Condition_Within_Thread__global_int_03.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_04-good.dir/CWE366_Race_Condition_Within_Thread__global_int_04.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_04.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_04.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_04-good.dir/CWE366_Race_Condition_Within_Thread__global_int_04.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_04-bad.dir/CWE366_Race_Condition_Within_Thread__global_int_04.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_04.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_04.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_04-bad.dir/CWE366_Race_Condition_Within_Thread__global_int_04.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_05-good.dir/CWE366_Race_Condition_Within_Thread__global_int_05.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_05.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_05.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_05-good.dir/CWE366_Race_Condition_Within_Thread__global_int_05.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_05-bad.dir/CWE366_Race_Condition_Within_Thread__global_int_05.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_05.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_05.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_05-bad.dir/CWE366_Race_Condition_Within_Thread__global_int_05.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_06-good.dir/CWE366_Race_Condition_Within_Thread__global_int_06.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_06.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_06.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_06-good.dir/CWE366_Race_Condition_Within_Thread__global_int_06.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_06-bad.dir/CWE366_Race_Condition_Within_Thread__global_int_06.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_06.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_06.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_06-bad.dir/CWE366_Race_Condition_Within_Thread__global_int_06.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_07-good.dir/CWE366_Race_Condition_Within_Thread__global_int_07.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_07.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_07.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_07-good.dir/CWE366_Race_Condition_Within_Thread__global_int_07.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_07-bad.dir/CWE366_Race_Condition_Within_Thread__global_int_07.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_07.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_07.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_07-bad.dir/CWE366_Race_Condition_Within_Thread__global_int_07.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_08-good.dir/CWE366_Race_Condition_Within_Thread__global_int_08.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_08.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_08.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_08-good.dir/CWE366_Race_Condition_Within_Thread__global_int_08.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_08-bad.dir/CWE366_Race_Condition_Within_Thread__global_int_08.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_08.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_08.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_08-bad.dir/CWE366_Race_Condition_Within_Thread__global_int_08.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_09-good.dir/CWE366_Race_Condition_Within_Thread__global_int_09.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_09.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_09.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_09-good.dir/CWE366_Race_Condition_Within_Thread__global_int_09.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_09-bad.dir/CWE366_Race_Condition_Within_Thread__global_int_09.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_09.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_09.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_09-bad.dir/CWE366_Race_Condition_Within_Thread__global_int_09.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_10-good.dir/CWE366_Race_Condition_Within_Thread__global_int_10.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_10.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_10.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_10-good.dir/CWE366_Race_Condition_Within_Thread__global_int_10.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_10-bad.dir/CWE366_Race_Condition_Within_Thread__global_int_10.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_10.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_10.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_10-bad.dir/CWE366_Race_Condition_Within_Thread__global_int_10.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_11-good.dir/CWE366_Race_Condition_Within_Thread__global_int_11.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_11.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_11.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_11-good.dir/CWE366_Race_Condition_Within_Thread__global_int_11.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_11-bad.dir/CWE366_Race_Condition_Within_Thread__global_int_11.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_11.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_11.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_11-bad.dir/CWE366_Race_Condition_Within_Thread__global_int_11.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_12-good.dir/CWE366_Race_Condition_Within_Thread__global_int_12.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_12.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_12.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_12-good.dir/CWE366_Race_Condition_Within_Thread__global_int_12.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_12-bad.dir/CWE366_Race_Condition_Within_Thread__global_int_12.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_12.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_12.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_12-bad.dir/CWE366_Race_Condition_Within_Thread__global_int_12.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_13-good.dir/CWE366_Race_Condition_Within_Thread__global_int_13.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_13.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_13.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_13-good.dir/CWE366_Race_Condition_Within_Thread__global_int_13.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_13-bad.dir/CWE366_Race_Condition_Within_Thread__global_int_13.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_13.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_13.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_13-bad.dir/CWE366_Race_Condition_Within_Thread__global_int_13.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_14-good.dir/CWE366_Race_Condition_Within_Thread__global_int_14.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_14.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_14.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_14-good.dir/CWE366_Race_Condition_Within_Thread__global_int_14.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_14-bad.dir/CWE366_Race_Condition_Within_Thread__global_int_14.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_14.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_14.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_14-bad.dir/CWE366_Race_Condition_Within_Thread__global_int_14.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_15-good.dir/CWE366_Race_Condition_Within_Thread__global_int_15.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_15.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_15.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_15-good.dir/CWE366_Race_Condition_Within_Thread__global_int_15.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_15-bad.dir/CWE366_Race_Condition_Within_Thread__global_int_15.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_15.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_15.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_15-bad.dir/CWE366_Race_Condition_Within_Thread__global_int_15.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_16-good.dir/CWE366_Race_Condition_Within_Thread__global_int_16.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_16.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_16.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_16-good.dir/CWE366_Race_Condition_Within_Thread__global_int_16.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_16-bad.dir/CWE366_Race_Condition_Within_Thread__global_int_16.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_16.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_16.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_16-bad.dir/CWE366_Race_Condition_Within_Thread__global_int_16.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_17-good.dir/CWE366_Race_Condition_Within_Thread__global_int_17.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_17.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_17.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_17-good.dir/CWE366_Race_Condition_Within_Thread__global_int_17.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_17-bad.dir/CWE366_Race_Condition_Within_Thread__global_int_17.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_17.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_17.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_17-bad.dir/CWE366_Race_Condition_Within_Thread__global_int_17.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_18-good.dir/CWE366_Race_Condition_Within_Thread__global_int_18.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_18.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_18.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_18-good.dir/CWE366_Race_Condition_Within_Thread__global_int_18.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_18-bad.dir/CWE366_Race_Condition_Within_Thread__global_int_18.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_18.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__global_int_18.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__global_int_18-bad.dir/CWE366_Race_Condition_Within_Thread__global_int_18.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_01-good.dir/CWE366_Race_Condition_Within_Thread__int_byref_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_01.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_01-good.dir/CWE366_Race_Condition_Within_Thread__int_byref_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_01-bad.dir/CWE366_Race_Condition_Within_Thread__int_byref_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_01.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_01-bad.dir/CWE366_Race_Condition_Within_Thread__int_byref_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_02-good.dir/CWE366_Race_Condition_Within_Thread__int_byref_02.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_02.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_02.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_02-good.dir/CWE366_Race_Condition_Within_Thread__int_byref_02.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_02-bad.dir/CWE366_Race_Condition_Within_Thread__int_byref_02.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_02.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_02.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_02-bad.dir/CWE366_Race_Condition_Within_Thread__int_byref_02.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_03-good.dir/CWE366_Race_Condition_Within_Thread__int_byref_03.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_03.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_03.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_03-good.dir/CWE366_Race_Condition_Within_Thread__int_byref_03.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_03-bad.dir/CWE366_Race_Condition_Within_Thread__int_byref_03.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_03.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_03.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_03-bad.dir/CWE366_Race_Condition_Within_Thread__int_byref_03.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_04-good.dir/CWE366_Race_Condition_Within_Thread__int_byref_04.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_04.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_04.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_04-good.dir/CWE366_Race_Condition_Within_Thread__int_byref_04.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_04-bad.dir/CWE366_Race_Condition_Within_Thread__int_byref_04.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_04.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_04.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_04-bad.dir/CWE366_Race_Condition_Within_Thread__int_byref_04.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_05-good.dir/CWE366_Race_Condition_Within_Thread__int_byref_05.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_05.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_05.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_05-good.dir/CWE366_Race_Condition_Within_Thread__int_byref_05.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_05-bad.dir/CWE366_Race_Condition_Within_Thread__int_byref_05.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_05.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_05.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_05-bad.dir/CWE366_Race_Condition_Within_Thread__int_byref_05.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_06-good.dir/CWE366_Race_Condition_Within_Thread__int_byref_06.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_06.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_06.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_06-good.dir/CWE366_Race_Condition_Within_Thread__int_byref_06.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_06-bad.dir/CWE366_Race_Condition_Within_Thread__int_byref_06.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_06.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_06.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_06-bad.dir/CWE366_Race_Condition_Within_Thread__int_byref_06.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_07-good.dir/CWE366_Race_Condition_Within_Thread__int_byref_07.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_07.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_07.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_07-good.dir/CWE366_Race_Condition_Within_Thread__int_byref_07.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_07-bad.dir/CWE366_Race_Condition_Within_Thread__int_byref_07.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_07.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_07.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_07-bad.dir/CWE366_Race_Condition_Within_Thread__int_byref_07.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_08-good.dir/CWE366_Race_Condition_Within_Thread__int_byref_08.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_08.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_08.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_08-good.dir/CWE366_Race_Condition_Within_Thread__int_byref_08.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_08-bad.dir/CWE366_Race_Condition_Within_Thread__int_byref_08.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_08.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_08.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_08-bad.dir/CWE366_Race_Condition_Within_Thread__int_byref_08.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_09-good.dir/CWE366_Race_Condition_Within_Thread__int_byref_09.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_09.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_09.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_09-good.dir/CWE366_Race_Condition_Within_Thread__int_byref_09.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_09-bad.dir/CWE366_Race_Condition_Within_Thread__int_byref_09.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_09.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_09.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_09-bad.dir/CWE366_Race_Condition_Within_Thread__int_byref_09.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_10-good.dir/CWE366_Race_Condition_Within_Thread__int_byref_10.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_10.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_10.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_10-good.dir/CWE366_Race_Condition_Within_Thread__int_byref_10.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_10-bad.dir/CWE366_Race_Condition_Within_Thread__int_byref_10.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_10.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_10.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_10-bad.dir/CWE366_Race_Condition_Within_Thread__int_byref_10.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_11-good.dir/CWE366_Race_Condition_Within_Thread__int_byref_11.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_11.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_11.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_11-good.dir/CWE366_Race_Condition_Within_Thread__int_byref_11.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_11-bad.dir/CWE366_Race_Condition_Within_Thread__int_byref_11.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_11.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_11.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_11-bad.dir/CWE366_Race_Condition_Within_Thread__int_byref_11.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_12-good.dir/CWE366_Race_Condition_Within_Thread__int_byref_12.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_12.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_12.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_12-good.dir/CWE366_Race_Condition_Within_Thread__int_byref_12.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_12-bad.dir/CWE366_Race_Condition_Within_Thread__int_byref_12.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_12.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_12.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_12-bad.dir/CWE366_Race_Condition_Within_Thread__int_byref_12.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_13-good.dir/CWE366_Race_Condition_Within_Thread__int_byref_13.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_13.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_13.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_13-good.dir/CWE366_Race_Condition_Within_Thread__int_byref_13.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_13-bad.dir/CWE366_Race_Condition_Within_Thread__int_byref_13.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_13.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_13.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_13-bad.dir/CWE366_Race_Condition_Within_Thread__int_byref_13.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_14-good.dir/CWE366_Race_Condition_Within_Thread__int_byref_14.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_14.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_14.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_14-good.dir/CWE366_Race_Condition_Within_Thread__int_byref_14.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_14-bad.dir/CWE366_Race_Condition_Within_Thread__int_byref_14.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_14.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_14.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_14-bad.dir/CWE366_Race_Condition_Within_Thread__int_byref_14.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_15-good.dir/CWE366_Race_Condition_Within_Thread__int_byref_15.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_15.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_15.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_15-good.dir/CWE366_Race_Condition_Within_Thread__int_byref_15.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_15-bad.dir/CWE366_Race_Condition_Within_Thread__int_byref_15.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_15.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_15.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_15-bad.dir/CWE366_Race_Condition_Within_Thread__int_byref_15.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_16-good.dir/CWE366_Race_Condition_Within_Thread__int_byref_16.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_16.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_16.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_16-good.dir/CWE366_Race_Condition_Within_Thread__int_byref_16.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_16-bad.dir/CWE366_Race_Condition_Within_Thread__int_byref_16.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_16.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_16.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_16-bad.dir/CWE366_Race_Condition_Within_Thread__int_byref_16.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_17-good.dir/CWE366_Race_Condition_Within_Thread__int_byref_17.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_17.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_17.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_17-good.dir/CWE366_Race_Condition_Within_Thread__int_byref_17.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_17-bad.dir/CWE366_Race_Condition_Within_Thread__int_byref_17.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_17.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_17.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_17-bad.dir/CWE366_Race_Condition_Within_Thread__int_byref_17.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_18-good.dir/CWE366_Race_Condition_Within_Thread__int_byref_18.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_18.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_18.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_18-good.dir/CWE366_Race_Condition_Within_Thread__int_byref_18.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/../../testcasesupport -O0 -o CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_18-bad.dir/CWE366_Race_Condition_Within_Thread__int_byref_18.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_18.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE366_Race_Condition_Within_Thread/CWE366_Race_Condition_Within_Thread__int_byref_18.c",
+  "output": "CMakeFiles/CWE366_Race_Condition_Within_Thread__int_byref_18-bad.dir/CWE366_Race_Condition_Within_Thread__int_byref_18.c.o"
+}
+]

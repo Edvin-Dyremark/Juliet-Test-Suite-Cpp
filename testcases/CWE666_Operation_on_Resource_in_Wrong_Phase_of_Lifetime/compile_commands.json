@@ -1,0 +1,1094 @@
+[
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c",
+  "output": "CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c",
+  "output": "CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_01-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_01.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_01-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_01-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_01.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_01-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_02-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_02.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_02.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_02.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_02-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_02.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_02-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_02.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_02.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_02.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_02-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_02.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_03-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_03.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_03.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_03.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_03-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_03.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_03-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_03.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_03.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_03.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_03-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_03.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_04-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_04.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_04.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_04.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_04-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_04.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_04-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_04.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_04.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_04.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_04-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_04.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_05-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_05.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_05.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_05.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_05-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_05.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_05-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_05.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_05.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_05.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_05-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_05.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_06-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_06.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_06.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_06.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_06-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_06.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_06-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_06.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_06.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_06.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_06-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_06.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_07-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_07.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_07.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_07.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_07-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_07.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_07-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_07.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_07.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_07.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_07-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_07.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_08-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_08.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_08.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_08.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_08-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_08.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_08-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_08.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_08.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_08.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_08-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_08.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_09-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_09.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_09.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_09.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_09-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_09.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_09-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_09.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_09.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_09.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_09-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_09.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_10-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_10.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_10.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_10.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_10-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_10.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_10-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_10.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_10.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_10.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_10-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_10.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_11-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_11.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_11.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_11.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_11-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_11.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_11-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_11.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_11.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_11.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_11-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_11.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_12-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_12.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_12.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_12.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_12-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_12.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_12-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_12.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_12.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_12.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_12-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_12.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_13-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_13.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_13.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_13.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_13-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_13.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_13-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_13.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_13.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_13.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_13-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_13.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_14-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_14.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_14.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_14.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_14-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_14.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_14-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_14.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_14.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_14.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_14-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_14.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_15-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_15.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_15.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_15.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_15-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_15.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_15-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_15.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_15.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_15.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_15-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_15.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_16-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_16.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_16.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_16.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_16-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_16.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_16-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_16.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_16.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_16.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_16-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_16.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_17-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_17.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_17.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_17.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_17-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_17.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_17-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_17.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_17.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_17.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_17-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_17.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_18-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_18.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_18.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_18.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_18-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_18.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_18-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_18.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_18.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_18.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_18-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_bind_listen_18.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_01-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_01.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_01-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_01-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_01.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_01-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_02-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_02.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_02.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_02.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_02-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_02.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_02-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_02.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_02.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_02.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_02-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_02.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_03-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_03.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_03.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_03.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_03-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_03.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_03-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_03.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_03.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_03.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_03-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_03.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_04-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_04.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_04.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_04.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_04-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_04.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_04-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_04.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_04.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_04.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_04-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_04.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_05-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_05.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_05.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_05.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_05-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_05.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_05-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_05.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_05.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_05.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_05-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_05.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_06-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_06.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_06.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_06.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_06-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_06.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_06-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_06.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_06.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_06.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_06-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_06.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_07-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_07.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_07.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_07.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_07-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_07.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_07-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_07.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_07.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_07.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_07-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_07.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_08-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_08.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_08.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_08.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_08-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_08.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_08-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_08.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_08.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_08.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_08-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_08.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_09-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_09.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_09.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_09.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_09-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_09.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_09-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_09.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_09.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_09.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_09-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_09.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_10-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_10.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_10.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_10.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_10-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_10.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_10-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_10.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_10.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_10.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_10-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_10.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_11-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_11.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_11.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_11.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_11-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_11.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_11-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_11.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_11.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_11.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_11-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_11.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_12-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_12.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_12.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_12.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_12-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_12.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_12-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_12.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_12.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_12.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_12-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_12.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_13-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_13.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_13.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_13.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_13-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_13.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_13-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_13.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_13.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_13.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_13-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_13.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_14-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_14.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_14.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_14.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_14-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_14.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_14-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_14.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_14.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_14.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_14-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_14.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_15-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_15.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_15.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_15.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_15-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_15.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_15-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_15.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_15.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_15.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_15-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_15.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_16-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_16.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_16.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_16.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_16-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_16.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_16-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_16.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_16.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_16.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_16-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_16.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_17-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_17.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_17.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_17.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_17-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_17.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_17-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_17.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_17.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_17.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_17-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_17.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_18-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_18.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_18.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_18.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_18-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_18.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_18-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_18.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_18.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_18.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_18-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__accept_listen_bind_18.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_01-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_01.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_01-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_01-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_01.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_01-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_02-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_02.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_02.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_02.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_02-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_02.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_02-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_02.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_02.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_02.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_02-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_02.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_03-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_03.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_03.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_03.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_03-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_03.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_03-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_03.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_03.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_03.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_03-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_03.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_04-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_04.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_04.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_04.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_04-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_04.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_04-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_04.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_04.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_04.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_04-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_04.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_05-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_05.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_05.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_05.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_05-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_05.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_05-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_05.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_05.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_05.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_05-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_05.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_06-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_06.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_06.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_06.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_06-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_06.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_06-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_06.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_06.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_06.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_06-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_06.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_07-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_07.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_07.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_07.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_07-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_07.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_07-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_07.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_07.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_07.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_07-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_07.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_08-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_08.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_08.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_08.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_08-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_08.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_08-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_08.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_08.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_08.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_08-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_08.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_09-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_09.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_09.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_09.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_09-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_09.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_09-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_09.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_09.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_09.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_09-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_09.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_10-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_10.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_10.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_10.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_10-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_10.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_10-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_10.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_10.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_10.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_10-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_10.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_11-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_11.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_11.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_11.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_11-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_11.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_11-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_11.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_11.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_11.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_11-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_11.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_12-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_12.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_12.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_12.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_12-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_12.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_12-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_12.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_12.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_12.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_12-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_12.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_13-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_13.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_13.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_13.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_13-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_13.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_13-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_13.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_13.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_13.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_13-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_13.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_14-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_14.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_14.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_14.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_14-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_14.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_14-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_14.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_14.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_14.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_14-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_14.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_15-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_15.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_15.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_15.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_15-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_15.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_15-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_15.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_15.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_15.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_15-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_15.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_16-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_16.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_16.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_16.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_16-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_16.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_16-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_16.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_16.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_16.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_16-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_16.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_17-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_17.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_17.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_17.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_17-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_17.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_17-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_17.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_17.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_17.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_17-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_17.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_18-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_18.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_18.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_18.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_18-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_18.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_18-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_18.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_18.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_18.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_18-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__bind_accept_listen_18.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_01-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_01.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_01-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_01-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_01.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_01-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_02-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_02.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_02.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_02.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_02-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_02.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_02-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_02.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_02.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_02.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_02-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_02.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_03-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_03.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_03.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_03.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_03-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_03.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_03-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_03.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_03.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_03.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_03-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_03.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_04-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_04.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_04.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_04.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_04-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_04.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_04-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_04.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_04.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_04.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_04-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_04.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_05-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_05.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_05.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_05.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_05-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_05.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_05-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_05.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_05.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_05.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_05-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_05.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_06-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_06.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_06.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_06.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_06-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_06.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_06-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_06.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_06.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_06.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_06-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_06.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_07-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_07.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_07.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_07.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_07-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_07.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_07-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_07.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_07.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_07.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_07-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_07.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_08-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_08.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_08.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_08.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_08-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_08.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_08-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_08.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_08.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_08.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_08-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_08.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_09-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_09.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_09.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_09.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_09-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_09.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_09-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_09.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_09.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_09.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_09-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_09.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_10-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_10.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_10.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_10.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_10-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_10.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_10-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_10.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_10.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_10.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_10-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_10.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_11-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_11.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_11.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_11.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_11-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_11.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_11-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_11.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_11.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_11.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_11-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_11.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_12-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_12.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_12.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_12.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_12-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_12.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_12-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_12.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_12.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_12.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_12-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_12.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_13-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_13.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_13.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_13.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_13-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_13.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_13-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_13.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_13.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_13.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_13-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_13.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_14-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_14.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_14.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_14.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_14-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_14.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_14-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_14.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_14.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_14.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_14-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_14.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_15-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_15.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_15.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_15.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_15-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_15.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_15-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_15.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_15.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_15.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_15-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_15.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_16-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_16.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_16.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_16.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_16-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_16.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_16-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_16.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_16.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_16.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_16-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_16.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_17-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_17.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_17.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_17.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_17-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_17.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_17-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_17.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_17.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_17.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_17-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_17.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_18-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_18.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_18.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_18.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_18-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_18.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_18-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_18.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_18.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_18.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_18-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_accept_bind_18.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_01-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_01.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_01-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_01-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_01.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_01-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_02-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_02.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_02.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_02.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_02-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_02.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_02-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_02.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_02.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_02.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_02-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_02.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_03-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_03.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_03.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_03.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_03-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_03.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_03-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_03.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_03.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_03.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_03-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_03.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_04-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_04.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_04.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_04.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_04-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_04.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_04-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_04.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_04.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_04.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_04-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_04.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_05-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_05.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_05.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_05.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_05-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_05.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_05-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_05.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_05.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_05.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_05-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_05.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_06-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_06.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_06.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_06.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_06-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_06.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_06-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_06.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_06.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_06.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_06-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_06.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_07-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_07.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_07.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_07.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_07-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_07.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_07-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_07.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_07.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_07.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_07-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_07.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_08-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_08.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_08.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_08.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_08-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_08.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_08-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_08.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_08.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_08.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_08-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_08.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_09-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_09.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_09.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_09.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_09-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_09.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_09-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_09.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_09.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_09.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_09-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_09.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_10-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_10.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_10.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_10.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_10-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_10.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_10-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_10.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_10.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_10.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_10-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_10.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_11-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_11.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_11.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_11.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_11-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_11.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_11-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_11.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_11.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_11.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_11-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_11.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_12-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_12.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_12.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_12.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_12-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_12.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_12-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_12.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_12.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_12.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_12-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_12.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_13-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_13.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_13.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_13.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_13-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_13.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_13-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_13.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_13.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_13.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_13-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_13.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_14-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_14.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_14.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_14.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_14-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_14.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_14-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_14.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_14.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_14.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_14-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_14.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_15-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_15.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_15.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_15.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_15-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_15.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_15-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_15.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_15.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_15.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_15-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_15.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_16-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_16.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_16.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_16.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_16-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_16.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_16-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_16.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_16.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_16.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_16-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_16.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_17-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_17.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_17.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_17.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_17-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_17.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_17-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_17.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_17.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_17.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_17-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_17.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_18-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_18.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_18.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_18.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_18-good.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_18.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/../../testcasesupport -O0 -o CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_18-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_18.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_18.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_18.c",
+  "output": "CMakeFiles/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_18-bad.dir/CWE666_Operation_on_Resource_in_Wrong_Phase_of_Lifetime__listen_bind_accept_18.c.o"
+}
+]

@@ -1,0 +1,394 @@
+STDOUT:
+scan-build: Using '/usr/lib/llvm-18/bin/clang' for static analysis
+[  0%] Built target copy-run-script
+[  1%] Built target support
+[  2%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_02-bad
+[  2%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_01-good
+[  2%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_01-bad
+[  3%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_04-good
+[  3%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_03-good
+[  3%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_04-bad
+[  3%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_02-good
+[  3%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_06-good
+[  3%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_05-good
+[  3%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_08-good
+[  3%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_05-bad
+[  3%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_06-bad
+[  3%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_07-good
+[  4%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_07-bad
+[  4%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_08-bad
+[  4%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_03-bad
+[  4%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_01-good
+[  4%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_04-bad
+[  4%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_02-bad
+[  4%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_01-bad
+[  4%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_04-good
+[  4%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_07-good
+[  4%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_08-bad
+[  4%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_06-good
+[  7%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_06-bad
+[  7%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_03-good
+[  7%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_08-good
+[  7%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_07-bad
+[  7%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_02-good
+[  7%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_05-good
+[  7%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_05-bad
+[  7%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_03-bad
+[  7%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_10-good
+[  7%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_09-bad
+[  8%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_10-bad
+[  8%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_09-good
+[  8%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_11-good
+[  9%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_12-bad
+[  9%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_13-bad
+[  9%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_12-good
+[  9%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_13-good
+[  9%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_11-bad
+[ 10%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_14-good
+[ 10%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_14-bad
+[ 10%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_15-good
+[ 10%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_16-good
+[ 10%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_15-bad
+[ 10%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_16-bad
+[ 10%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_09-bad
+[ 10%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_13-bad
+[ 10%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_10-good
+[ 10%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_14-bad
+[ 10%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_11-good
+[ 10%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_14-good
+[ 10%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_09-good
+[ 10%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_10-bad
+[ 10%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_12-bad
+[ 10%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_12-good
+[ 11%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_13-good
+[ 11%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_15-good
+[ 12%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_11-bad
+[ 13%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_18-good
+[ 13%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_17-good
+[ 12%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_18-bad
+[ 12%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_21-good
+[ 13%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_17-bad
+[ 13%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_15-bad
+[ 13%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_21-bad
+[ 13%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_16-good
+[ 14%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_22-good
+[ 14%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_22-bad
+[ 14%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_31-bad
+[ 14%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_31-good
+[ 15%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_16-bad
+[ 15%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_32-bad
+[ 15%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_32-good
+[ 15%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_33-good
+[ 16%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_33-bad
+[ 16%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_34-good
+[ 16%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_34-bad
+[ 16%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_17-bad
+[ 16%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_21-bad
+[ 17%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_21-good
+[ 17%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_17-good
+[ 17%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_18-good
+[ 17%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_18-bad
+[ 18%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_22-bad
+[ 19%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_41-good
+[ 19%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_42-bad
+[ 19%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_31-bad
+[ 19%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_41-bad
+[ 19%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_31-good
+[ 19%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_42-good
+[ 19%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_32-good
+[ 19%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_43-good
+[ 19%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_43-bad
+[ 19%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_22-good
+[ 20%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_34-good
+[ 20%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_33-good
+[ 20%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_45-good
+[ 21%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_44-bad
+[ 21%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_33-bad
+[ 21%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_45-bad
+[ 21%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_44-good
+[ 22%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_32-bad
+[ 22%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_34-bad
+[ 22%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_51-bad
+[ 22%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_51-good
+[ 22%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_52-good
+[ 22%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_52-bad
+[ 22%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_53-good
+[ 22%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_53-bad
+[ 22%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_41-bad
+[ 22%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_42-good
+[ 22%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_41-good
+[ 22%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_42-bad
+[ 23%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_45-good
+[ 23%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_54-good
+[ 23%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_61-good
+[ 24%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_54-bad
+[ 24%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_44-bad
+[ 24%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_43-good
+[ 25%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_43-bad
+[ 25%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_61-bad
+[ 26%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_62-good
+[ 26%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_63-bad
+[ 26%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_63-good
+[ 26%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_62-bad
+[ 26%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_44-good
+[ 26%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_52-good
+[ 26%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_51-bad
+[ 27%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_51-good
+[ 28%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_53-bad
+[ 28%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_45-bad
+[ 30%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_53-good
+[ 30%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_52-bad
+[ 31%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_64-good
+[ 31%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_65-good
+[ 31%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_64-bad
+[ 31%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_65-bad
+[ 32%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_61-good
+[ 32%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_66-good
+[ 33%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_54-bad
+[ 33%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_67-good
+[ 34%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_54-good
+[ 34%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_67-bad
+[ 34%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_66-bad
+[ 34%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_68-good
+[ 34%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_61-bad
+[ 35%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_68-bad
+[ 36%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_63-bad
+[ 36%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_63-good
+[ 36%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_62-bad
+[ 36%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_72-good
+[ 36%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_62-good
+[ 36%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_74-good
+[ 37%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_73-good
+[ 38%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_64-bad
+[ 38%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_64-good
+[ 38%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_74-bad
+[ 38%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_72-bad
+[ 39%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_65-good
+[ 39%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_73-bad
+[ 39%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_66-bad
+[ 39%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_65-bad
+[ 39%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_67-bad
+[ 41%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_67-good
+[ 41%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_66-good
+[ 41%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_81-good
+[ 42%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_81-bad
+[ 42%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_82-good
+[ 42%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_83-bad
+[ 42%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_82-bad
+[ 42%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_84-bad
+[ 42%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_84-good
+[ 43%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_83-good
+[ 43%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_68-bad
+[ 43%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_68-good
+[ 44%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_01-bad
+[ 44%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_01-good
+[ 44%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_72-good
+[ 45%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_74-good
+[ 45%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_01-good
+[ 46%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_73-good
+[ 46%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_72-bad
+[ 47%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_02-good
+[ 48%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_73-bad
+[ 48%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_02-bad
+[ 48%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_74-bad
+[ 49%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_84-good
+[ 49%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_81-good
+[ 49%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_84-bad
+[ 50%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_83-bad
+[ 50%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_01-bad
+[ 50%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_03-bad
+[ 50%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_81-bad
+[ 51%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_03-good
+[ 51%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_82-bad
+[ 51%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_04-good
+[ 51%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_83-good
+[ 51%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_05-good
+[ 51%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_04-bad
+[ 52%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_05-bad
+[ 52%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_06-bad
+[ 52%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_06-good
+[ 53%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__fopen_82-good
+[ 53%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_07-bad
+[ 54%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_07-good
+[ 54%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_08-good
+[ 54%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_09-good
+[ 54%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_08-bad
+[ 54%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_09-bad
+[ 54%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_02-good
+[ 54%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_02-bad
+[ 54%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_03-bad
+[ 54%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_10-good
+[ 54%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_03-good
+[ 54%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_05-good
+[ 55%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_04-bad
+[ 55%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_04-good
+[ 55%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_11-good
+[ 55%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_11-bad
+[ 56%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_10-bad
+[ 56%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_05-bad
+[ 56%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_07-good
+[ 56%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_06-bad
+[ 56%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_12-bad
+[ 56%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_13-good
+[ 58%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_06-good
+[ 58%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_12-good
+[ 58%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_08-good
+[ 58%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_07-bad
+[ 58%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_08-bad
+[ 58%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_09-good
+[ 59%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_09-bad
+[ 59%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_14-good
+[ 59%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_14-bad
+[ 59%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_15-good
+[ 59%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_13-bad
+[ 59%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_16-good
+[ 60%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_15-bad
+[ 60%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_16-bad
+[ 60%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_17-good
+[ 60%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_17-bad
+[ 60%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_10-good
+[ 61%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_11-good
+[ 61%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_10-bad
+[ 61%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_18-good
+[ 61%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_12-good
+[ 61%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_12-bad
+[ 61%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_13-good
+[ 61%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_21-good
+[ 61%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_18-bad
+[ 61%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_11-bad
+[ 62%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_14-bad
+[ 62%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_14-good
+[ 63%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_21-bad
+[ 63%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_22-good
+[ 64%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_16-good
+[ 64%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_13-bad
+[ 65%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_22-bad
+[ 65%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_17-good
+[ 65%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_16-bad
+[ 65%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_17-bad
+[ 65%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_15-good
+[ 65%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_32-good
+[ 65%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_31-good
+[ 66%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_31-bad
+[ 67%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_32-bad
+[ 67%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_33-good
+[ 67%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_34-good
+[ 67%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_34-bad
+[ 67%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_41-good
+[ 67%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_33-bad
+[ 67%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_15-bad
+[ 67%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_18-good
+[ 68%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_18-bad
+[ 68%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_41-bad
+[ 68%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_21-bad
+[ 68%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_21-good
+[ 68%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_42-good
+[ 68%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_22-good
+[ 68%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_43-good
+[ 69%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_42-bad
+[ 69%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_22-bad
+[ 69%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_43-bad
+[ 69%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_31-bad
+[ 70%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_32-good
+[ 70%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_31-good
+[ 71%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_44-good
+[ 70%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_32-bad
+[ 71%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_44-bad
+[ 71%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_34-bad
+[ 71%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_34-good
+[ 71%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_33-bad
+[ 71%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_45-good
+[ 71%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_41-good
+[ 71%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_45-bad
+[ 72%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_51-good
+[ 72%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_51-bad
+[ 72%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_52-good
+[ 72%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_52-bad
+[ 73%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_41-bad
+[ 73%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_53-good
+[ 73%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_33-good
+[ 73%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_42-good
+[ 73%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_53-bad
+[ 73%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_42-bad
+[ 73%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_54-good
+[ 74%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_43-good
+[ 75%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_61-good
+[ 75%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_54-bad
+[ 75%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_44-good
+[ 75%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_61-bad
+[ 75%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_44-bad
+[ 75%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_43-bad
+[ 75%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_62-good
+[ 75%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_51-good
+[ 75%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_45-bad
+[ 75%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_62-bad
+[ 75%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_63-good
+[ 76%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_53-good
+[ 77%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_51-bad
+[ 77%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_45-good
+[ 77%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_63-bad
+[ 77%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_52-bad
+[ 78%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_53-bad
+[ 79%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_64-bad
+[ 79%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_64-good
+[ 80%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_52-good
+[ 80%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_65-good
+[ 80%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_65-bad
+[ 81%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_66-good
+[ 82%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_54-good
+[ 82%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_66-bad
+[ 83%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_67-good
+[ 84%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_54-bad
+[ 84%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_61-good
+[ 85%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_61-bad
+[ 85%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_67-bad
+[ 86%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_62-good
+[ 86%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_68-bad
+[ 86%] Linking C executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_68-good
+[ 87%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_63-good
+[ 87%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_72-good
+[ 87%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_72-bad
+[ 87%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_63-bad
+[ 87%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_73-good
+[ 87%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_62-bad
+[ 87%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_64-bad
+[ 88%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_73-bad
+[ 88%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_65-good
+[ 88%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_66-good
+[ 89%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_65-bad
+[ 89%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_64-good
+[ 89%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_67-good
+[ 90%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_66-bad
+[ 90%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_74-good
+[ 90%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_74-bad
+[ 90%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_81-good
+[ 91%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_81-bad
+[ 91%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_82-good
+[ 91%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_83-good
+[ 91%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_83-bad
+[ 91%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_82-bad
+[ 91%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/good/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_84-good
+[ 91%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_67-bad
+[ 92%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_68-good
+[ 92%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_68-bad
+[ 92%] Linking CXX executable /home/dyre/exjobb/juliet-test-suite-c/juliet/Clang/CWE773/bad/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_84-bad
+[ 93%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_72-good
+[ 93%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_72-bad
+[ 93%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_73-good
+[ 93%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_73-bad
+[ 94%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_74-good
+[ 94%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_74-bad
+[ 95%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_81-bad
+[ 95%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_82-good
+[ 96%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_81-good
+[ 97%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_83-good
+[ 98%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_82-bad
+[ 99%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_84-good
+[ 99%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_83-bad
+[100%] Built target CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle__open_84-bad
+scan-build: Analysis run complete.
+scan-build: Removing directory '/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE773_Missing_Reference_to_Active_File_Descriptor_or_Handle/scan-build/2025-02-26-140729-162519-1' because it contains no reports.
+scan-build: No bugs found.
+
+STDERR:
+

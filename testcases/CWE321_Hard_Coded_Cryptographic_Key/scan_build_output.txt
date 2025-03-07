@@ -1,0 +1,10 @@
+STDOUT:
+scan-build: Using '/usr/lib/llvm-18/bin/clang' for static analysis
+[ 25%] Built target copy-run-script
+[100%] Built target support
+scan-build: Analysis run complete.
+scan-build: Removing directory '/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE321_Hard_Coded_Cryptographic_Key/scan-build/2025-02-26-140729-162039-1' because it contains no reports.
+scan-build: No bugs found.
+
+STDERR:
+

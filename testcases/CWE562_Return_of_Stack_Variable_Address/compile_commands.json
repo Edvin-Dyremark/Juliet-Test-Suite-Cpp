@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE562_Return_of_Stack_Variable_Address",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE562_Return_of_Stack_Variable_Address/../../testcasesupport -O0 -o CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c",
+  "output": "CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE562_Return_of_Stack_Variable_Address",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE562_Return_of_Stack_Variable_Address/../../testcasesupport -O0 -o CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c",
+  "output": "CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE562_Return_of_Stack_Variable_Address",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE562_Return_of_Stack_Variable_Address/../../testcasesupport -O0 -o CMakeFiles/CWE562_Return_of_Stack_Variable_Address__return_buf_01-good.dir/CWE562_Return_of_Stack_Variable_Address__return_buf_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE562_Return_of_Stack_Variable_Address/CWE562_Return_of_Stack_Variable_Address__return_buf_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE562_Return_of_Stack_Variable_Address/CWE562_Return_of_Stack_Variable_Address__return_buf_01.c",
+  "output": "CMakeFiles/CWE562_Return_of_Stack_Variable_Address__return_buf_01-good.dir/CWE562_Return_of_Stack_Variable_Address__return_buf_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE562_Return_of_Stack_Variable_Address",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE562_Return_of_Stack_Variable_Address/../../testcasesupport -O0 -o CMakeFiles/CWE562_Return_of_Stack_Variable_Address__return_buf_01-bad.dir/CWE562_Return_of_Stack_Variable_Address__return_buf_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE562_Return_of_Stack_Variable_Address/CWE562_Return_of_Stack_Variable_Address__return_buf_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE562_Return_of_Stack_Variable_Address/CWE562_Return_of_Stack_Variable_Address__return_buf_01.c",
+  "output": "CMakeFiles/CWE562_Return_of_Stack_Variable_Address__return_buf_01-bad.dir/CWE562_Return_of_Stack_Variable_Address__return_buf_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE562_Return_of_Stack_Variable_Address",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE562_Return_of_Stack_Variable_Address/../../testcasesupport -O0 -o CMakeFiles/CWE562_Return_of_Stack_Variable_Address__return_local_class_member_01-good.dir/CWE562_Return_of_Stack_Variable_Address__return_local_class_member_01.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE562_Return_of_Stack_Variable_Address/CWE562_Return_of_Stack_Variable_Address__return_local_class_member_01.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE562_Return_of_Stack_Variable_Address/CWE562_Return_of_Stack_Variable_Address__return_local_class_member_01.cpp",
+  "output": "CMakeFiles/CWE562_Return_of_Stack_Variable_Address__return_local_class_member_01-good.dir/CWE562_Return_of_Stack_Variable_Address__return_local_class_member_01.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE562_Return_of_Stack_Variable_Address",
+  "command": "/usr/bin/c++ -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE562_Return_of_Stack_Variable_Address/../../testcasesupport -O0 -o CMakeFiles/CWE562_Return_of_Stack_Variable_Address__return_local_class_member_01-bad.dir/CWE562_Return_of_Stack_Variable_Address__return_local_class_member_01.cpp.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE562_Return_of_Stack_Variable_Address/CWE562_Return_of_Stack_Variable_Address__return_local_class_member_01.cpp",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE562_Return_of_Stack_Variable_Address/CWE562_Return_of_Stack_Variable_Address__return_local_class_member_01.cpp",
+  "output": "CMakeFiles/CWE562_Return_of_Stack_Variable_Address__return_local_class_member_01-bad.dir/CWE562_Return_of_Stack_Variable_Address__return_local_class_member_01.cpp.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE562_Return_of_Stack_Variable_Address",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE562_Return_of_Stack_Variable_Address/../../testcasesupport -O0 -o CMakeFiles/CWE562_Return_of_Stack_Variable_Address__return_pointer_buf_01-good.dir/CWE562_Return_of_Stack_Variable_Address__return_pointer_buf_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE562_Return_of_Stack_Variable_Address/CWE562_Return_of_Stack_Variable_Address__return_pointer_buf_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE562_Return_of_Stack_Variable_Address/CWE562_Return_of_Stack_Variable_Address__return_pointer_buf_01.c",
+  "output": "CMakeFiles/CWE562_Return_of_Stack_Variable_Address__return_pointer_buf_01-good.dir/CWE562_Return_of_Stack_Variable_Address__return_pointer_buf_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE562_Return_of_Stack_Variable_Address",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE562_Return_of_Stack_Variable_Address/../../testcasesupport -O0 -o CMakeFiles/CWE562_Return_of_Stack_Variable_Address__return_pointer_buf_01-bad.dir/CWE562_Return_of_Stack_Variable_Address__return_pointer_buf_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE562_Return_of_Stack_Variable_Address/CWE562_Return_of_Stack_Variable_Address__return_pointer_buf_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE562_Return_of_Stack_Variable_Address/CWE562_Return_of_Stack_Variable_Address__return_pointer_buf_01.c",
+  "output": "CMakeFiles/CWE562_Return_of_Stack_Variable_Address__return_pointer_buf_01-bad.dir/CWE562_Return_of_Stack_Variable_Address__return_pointer_buf_01.c.o"
+}
+]

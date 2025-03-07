@@ -1,0 +1,13 @@
+STDOUT:
+scan-build: Using '/usr/lib/llvm-18/bin/clang' for static analysis
+[ 75%] Built target copy-run-script
+[ 75%] Building C object CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c.o
+[ 75%] Building C object CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c.o
+[100%] Linking C static library /home/dyre/exjobb/juliet-test-suite-c/home/dyre/exjobb/juliet-test-suite-c/bin/support/libsupport.a
+[100%] Built target support
+scan-build: Analysis run complete.
+scan-build: Removing directory '/home/dyre/exjobb/juliet/Clang/2025-02-26-142735-278543-1' because it contains no reports.
+scan-build: No bugs found.
+
+STDERR:
+

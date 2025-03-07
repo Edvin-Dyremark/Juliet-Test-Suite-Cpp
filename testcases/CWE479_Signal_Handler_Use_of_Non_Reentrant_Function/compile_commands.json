@@ -1,0 +1,230 @@
+[
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/../../testcasesupport -O0 -o CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c",
+  "output": "CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/io.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/../../testcasesupport -O0 -o CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c",
+  "output": "CMakeFiles/support.dir/home/dyre/exjobb/juliet-test-suite-c/testcasesupport/std_thread.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/../../testcasesupport -O0 -o CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_01-good.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_01.c",
+  "output": "CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_01-good.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/../../testcasesupport -O0 -o CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_01-bad.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_01.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_01.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_01.c",
+  "output": "CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_01-bad.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_01.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/../../testcasesupport -O0 -o CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_02-good.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_02.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_02.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_02.c",
+  "output": "CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_02-good.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_02.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/../../testcasesupport -O0 -o CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_02-bad.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_02.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_02.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_02.c",
+  "output": "CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_02-bad.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_02.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/../../testcasesupport -O0 -o CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_03-good.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_03.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_03.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_03.c",
+  "output": "CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_03-good.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_03.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/../../testcasesupport -O0 -o CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_03-bad.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_03.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_03.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_03.c",
+  "output": "CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_03-bad.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_03.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/../../testcasesupport -O0 -o CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_04-good.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_04.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_04.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_04.c",
+  "output": "CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_04-good.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_04.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/../../testcasesupport -O0 -o CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_04-bad.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_04.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_04.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_04.c",
+  "output": "CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_04-bad.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_04.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/../../testcasesupport -O0 -o CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_05-good.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_05.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_05.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_05.c",
+  "output": "CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_05-good.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_05.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/../../testcasesupport -O0 -o CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_05-bad.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_05.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_05.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_05.c",
+  "output": "CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_05-bad.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_05.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/../../testcasesupport -O0 -o CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_06-good.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_06.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_06.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_06.c",
+  "output": "CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_06-good.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_06.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/../../testcasesupport -O0 -o CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_06-bad.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_06.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_06.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_06.c",
+  "output": "CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_06-bad.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_06.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/../../testcasesupport -O0 -o CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_07-good.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_07.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_07.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_07.c",
+  "output": "CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_07-good.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_07.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/../../testcasesupport -O0 -o CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_07-bad.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_07.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_07.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_07.c",
+  "output": "CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_07-bad.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_07.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/../../testcasesupport -O0 -o CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_08-good.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_08.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_08.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_08.c",
+  "output": "CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_08-good.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_08.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/../../testcasesupport -O0 -o CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_08-bad.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_08.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_08.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_08.c",
+  "output": "CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_08-bad.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_08.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/../../testcasesupport -O0 -o CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_09-good.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_09.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_09.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_09.c",
+  "output": "CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_09-good.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_09.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/../../testcasesupport -O0 -o CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_09-bad.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_09.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_09.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_09.c",
+  "output": "CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_09-bad.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_09.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/../../testcasesupport -O0 -o CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_10-good.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_10.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_10.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_10.c",
+  "output": "CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_10-good.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_10.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/../../testcasesupport -O0 -o CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_10-bad.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_10.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_10.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_10.c",
+  "output": "CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_10-bad.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_10.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/../../testcasesupport -O0 -o CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_11-good.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_11.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_11.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_11.c",
+  "output": "CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_11-good.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_11.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/../../testcasesupport -O0 -o CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_11-bad.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_11.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_11.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_11.c",
+  "output": "CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_11-bad.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_11.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/../../testcasesupport -O0 -o CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_12-good.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_12.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_12.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_12.c",
+  "output": "CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_12-good.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_12.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/../../testcasesupport -O0 -o CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_12-bad.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_12.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_12.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_12.c",
+  "output": "CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_12-bad.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_12.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/../../testcasesupport -O0 -o CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_13-good.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_13.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_13.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_13.c",
+  "output": "CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_13-good.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_13.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/../../testcasesupport -O0 -o CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_13-bad.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_13.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_13.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_13.c",
+  "output": "CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_13-bad.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_13.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/../../testcasesupport -O0 -o CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_14-good.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_14.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_14.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_14.c",
+  "output": "CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_14-good.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_14.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/../../testcasesupport -O0 -o CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_14-bad.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_14.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_14.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_14.c",
+  "output": "CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_14-bad.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_14.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/../../testcasesupport -O0 -o CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_15-good.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_15.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_15.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_15.c",
+  "output": "CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_15-good.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_15.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/../../testcasesupport -O0 -o CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_15-bad.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_15.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_15.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_15.c",
+  "output": "CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_15-bad.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_15.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/../../testcasesupport -O0 -o CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_16-good.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_16.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_16.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_16.c",
+  "output": "CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_16-good.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_16.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/../../testcasesupport -O0 -o CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_16-bad.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_16.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_16.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_16.c",
+  "output": "CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_16-bad.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_16.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/../../testcasesupport -O0 -o CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_17-good.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_17.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_17.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_17.c",
+  "output": "CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_17-good.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_17.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/../../testcasesupport -O0 -o CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_17-bad.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_17.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_17.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_17.c",
+  "output": "CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_17-bad.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_17.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITBAD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/../../testcasesupport -O0 -o CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_18-good.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_18.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_18.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_18.c",
+  "output": "CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_18-good.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_18.c.o"
+},
+{
+  "directory": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function",
+  "command": "/usr/bin/cc -DINCLUDEMAIN -DOMITGOOD -I/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/../../testcasesupport -O0 -o CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_18-bad.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_18.c.o -c /home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_18.c",
+  "file": "/home/dyre/exjobb/juliet-test-suite-c/testcases/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_18.c",
+  "output": "CMakeFiles/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_18-bad.dir/CWE479_Signal_Handler_Use_of_Non_Reentrant_Function__basic_18.c.o"
+}
+]
